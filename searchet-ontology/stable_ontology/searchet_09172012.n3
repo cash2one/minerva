@@ -1,0 +1,2795 @@
+@prefix alchemyapi: <http://www.alchemyapi.com/api/entity/types.html#> .
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+@prefix extractiv: <http://wiki.extractiv.com/w/page/29179775/Entity-Extraction#> .
+@prefix freebase: <http://schemas.freebaseapps.com/type?id=> .
+@prefix opencalais: <http://www.opencalais.com/documentation/calais-web-service-api/api-metadata/entity-index-and-definitions#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix searchet: <http://searchet.baidu.com/ontology#> .
+@prefix wikimeta: <http://www.wikimeta.com/> .
+@prefix zemanta: <http://developer.zemanta.com/docs/entity_type/> .
+
+searchet:Academic a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Academic .
+
+searchet:Accomodation a rdfs:Class;
+    rdfs:subClassOf searchet:Travel;
+    owl:equivalentClass zemanta:accomodation .
+
+searchet:Activity a rdfs:Class;
+    owl:equivalentClass dbpedia:Activity,
+        freebase:BaseTrailsActivity .
+
+searchet:Actor a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass dbpedia:Actor,
+        freebase:BaseFilmspfcActor,
+        freebase:BaseWhedonverseActor,
+        freebase:CvgGame_voice_actor,
+        freebase:FilmActor,
+        freebase:TheaterTheater_actor,
+        freebase:TvTv_actor .
+
+searchet:Address a rdfs:Class;
+    rdfs:subClassOf searchet:PersonalInformation;
+    owl:equivalentClass extractiv:ADDRESS .
+
+searchet:AdministrativeRegion a rdfs:Class;
+    rdfs:subClassOf searchet:StateOrCounty;
+    owl:equivalentClass dbpedia:AdministrativeRegion,
+        freebase:LocationAdministrative_division,
+        alchemyapi:AdministrativeDivision .
+
+searchet:AdultActor a rdfs:Class;
+    rdfs:subClassOf searchet:Actor;
+    owl:equivalentClass dbpedia:AdultActor .
+
+searchet:Age a rdfs:Class;
+    rdfs:subClassOf searchet:PersonalInformation;
+    owl:equivalentClass extractiv:AGE .
+
+searchet:Aircraft a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass dbpedia:Aircraft,
+        freebase:AviationAircraft,
+        extractiv:AIRCRAFT .
+
+searchet:AircraftDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:AircraftDesigner .
+
+searchet:AircraftManufacturer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:AircraftManufacturer .
+
+searchet:Airline a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass dbpedia:Airline,
+        freebase:AviationAirline,
+        extractiv:AIRLINE,
+        alchemyapi:Airline .
+
+searchet:Airport a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Airport,
+        freebase:AviationAirport,
+        alchemyapi:AIRPORT,
+        alchemyapi:Airport .
+
+searchet:AirportOperator a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:AirportOperator .
+
+searchet:Album a rdfs:Class;
+    rdfs:subClassOf searchet:Music,
+        searchet:MusicalWork;
+    owl:equivalentClass dbpedia:Album,
+        zemanta:album,
+        freebase:BaseColtraneJazz_album,
+        freebase:BaseIraqimusicbaseAlbum,
+        freebase:BaseSvocabMusic_album,
+        freebase:MusicAlbum,
+        freebase:MusicLive_album,
+        freebase:UserAldenDefault_domainComedy_album,
+        freebase:UserSynedraDidwhoAlbum,
+        extractiv:ALBUM,
+        opencalais:MusicAlbum .
+
+searchet:Algorithm a rdfs:Class;
+    owl:equivalentClass extractiv:ALGORITHM .
+
+searchet:Ambassador a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Ambassador,
+        freebase:BaseMyhobyAmbassador,
+        extractiv:AMBASSADOR .
+
+searchet:AmericanFootballPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:GridironFootballPlayer;
+    owl:equivalentClass dbpedia:AmericanFootballPlayer,
+        freebase:American_footballFootball_player,
+        freebase:BaseAmericanfootballplayerspeedAmerican_football_player .
+
+searchet:AmericanFootballTeam a rdfs:Class;
+    rdfs:subClassOf searchet:SportsTeam;
+    owl:equivalentClass dbpedia:AmericanFootballTeam,
+        freebase:American_footballFootball_team .
+
+searchet:Amphibian a rdfs:Class;
+    rdfs:subClassOf searchet:Animal;
+    owl:equivalentClass dbpedia:Amphibian .
+
+searchet:AnatomicalStructure a rdfs:Class;
+    owl:equivalentClass dbpedia:AnatomicalStructure,
+        freebase:BaseAnimalsAnatomical_structure,
+        freebase:MedicineAnatomical_structure .
+
+searchet:Animal a rdfs:Class;
+    rdfs:subClassOf searchet:Eukaryote;
+    owl:equivalentClass dbpedia:Animal,
+        freebase:BiologyAnimal .
+
+searchet:Anniversary a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass alchemyapi:Anniversary,
+        opencalais:Anniversary .
+
+searchet:Appointee a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Appointee .
+
+searchet:Arachnid a rdfs:Class;
+    rdfs:subClassOf searchet:Animal;
+    owl:equivalentClass dbpedia:Arachnid .
+
+searchet:Archaea a rdfs:Class;
+    rdfs:subClassOf searchet:Species;
+    owl:equivalentClass dbpedia:Archaea .
+
+searchet:Architect a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Architect,
+        freebase:ArchitectureArchitect,
+        alchemyapi:Architect .
+
+searchet:Architecture a rdfs:Class;
+    owl:equivalentClass zemanta:architecture .
+
+searchet:ArchitectureFirm a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:ArchitectureFirm .
+
+searchet:ArchitectureFirmPartner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ArchitectureFirmPartner .
+
+searchet:Artery a rdfs:Class;
+    rdfs:subClassOf searchet:AnatomicalStructure;
+    owl:equivalentClass dbpedia:Artery,
+        freebase:MedicineArtery .
+
+searchet:Artist a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Artist,
+        zemanta:artist,
+        freebase:BaseMtgbaseMagic_artist,
+        freebase:BaseMusicpfArtist,
+        freebase:BroadcastArtist,
+        freebase:MusicArtist,
+        freebase:Visual_artVisual_artist .
+
+searchet:Astronaut a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Astronaut,
+        freebase:UserBraunguckeDefault_domainCosmonaut,
+        freebase:UserSpatialedSpaceflight_copyAstronaut,
+        alchemyapi:Astronaut .
+
+searchet:Astronomer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Astronomer .
+
+searchet:AstronomicalSurveyProjectOrganization a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:AstronomicalSurveyProjectOrganization .
+
+searchet:Athlete a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Athlete,
+        freebase:SportsPro_athlete,
+        extractiv:Athlete .
+
+searchet:AustralianFootballLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:AustralianFootballLeague .
+
+searchet:Author a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Author .
+
+searchet:AutoRacingLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:AutoRacingLeague .
+
+searchet:Automobile a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass dbpedia:Automobile,
+        freebase:Automotive,
+        extractiv:AUTOMOBILE_MODEL,
+        alchemyapi:Automobile .
+
+searchet:AutomobileCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass extractiv:CAR_COMPANY,
+        alchemyapi:AutomobileCompany .
+
+searchet:AutomobileEngine a rdfs:Class;
+    rdfs:subClassOf searchet:Device;
+    owl:equivalentClass dbpedia:AutomobileEngine,
+        freebase:AutomotiveEngine .
+
+searchet:AutomotiveDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:AutomotiveDesigner .
+
+searchet:Award a rdfs:Class;
+    owl:equivalentClass dbpedia:Award,
+        freebase:AwardAward .
+
+searchet:AwardJudge a rdfs:Class;
+    rdfs:subClassOf searchet:Judge;
+    owl:equivalentClass alchemyapi:AwardJudge .
+
+searchet:AwardNominee a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:AwardNominee .
+
+searchet:AwardPresentingOrganization a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:AwardPresentingOrganization .
+
+searchet:AwardWinner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:AwardWinner .
+
+searchet:Bacteria a rdfs:Class;
+    rdfs:subClassOf searchet:Species;
+    owl:equivalentClass dbpedia:Bacteria .
+
+searchet:BadmintonPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:BadmintonPlayer .
+
+searchet:Band a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:Band,
+        freebase:UserFairestcatBandomBand,
+        freebase:UserSimstw3ntiim0dDefault_domainBand,
+        extractiv:BAND,
+        alchemyapi:MusicGroup .
+
+searchet:BaseballLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:BaseballLeague,
+        freebase:BaseballBaseball_league .
+
+searchet:BasketballCoach a rdfs:Class;
+    rdfs:subClassOf searchet:Coach;
+    owl:equivalentClass alchemyapi:BasketballCoach .
+
+searchet:BasketballLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:BasketballLeague,
+        freebase:BasketballBasketball_conference .
+
+searchet:BasketballPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:BasketballPlayer,
+        freebase:BasketballBasketball_player .
+
+searchet:Bassist a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Bassist .
+
+searchet:Beverage a rdfs:Class;
+    owl:equivalentClass dbpedia:Beverage,
+        freebase:FoodBeverage .
+
+searchet:BicycleManufacturer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:BicycleManufacturer .
+
+searchet:BiologicalWeapon a rdfs:Class;
+    rdfs:subClassOf searchet:Weapon;
+    owl:equivalentClass extractiv:BIOLOGICAL_WEAPON .
+
+searchet:Biology a rdfs:Class;
+    owl:equivalentClass zemanta:biology .
+
+searchet:Bird a rdfs:Class;
+    rdfs:subClassOf searchet:Animal;
+    owl:equivalentClass dbpedia:Bird,
+        extractiv:BIRD .
+
+searchet:Blog a rdfs:Class;
+    rdfs:subClassOf searchet:Internet;
+    owl:equivalentClass zemanta:blog .
+
+searchet:Blogger a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Blogger .
+
+searchet:BluntWeapon a rdfs:Class;
+    rdfs:subClassOf searchet:Weapon;
+    owl:equivalentClass extractiv:BLUNT_WEAPON .
+
+searchet:BoardMember a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:BoardMember .
+
+searchet:BodyOfWater a rdfs:Class;
+    rdfs:subClassOf searchet:GeographicFeature;
+    owl:equivalentClass extractiv:WATER_BODY,
+        alchemyapi:BodyOfWater .
+
+searchet:BombWeapon a rdfs:Class;
+    rdfs:subClassOf searchet:Weapon;
+    owl:equivalentClass extractiv:BOMB_WEAPON .
+
+searchet:Bone a rdfs:Class;
+    rdfs:subClassOf searchet:AnatomicalStructure;
+    owl:equivalentClass dbpedia:Bone,
+        freebase:MedicineBone .
+
+searchet:Book a rdfs:Class;
+    rdfs:subClassOf searchet:Work;
+    owl:equivalentClass dbpedia:Book,
+        zemanta:book,
+        freebase:BookBook .
+
+searchet:BottledWater a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:BottledWater .
+
+searchet:BowlingLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:BowlingLeague .
+
+searchet:Boxer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:Boxer,
+        freebase:SportsBoxer,
+        alchemyapi:Boxer .
+
+searchet:BoxingLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:BoxingLeague .
+
+searchet:Brain a rdfs:Class;
+    rdfs:subClassOf searchet:AnatomicalStructure;
+    owl:equivalentClass dbpedia:Brain,
+        freebase:MedicineBrain .
+
+searchet:Brand a rdfs:Class;
+    rdfs:subClassOf searchet:Business;
+    owl:equivalentClass zemanta:brand .
+
+searchet:BreweryBrandOfBeer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:BreweryBrandOfBeer .
+
+searchet:Bridge a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Bridge,
+        freebase:TransportationBridge,
+        extractiv:BRIDGE,
+        alchemyapi:Bridge .
+
+searchet:BritishRoyalty a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:BritishRoyalty .
+
+searchet:Broadcast a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass zemanta:Broadcast,
+        extractiv:BROADCAST .
+
+searchet:BroadcastArtist a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:BroadcastArtist .
+
+searchet:BroadcastDistributor a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:BroadcastDistributor .
+
+searchet:Building a rdfs:Class;
+    rdfs:subClassOf searchet:Architecture;
+    owl:equivalentClass zemanta:building,
+        extractiv:BUILDING .
+
+searchet:Business a rdfs:Class;
+    owl:equivalentClass zemanta:business .
+
+searchet:CanadianFootballLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:CanadianFootballLeague .
+
+searchet:CanadianFootballPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:GridironFootballPlayer;
+    owl:equivalentClass dbpedia:CanadianFootballPlayer .
+
+searchet:CanadianFootballTeam a rdfs:Class;
+    rdfs:subClassOf searchet:SportsTeam;
+    owl:equivalentClass dbpedia:CanadianFootballTeam,
+        freebase:UserRcheramyDefault_domainFootball_team_canadian .
+
+searchet:Canal a rdfs:Class;
+    rdfs:subClassOf searchet:Stream;
+    owl:equivalentClass dbpedia:Canal,
+        freebase:BaseEngineeringCanal,
+        extractiv:Canal .
+
+searchet:CandyBarManufacturer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:CandyBarManufacturer .
+
+searchet:Cardinal a rdfs:Class;
+    rdfs:subClassOf searchet:Cleric;
+    owl:equivalentClass dbpedia:Cardinal .
+
+searchet:Cave a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass alchemyapi:Cave .
+
+searchet:Celebrity a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Celebrity,
+        freebase:CelebritiesCelebrity,
+        alchemyapi:Celebrity .
+
+searchet:Century a rdfs:Class;
+    owl:equivalentClass extractiv:CENTURY .
+
+searchet:Chancellor a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:Chancellor .
+
+searchet:Chef a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Chef .
+
+searchet:ChemicalCompound a rdfs:Class;
+    owl:equivalentClass dbpedia:ChemicalCompound,
+        freebase:BaseAptamerChemical_compound,
+        freebase:ChemistryChemical_compound .
+
+searchet:ChemicalWeapon a rdfs:Class;
+    rdfs:subClassOf searchet:Weapon;
+    owl:equivalentClass extractiv:CHEMICAL_WEAPON .
+
+searchet:ChessPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ChessPlayer .
+
+searchet:ChivalricOrderFounder a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ChivalricOrderFounder .
+
+searchet:ChivalricOrderMember a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ChivalricOrderMember .
+
+searchet:ChivalricOrderOfficer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ChivalricOrderOfficer .
+
+searchet:ChristianBishop a rdfs:Class;
+    rdfs:subClassOf searchet:Cleric;
+    owl:equivalentClass dbpedia:ChristianBishop .
+
+searchet:City a rdfs:Class;
+    rdfs:subClassOf searchet:Municipality;
+    owl:equivalentClass dbpedia:City,
+        freebase:BaseAareasSchemaEarthCity,
+        freebase:BaseAareasSchemaEarthCitytown,
+        extractiv:CITY,
+        alchemyapi:City,
+        opencalais:City .
+
+searchet:CivilianCraft a rdfs:Class;
+    rdfs:subClassOf searchet:WaterCraft;
+    owl:equivalentClass extractiv:CIVILIAN_WATERCRAFT .
+
+searchet:Cleric a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Cleric .
+
+searchet:Clothing a rdfs:Class;
+    owl:equivalentClass extractiv:CLOTHING .
+
+searchet:Club a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:Club .
+
+searchet:ClubMoss a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass dbpedia:ClubMoss .
+
+searchet:Coach a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass extractiv:COACH .
+
+searchet:Collector a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Collector .
+
+searchet:College a rdfs:Class;
+    rdfs:subClassOf searchet:EducationalInstitution;
+    owl:equivalentClass dbpedia:College,
+        freebase:EducationUniversity .
+
+searchet:CollegeCoach a rdfs:Class;
+    rdfs:subClassOf searchet:Coach;
+    owl:equivalentClass dbpedia:CollegeCoach,
+        freebase:American_footballFootball_coach .
+
+searchet:CollegeUniversity a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:CollegeUniversity .
+
+searchet:Colour a rdfs:Class;
+    owl:equivalentClass dbpedia:Colour,
+        freebase:Visual_artColor,
+        extractiv:COLOUR .
+
+searchet:Comedian a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass dbpedia:Comedian,
+        freebase:BaseAmericancomedyComedian,
+        freebase:UserSteenstrDefault_domainComedian .
+
+searchet:ComicBookColorist a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:ComicBookColorist .
+
+searchet:ComicBookCreator a rdfs:Class;
+    rdfs:subClassOf searchet:ComicsCreator;
+    owl:equivalentClass alchemyapi:ComicBookCreator .
+
+searchet:ComicBookEditor a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ComicBookEditor .
+
+searchet:ComicBookInker a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ComicBookInker .
+
+searchet:ComicBookLetterer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ComicBookLetterer .
+
+searchet:ComicBookPenciler a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:ComicBookPenciler .
+
+searchet:ComicBookPublisher a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:ComicBookPublisher .
+
+searchet:ComicBookWriter a rdfs:Class;
+    rdfs:subClassOf searchet:Writer;
+    owl:equivalentClass alchemyapi:ComicBookWriter .
+
+searchet:ComicStripArtist a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:ComicStripArtist .
+
+searchet:ComicStripCreator a rdfs:Class;
+    rdfs:subClassOf searchet:ComicsCreator;
+    owl:equivalentClass alchemyapi:ComicStripCreator .
+
+searchet:ComicsCharacter a rdfs:Class;
+    rdfs:subClassOf searchet:FictionalCharacter;
+    owl:equivalentClass dbpedia:ComicsCharacter,
+        freebase:Fictional_universeFictional_character,
+        alchemyapi:ComicStripCharacter .
+
+searchet:ComicsCreator a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass dbpedia:ComicsCreator .
+
+searchet:Company a rdfs:Class;
+    rdfs:subClassOf searchet:Business,
+        searchet:Organization;
+    owl:equivalentClass dbpedia:Company,
+        zemanta:company,
+        freebase:AutomotiveCompany,
+        freebase:BasePopstraCompany,
+        freebase:BusinessConsumer_company,
+        freebase:FilmProduction_company,
+        freebase:TheaterTheater_company,
+        extractiv:COMMERCIAL_ORG,
+        alchemyapi:Company,
+        opencalais:Company .
+
+searchet:CompanyAdvisor a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:CompanyAdvisor .
+
+searchet:CompanyFounder a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:CompanyFounder .
+
+searchet:CompanyShareholder a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:CompanyShareholder .
+
+searchet:Composer a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:Composer .
+
+searchet:Computer a rdfs:Class;
+    owl:equivalentClass zemanta:computer .
+
+searchet:ComputerDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ComputerDesigner .
+
+searchet:ComputerManufacturerBrand a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:ComputerManufacturerBrand .
+
+searchet:ComputerScientist a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ComputerScientist .
+
+searchet:ConductedEnsemble a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ConductedEnsemble .
+
+searchet:Conductor a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Conductor .
+
+searchet:Congressman a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:Congressman .
+
+searchet:Conifer a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass dbpedia:Conifer .
+
+searchet:Continent a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Continent,
+        freebase:LocationContinent,
+        extractiv:CONTINENT,
+        alchemyapi:Continent,
+        opencalais:Continent .
+
+searchet:Convention a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass dbpedia:Convention,
+        freebase:ConferencesConference .
+
+searchet:Country a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Country,
+        zemanta:country,
+        extractiv:COUNTRY,
+        alchemyapi:Country,
+        opencalais:Country .
+
+searchet:CricketAdministrativeBody a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:CricketAdministrativeBody .
+
+searchet:CricketBowler a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass alchemyapi:CricketBowler .
+
+searchet:CricketCoach a rdfs:Class;
+    rdfs:subClassOf searchet:Coach;
+    owl:equivalentClass alchemyapi:CricketCoach .
+
+searchet:CricketLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:CricketLeague,
+        freebase:CricketCricket_league .
+
+searchet:CricketPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass alchemyapi:CricketPlayer .
+
+searchet:CricketUmpire a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:CricketUmpire .
+
+searchet:Cricketer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:Cricketer,
+        freebase:CricketCricket_player .
+
+searchet:Crime a rdfs:Class;
+    owl:equivalentClass extractiv:CRIME .
+
+searchet:Criminal a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Criminal,
+        freebase:BaseCrimeConvicted_criminal,
+        freebase:UserDigitalarchivistDefault_domainCriminal,
+        extractiv:CRIMINAL .
+
+searchet:CriminalOrganization a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass extractiv:CRIMINAL_ORGANIZATION .
+
+searchet:Crustacean a rdfs:Class;
+    rdfs:subClassOf searchet:Animal;
+    owl:equivalentClass dbpedia:Crustacean .
+
+searchet:CurlingLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:CurlingLeague .
+
+searchet:Currency a rdfs:Class;
+    owl:equivalentClass dbpedia:Currency,
+        freebase:FinanceCurrency,
+        opencalais:Currency .
+
+searchet:Cycad a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass dbpedia:Cycad .
+
+searchet:CyclingLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:CyclingLeague .
+
+searchet:Cyclist a rdfs:Class;
+    rdfs:subClassOf searchet:Athete;
+    owl:equivalentClass alchemyapi:Cyclist .
+
+searchet:Date a rdfs:Class;
+    owl:equivalentClass extractiv:DATE .
+
+searchet:DateRange a rdfs:Class;
+    owl:equivalentClass extractiv:DATE_RANGE .
+
+searchet:DayName a rdfs:Class;
+    owl:equivalentClass extractiv:DAY_NAME .
+
+searchet:DayOfMonth a rdfs:Class;
+    owl:equivalentClass extractiv:DAY_OF_MONTH .
+
+searchet:Decade a rdfs:Class;
+    owl:equivalentClass extractiv:DECADE .
+
+searchet:Dedicatee a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Dedicatee .
+
+searchet:Dedicator a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Dedicator .
+
+searchet:Deity a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Deity .
+
+searchet:Deputy a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:Deputy .
+
+searchet:Device a rdfs:Class;
+    owl:equivalentClass dbpedia:Device .
+
+searchet:DietFollower a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:DietFollower .
+
+searchet:DigitalMeasure a rdfs:Class;
+    rdfs:subClassOf searchet:FieldTerminology;
+    owl:equivalentClass extractiv:DIGITAL_MEASURE .
+
+searchet:Diplomat a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass extractiv:DIPLOMAT .
+
+searchet:DisasterSurvivor a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:DisasterSurvivor .
+
+searchet:DisasterVictim a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:DisasterVictim .
+
+searchet:Distillery a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:Distillery .
+
+searchet:Doctor a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass extractiv:DOCTOR .
+
+searchet:DomainName a rdfs:Class;
+    rdfs:subClassOf searchet:Internet;
+    owl:equivalentClass extractiv:DOMAIN_NAME .
+
+searchet:DrinkingEstablishment a rdfs:Class;
+    rdfs:subClassOf searchet:Food;
+    owl:equivalentClass zemanta:drinking_establishment .
+
+searchet:Drug a rdfs:Class;
+    owl:equivalentClass dbpedia:Drug,
+        freebase:MedicineCompound_drug,
+        freebase:MedicineDrug,
+        extractiv:Drug,
+        alchemyapi:Drug .
+
+searchet:Drummer a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:Drummer .
+
+searchet:Duration a rdfs:Class;
+    owl:equivalentClass extractiv:DURATION .
+
+searchet:EducationalInstitution a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:EducationalInstitution,
+        zemanta:educational_institution,
+        freebase:EducationEducational_institution,
+        extractiv:EDUCATIONAL_ORG .
+
+searchet:ElectronicsCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass extractiv:ELECTRONICS_ORG .
+
+searchet:ElectronicsMeasure a rdfs:Class;
+    rdfs:subClassOf searchet:FieldTerminology;
+    owl:equivalentClass extractiv:ELECTRONICS_MEASURE .
+
+searchet:ElementDiscoverer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ElementDiscoverer .
+
+searchet:EmailAddress a rdfs:Class;
+    rdfs:subClassOf searchet:PersonalInformation;
+    owl:equivalentClass extractiv:EMAIL,
+        opencalais:EmailAddress .
+
+searchet:Embryology a rdfs:Class;
+    rdfs:subClassOf searchet:AnatomicalStructure;
+    owl:equivalentClass dbpedia:Embryology .
+
+searchet:EngineeringFirm a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:EngineeringFirm .
+
+searchet:EnglishRegion a rdfs:Class;
+    rdfs:subClassOf searchet:Region;
+    owl:equivalentClass alchemyapi:EnglishRegion .
+
+searchet:EntertainmentAward a rdfs:Class;
+    rdfs:subClassOf searchet:Award;
+    owl:equivalentClass extractiv:ENTERTAINMENT_AWARD,
+        alchemyapi:EntertainmentAward .
+
+searchet:EntertainmentAwardEvent a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass opencalais:EntertainmentAwardEvent .
+
+searchet:EntertainmentCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass extractiv:ENTERTAINMENT_ORG .
+
+searchet:EthnicGroup a rdfs:Class;
+    owl:equivalentClass dbpedia:EthnicGroup,
+        zemanta:people,
+        freebase:PeopleEthnicity .
+
+searchet:Eukaryote a rdfs:Class;
+    rdfs:subClassOf searchet:Species;
+    owl:equivalentClass dbpedia:Eukaryote .
+
+searchet:EurovisionSongContestEntry a rdfs:Class;
+    rdfs:subClassOf searchet:Song;
+    owl:equivalentClass dbpedia:EurovisionSongContestEntry,
+        freebase:UserEbelDefault_domainEurovision_song_contest_entry .
+
+searchet:Event a rdfs:Class;
+    rdfs:subClassOf searchet:Time;
+    owl:equivalentClass dbpedia:Event,
+        freebase:TimeEvent .
+
+searchet:Explosive a rdfs:Class;
+    owl:equivalentClass extractiv:EXPLOSIVE .
+
+searchet:FTP a rdfs:Class;
+    rdfs:subClassOf searchet:Internet;
+    owl:equivalentClass extractiv:FTP .
+
+searchet:FashionDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FashionDesigner .
+
+searchet:FashionLabel a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:FashionLabel .
+
+searchet:FaxNumber a rdfs:Class;
+    rdfs:subClassOf searchet:PersonalInformation;
+    owl:equivalentClass opencalais:FaxNumber .
+
+searchet:Fern a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass dbpedia:Fern .
+
+searchet:FictionalCharacter a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:FictionalCharacter,
+        freebase:Fictional_universeFictional_character,
+        alchemyapi:FictionalCreature .
+
+searchet:FictionalUniverseCreator a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FictionalUniverseCreator .
+
+searchet:FieldHockeyLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:FieldHockeyLeague .
+
+searchet:FieldTerminology a rdfs:Class;
+    owl:equivalentClass alchemyapi:FieldTerminology,
+        opencalais:IndustryTerm .
+
+searchet:FigureSkater a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:FigureSkater .
+
+searchet:Film a rdfs:Class;
+    rdfs:subClassOf searchet:Work;
+    owl:equivalentClass dbpedia:Film,
+        freebase:FilmFilm .
+
+searchet:FilmActor a rdfs:Class;
+    rdfs:subClassOf searchet:Actor;
+    owl:equivalentClass extractiv:SCREEN_ACTOR,
+        alchemyapi:FilmActor .
+
+searchet:FilmArtDirector a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmArtDirector .
+
+searchet:FilmCastingDirector a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmCastingDirector .
+
+searchet:FilmCinematographer a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmCinematographer .
+
+searchet:FilmCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:FilmCompany .
+
+searchet:FilmCostumerDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmCostumerDesigner .
+
+searchet:FilmCrewmember a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:FilmCrewmember .
+
+searchet:FilmCritic a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:FilmCritic .
+
+searchet:FilmDirector a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmDirector .
+
+searchet:FilmDistributor a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:FilmDistributor .
+
+searchet:FilmEditor a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmEditor .
+
+searchet:FilmFestival a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass dbpedia:FilmFestival,
+        freebase:FilmFilm_festival .
+
+searchet:FilmGenre a rdfs:Class;
+    owl:equivalentClass extractiv:SCREEN_GENRE .
+
+searchet:FilmMusicContributor a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmMusicContributor .
+
+searchet:FilmProducer a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmProducer .
+
+searchet:FilmProductionDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmProductionDesigner .
+
+searchet:FilmSetDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmSetDesigner .
+
+searchet:FilmTheorist a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:FilmTheorist .
+
+searchet:FilmWriter a rdfs:Class;
+    rdfs:subClassOf searchet:Writer;
+    owl:equivalentClass alchemyapi:Author .
+
+searchet:FinancialCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass extractiv:FINANCIAL_ORG .
+
+searchet:FinancialMarketIndex a rdfs:Class;
+    owl:equivalentClass alchemyapi:FinancialMarketIndex,
+        opencalais:MarketIndex .
+
+searchet:FinancialSupportProvider a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:FinancialSupportProvider .
+
+searchet:Fish a rdfs:Class;
+    rdfs:subClassOf searchet:Animal;
+    owl:equivalentClass dbpedia:Fish,
+        freebase:BaseSchemastagingFish,
+        freebase:UserMrmasterbastardDefault_domainFish_species .
+
+searchet:FloweringPlant a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass dbpedia:FloweringPlant .
+
+searchet:Food a rdfs:Class;
+    owl:equivalentClass zemanta:food .
+
+searchet:FootballCoach a rdfs:Class;
+    rdfs:subClassOf searchet:Coach;
+    owl:equivalentClass alchemyapi:FootballCoach .
+
+searchet:FootballOrganization a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:SportsTeam .
+
+searchet:FootballReferee a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:FootballReferee .
+
+searchet:FootballTeamManager a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:FootballTeamManager .
+
+searchet:FormulaOneRacer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:FormulaOneRacer .
+
+searchet:FoundingFigure a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:FoundingFigure .
+
+searchet:FraternitySorority a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:FraternitySorority .
+
+searchet:FrenchRegion a rdfs:Class;
+    rdfs:subClassOf searchet:Region;
+    owl:equivalentClass alchemyapi:FrenchRegion .
+
+searchet:Fruit a rdfs:Class;
+    owl:equivalentClass extractiv:FRUIT .
+
+searchet:Fungus a rdfs:Class;
+    rdfs:subClassOf searchet:Eukaryote;
+    owl:equivalentClass dbpedia:Fungus,
+        freebase:BaseFungiFungus,
+        freebase:UserPsygnisfiveDefault_domainFungus .
+
+searchet:GaelicGamesPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:GaelicGamesPlayer .
+
+searchet:Game a rdfs:Class;
+    rdfs:subClassOf searchet:Activity;
+    owl:equivalentClass dbpedia:Game,
+        zemanta:game,
+        freebase:GamesGame .
+
+searchet:GameDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:GameDesigner .
+
+searchet:GamePublisher a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:GamePublisher .
+
+searchet:GeographicFeature a rdfs:Class;
+    owl:equivalentClass alchemyapi:GeographicFeature .
+
+searchet:GeologicalFormation a rdfs:Class;
+    rdfs:subClassOf searchet:GeographicFeature;
+    owl:equivalentClass alchemyapi:GeologicalFormation .
+
+searchet:GeopoliticalOrganisation a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:GeopoliticalOrganisation .
+
+searchet:Ginkgo a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass dbpedia:Ginkgo .
+
+searchet:Glacier a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass alchemyapi:Glacier .
+
+searchet:Gnetophytes a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass dbpedia:Gnetophytes .
+
+searchet:GolfLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:GolfLeague .
+
+searchet:Golfer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass alchemyapi:Golfer .
+
+searchet:Government a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass zemanta:government,
+        alchemyapi:GOVERNMENT_ORG .
+
+searchet:GovernmentAgency a rdfs:Class;
+    rdfs:subClassOf searchet:Government;
+    owl:equivalentClass zemanta:government_agency,
+        alchemyapi:GovernmentAgency .
+
+searchet:GovernmentBody a rdfs:Class;
+    rdfs:subClassOf searchet:Government;
+    owl:equivalentClass zemanta:government_body .
+
+searchet:GovernmentalBody a rdfs:Class;
+    owl:equivalentClass zemanta:governmental_body .
+
+searchet:GovernmentalJurisdiction a rdfs:Class;
+    rdfs:subClassOf searchet:StateOrCounty;
+    owl:equivalentClass alchemyapi:GovernmentalJurisdiction .
+
+searchet:Governor a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:Governor,
+        freebase:BasePoldbUs_state_governor_current,
+        freebase:UserMonsterceoDefault_domainGovernor .
+
+searchet:GrandPrix a rdfs:Class;
+    rdfs:subClassOf searchet:SportsEvent;
+    owl:equivalentClass dbpedia:GrandPrix,
+        freebase:BaseFormula1Formula_1_grand_prix .
+
+searchet:Grape a rdfs:Class;
+    rdfs:subClassOf searchet:FloweringPlant;
+    owl:equivalentClass dbpedia:Grape .
+
+searchet:GreenAlga a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass dbpedia:GreenAlga .
+
+searchet:GridironFootballPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:GridironFootballPlayer .
+
+searchet:Guitarist a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:Guitarist .
+
+searchet:Gulf a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass extractiv:GULF .
+
+searchet:HTTP a rdfs:Class;
+    rdfs:subClassOf searchet:Internet;
+    owl:equivalentClass extractiv:HTTP .
+
+searchet:HallOfFameInductee a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:HallOfFameInductee .
+
+searchet:HandballLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:HandballLeague,
+        freebase:BaseHandballHandball_league .
+
+searchet:HealthCondition a rdfs:Class;
+    owl:equivalentClass alchemyapi:HealthCondition .
+
+searchet:Helicopter a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass extractiv:HELICOPTER .
+
+searchet:Hemisphere a rdfs:Class;
+    owl:equivalentClass extractiv:HEMISPHERE .
+
+searchet:HistoricBuilding a rdfs:Class;
+    rdfs:subClassOf searchet:HistoricPlace;
+    owl:equivalentClass dbpedia:HistoricBuilding .
+
+searchet:HistoricPlace a rdfs:Class;
+    rdfs:subClassOf searchet:Place;
+    owl:equivalentClass alchemyapi:HistoricPlace .
+
+searchet:Hobbyist a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Hobbyist .
+
+searchet:HockeyCoach a rdfs:Class;
+    rdfs:subClassOf searchet:Coach;
+    owl:equivalentClass alchemyapi:HockeyCoach .
+
+searchet:HockeyPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass alchemyapi:HockeyPlayer .
+
+searchet:HockeyTeam a rdfs:Class;
+    rdfs:subClassOf searchet:SportsTeam;
+    owl:equivalentClass dbpedia:HockeyTeam,
+        freebase:Ice_hockeyHockey_team .
+
+searchet:Holiday a rdfs:Class;
+    owl:equivalentClass extractiv:HOLIDAY,
+        alchemyapi:Holiday,
+        opencalais:Holiday .
+
+searchet:HonoraryDegreeRecipient a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:HonoraryDegreeRecipient .
+
+searchet:Hospital a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Hospital,
+        freebase:MedicineHospital,
+        extractiv:HOSPITAL,
+        extractiv:MEDICAL_FACILITY,
+        alchemyapi:Hospital .
+
+searchet:IceHockeyLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:IceHockeyLeague,
+        freebase:Ice_hockeyHockey_conference .
+
+searchet:IceHockeyPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:IceHockeyPlayer,
+        freebase:Ice_hockeyHockey_player .
+
+searchet:IllivitDrug a rdfs:Class;
+    rdfs:subClassOf searchet:Drug;
+    owl:equivalentClass extractiv:ILLICIT_DRUG .
+
+searchet:Illness a rdfs:Class;
+    owl:equivalentClass extractiv:ILLNESS .
+
+searchet:Illustrator a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Illustrator .
+
+searchet:Industry a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass zemanta:industry .
+
+searchet:Infrastructure a rdfs:Class;
+    owl:equivalentClass dbpedia:Infrastructure .
+
+searchet:InlineHockeyLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:InlineHockeyLeague .
+
+searchet:Insect a rdfs:Class;
+    rdfs:subClassOf searchet:Animal;
+    owl:equivalentClass dbpedia:Insect,
+        extractiv:INSECT .
+
+searchet:InternationalRegion a rdfs:Class;
+    rdfs:subClassOf searchet:Region;
+    owl:equivalentClass extractiv:INTERNATIONAL_REGION .
+
+searchet:Internet a rdfs:Class;
+    owl:equivalentClass zemanta:internet .
+
+searchet:Interviewer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Interviewer .
+
+searchet:Inventor a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Inventor .
+
+searchet:Island a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Island,
+        freebase:GeographyIsland,
+        extractiv:ISLAND,
+        alchemyapi:Island .
+
+searchet:IslandGroup a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass alchemyapi:IslandGroup .
+
+searchet:ItalianRegion a rdfs:Class;
+    rdfs:subClassOf searchet:Region;
+    owl:equivalentClass alchemyapi:ItalianRegion .
+
+searchet:Journal a rdfs:Class;
+    rdfs:subClassOf searchet:Work;
+    owl:equivalentClass zemanta:journal .
+
+searchet:Journalist a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Journalist .
+
+searchet:Judge a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Judge,
+        freebase:LawJudge .
+
+searchet:LacrosseLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:LacrosseLeague .
+
+searchet:Lake a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass dbpedia:Lake,
+        freebase:BaseLakebaseLake,
+        freebase:GeographyLake_type,
+        freebase:GeographyRiver,
+        extractiv:LAKE,
+        alchemyapi:Lake .
+
+searchet:LandRegion a rdfs:Class;
+    rdfs:subClassOf searchet:Region;
+    owl:equivalentClass extractiv:LAND_REGION .
+
+searchet:LandscapeArchitect a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:LandscapeArchitect .
+
+searchet:Language a rdfs:Class;
+    owl:equivalentClass dbpedia:Language,
+        freebase:BaseItskillLanguage,
+        freebase:ComputerProgramming_language,
+        freebase:LanguageLanguage_family,
+        freebase:TypeLang .
+
+searchet:LanguageCreator a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:LanguageCreator .
+
+searchet:LaunchPad a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:LaunchPad .
+
+searchet:LegislativeCommittee a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:LegislativeCommittee .
+
+searchet:Legislature a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:Legislature,
+        freebase:GovernmentLegislative_committee,
+        alchemyapi:Legislature .
+
+searchet:Lenght a rdfs:Class;
+    owl:equivalentClass extractiv:LENGTH .
+
+searchet:Lieutenant a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:Lieutenant .
+
+searchet:Lighthouse a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Lighthouse,
+        freebase:ArchitectureLighthouse,
+        alchemyapi:Lighthouse .
+
+searchet:ListedSite a rdfs:Class;
+    rdfs:subClassOf searchet:Website;
+    owl:equivalentClass zemanta:listed_site .
+
+searchet:LunarCrater a rdfs:Class;
+    rdfs:subClassOf searchet:Place;
+    owl:equivalentClass dbpedia:LunarCrater,
+        freebase:UserCarmenmfenn1Default_domainMoon_crater,
+        freebase:UserDannyDefault_domainLunar_crator .
+
+searchet:Lymph a rdfs:Class;
+    rdfs:subClassOf searchet:AnatomicalStructure;
+    owl:equivalentClass dbpedia:Lymph .
+
+searchet:Lyricist a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:Lyricist .
+
+searchet:Magazine a rdfs:Class;
+    rdfs:subClassOf searchet:PrintMedia;
+    owl:equivalentClass zemanta:magazine,
+        extractiv:MAGAZINE,
+        alchemyapi:Magazine .
+
+searchet:Mammal a rdfs:Class;
+    rdfs:subClassOf searchet:Animal;
+    owl:equivalentClass dbpedia:Mammal,
+        freebase:BaseDarwincoreDarwincore_globaluniqueidentifier .
+
+searchet:ManufacturingPlant a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:ManufacturingPlant .
+
+searchet:MartialArt a rdfs:Class;
+    rdfs:subClassOf searchet:Sport;
+    owl:equivalentClass alchemyapi:MartialArt .
+
+searchet:MartialArtist a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:MartialArtist .
+
+searchet:MartialArtsOrganization a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:MartialArtsOrganization .
+
+searchet:Mass a rdfs:Class;
+    owl:equivalentClass extractiv:MASS .
+
+searchet:Mayor a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:Mayor,
+        freebase:UserBasiDefault_domainMayor,
+        extractiv:MAYOR .
+
+searchet:MeanOfTransportation a rdfs:Class;
+    owl:equivalentClass dbpedia:MeanOfTransportation,
+        extractiv:VEHICLE .
+
+searchet:MediaCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass extractiv:MEDIA_ORG .
+
+searchet:MedicalCondition a rdfs:Class;
+    owl:equivalentClass opencalais:MedicalCondition .
+
+searchet:MedicalSympton a rdfs:Class;
+    owl:equivalentClass extractiv:MEDICAL_SYMPTON .
+
+searchet:MedicalTreatment a rdfs:Class;
+    owl:equivalentClass extractiv:MEDICAL_TREATMENT,
+        opencalais:MedicalTreatment .
+
+searchet:MemberOfParliament a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:MemberOfParliament,
+        freebase:BaseCdnpoliticsMember_of_parliament,
+        freebase:GovernmentAustralian_mp,
+        freebase:GovernmentCanadian_mp .
+
+searchet:MembershipOrganization a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:MembershipOrganization .
+
+searchet:MilitaryCommander a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:MilitaryCommander .
+
+searchet:MilitaryConflict a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass dbpedia:MilitaryConflict,
+        freebase:MilitaryMilitary_conflict,
+        extractiv:CONFLICT .
+
+searchet:MilitaryCraft a rdfs:Class;
+    rdfs:subClassOf searchet:Aircraft;
+    owl:equivalentClass extractiv:MILITARY_AIRCRAFT .
+
+searchet:MilitaryOrganization a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass extractiv:MILITARY_ORG .
+
+searchet:MilitaryPerson a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:MilitaryPerson,
+        freebase:MilitaryMilitary_person,
+        alchemyapi:MilitaryPerson .
+
+searchet:MilitaryUnit a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:MilitaryUnit,
+        freebase:MilitaryMilitary_unit .
+
+searchet:Misc a rdfs:Class;
+    rdfs:subClassOf extractiv:LINKED_OTHER .
+
+searchet:Missile a rdfs:Class;
+    owl:equivalentClass extractiv:MISSILE .
+
+searchet:MixedMartialArtsEvent a rdfs:Class;
+    rdfs:subClassOf searchet:SportsEvent;
+    owl:equivalentClass dbpedia:MixedMartialArtsEvent .
+
+searchet:MixedMartialArtsLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:MixedMartialArtsLeague .
+
+searchet:Model a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Model,
+        freebase:AutomotiveModel,
+        freebase:AviationAircraft_model,
+        freebase:BaseFashionmodelsFashion_model,
+        freebase:BaseMotorcycleMotorcycle_model,
+        freebase:UserCollordBicycle_modelBicycle_model .
+
+searchet:Mollusca a rdfs:Class;
+    rdfs:subClassOf searchet:Animal;
+    owl:equivalentClass dbpedia:Mollusca .
+
+searchet:Monarch a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Monarch,
+        freebase:RoyaltyMonarch,
+        alchemyapi:Monarch .
+
+searchet:MonetaryAmount a rdfs:Class;
+    owl:equivalentClass extractiv:MONETARY_AMOUNT .
+
+searchet:MoneyRange a rdfs:Class;
+    owl:equivalentClass extractiv:MONEY_RANGE .
+
+searchet:MonthName a rdfs:Class;
+    owl:equivalentClass extractiv:MONTH_NAME .
+
+searchet:MonthOfYear a rdfs:Class;
+    owl:equivalentClass extractiv:MONTH_OF_YEAR .
+
+searchet:Moss a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass dbpedia:Moss .
+
+searchet:MotorcycleRacingLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:MotorcycleRacingLeague .
+
+searchet:Mountain a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass extractiv:MOUNTAIN,
+        alchemyapi:Mountain .
+
+searchet:MountainPass a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass alchemyapi:MountainPass .
+
+searchet:MountainRange a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass alchemyapi:MountainRange .
+
+searchet:Mountaineer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Mountaineer .
+
+searchet:Movie a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass extractiv:Film,
+        extractiv:Movie,
+        alchemyapi:Movie,
+        opencalais:Movie .
+
+searchet:Municipality a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Settlement,
+        freebase:BaseAareasSchemaBeMunicipality,
+        freebase:BaseAareasSchemaBgSettlement,
+        freebase:BaseAareasSchemaBrMunicipality,
+        freebase:BaseAareasSchemaDkMunicipality,
+        freebase:BaseAareasSchemaIdMunicipality,
+        freebase:BaseAareasSchemaNlMunicipality,
+        freebase:BaseAareasSchemaTwMunicipality,
+        freebase:LocationCn_municipality,
+        freebase:UserHangyDefault_domainAt_municipality .
+
+searchet:Muscle a rdfs:Class;
+    rdfs:subClassOf searchet:AnatomicalStructure;
+    owl:equivalentClass dbpedia:Muscle,
+        freebase:MedicineMuscle .
+
+searchet:Museum a rdfs:Class;
+    rdfs:subClassOf searchet:Architecture;
+    owl:equivalentClass zemanta:museum .
+
+searchet:Music a rdfs:Class;
+    owl:equivalentClass zemanta:music .
+
+searchet:MusicFestival a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass dbpedia:MusicFestival,
+        freebase:MusicFestival .
+
+searchet:MusicGenre a rdfs:Class;
+    owl:equivalentClass dbpedia:MusicGenre,
+        freebase:BaseSvocabMusic_genre,
+        freebase:Media_commonMedia_genre,
+        freebase:MusicGenre,
+        extractiv:MUSIC_GENRE .
+
+searchet:MusicGroup a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass opencalais:MusicGroup .
+
+searchet:Musical a rdfs:Class;
+    rdfs:subClassOf searchet:Work;
+    owl:equivalentClass dbpedia:Musical,
+        freebase:TheaterPlay .
+
+searchet:MusicalArtist a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass dbpedia:MusicalArtist,
+        freebase:MusicArtist,
+        alchemyapi:MusicalArtist .
+
+searchet:MusicalGroup a rdfs:Class;
+    rdfs:subClassOf searchet:Music;
+    owl:equivalentClass zemanta:musical_group .
+
+searchet:MusicalGroupMember a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:MusicalGroupMember .
+
+searchet:MusicalInstrumentCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:MusicalInstrumentCompany .
+
+searchet:MusicalWork a rdfs:Class;
+    rdfs:subClassOf searchet:Work;
+    owl:equivalentClass dbpedia:MusicalWork,
+        freebase:MusicAlbum,
+        freebase:TheaterPlay .
+
+searchet:NascarDriver a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:NascarDriver,
+        freebase:BaseNascarNascar_driver .
+
+searchet:NationalCollegiateAthleticAssociationAthlete a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:NationalCollegiateAthleticAssociationAthlete .
+
+searchet:Nationality a rdfs:Class;
+    owl:equivalentClass extractiv:NATIONALITY .
+
+searchet:NaturalDisaster a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass extractiv:NATURAL_DISASTER,
+        alchemyapi:NaturalDisaster .
+
+searchet:NaturalFeature a rdfs:Class;
+    owl:equivalentClass opencalais:NaturalFeature .
+
+searchet:NaturalOrCulturalPreservationAgency a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:NaturalOrCulturalPreservationAgency .
+
+searchet:Nerve a rdfs:Class;
+    rdfs:subClassOf searchet:AnatomicalStructure;
+    owl:equivalentClass dbpedia:Nerve,
+        freebase:MedicineNerve .
+
+searchet:Newspaper a rdfs:Class;
+    rdfs:subClassOf searchet:PrintMedia;
+    owl:equivalentClass dbpedia:Newspaper,
+        zemanta:newspaper,
+        freebase:BookNewspaper,
+        alchemyapi:Newspaper .
+
+searchet:NoblePerson a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:NoblePerson .
+
+searchet:NobleTitle a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:NobleTitle .
+
+searchet:Non-ProfitOrganisation a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:Non-ProfitOrganisation,
+        freebase:OrganizationNon_profit_organization,
+        alchemyapi:Non-profitOrganisation .
+
+searchet:Not-Government a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass extractiv:NON_GOVERNMENT_ORG .
+
+searchet:NuclearWeapon a rdfs:Class;
+    rdfs:subClassOf searchet:Weapon;
+    owl:equivalentClass extractiv:NUCLEAR_WEAPON .
+
+searchet:Number a rdfs:Class;
+    owl:equivalentClass extractiv:NUMBER .
+
+searchet:NumberRange a rdfs:Class;
+    owl:equivalentClass extractiv:NUMBER_RANGE .
+
+searchet:Ocean a rdfs:Class;
+    rdfs:subClassOf searchet:Place;
+    owl:equivalentClass extractiv:OCEAN .
+
+searchet:OfficeHolder a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:OfficeHolder,
+        freebase:GovernmentGovernment_office_or_title .
+
+searchet:OilField a rdfs:Class;
+    rdfs:subClassOf searchet:GeographicFeature;
+    owl:equivalentClass alchemyapi:OilField .
+
+searchet:OlympicAthlete a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete,
+        searchet:Person;
+    owl:equivalentClass alchemyapi:OlympicAthlete .
+
+searchet:Olympics a rdfs:Class;
+    rdfs:subClassOf searchet:SportsEvent;
+    owl:equivalentClass dbpedia:Olympics,
+        freebase:Olympics .
+
+searchet:OperaCharacter a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:OperaCharacter .
+
+searchet:OperaDirector a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:OperaDirector .
+
+searchet:OperaLibretto a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:OperaLibretto .
+
+searchet:OperaSinger a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:OperaSinger .
+
+searchet:OperatingSystem a rdfs:Class;
+    owl:equivalentClass zemanta:operating_system,
+        extractiv:OPERATING_SYSTEM,
+        alchemyapi:OperatingSystem,
+        opencalais:OperatingSystem .
+
+searchet:OperatingSystemDeveloper a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:OperatingSystemDeveloper .
+
+searchet:Ordinal a rdfs:Class;
+    owl:equivalentClass extractiv:ORDINAL .
+
+searchet:Organization a rdfs:Class;
+    owl:equivalentClass dbpedia:Organisation,
+        zemanta:organization,
+        freebase:OrganizationOrganization,
+        extractiv:ORGANIZATION,
+        alchemyapi:Organization,
+        opencalais:Organization,
+        wikimeta:ORG .
+
+searchet:OrganizationCommittee a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:OrganizationCommittee .
+
+searchet:PaintballLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:PaintballLeague .
+
+searchet:Park a rdfs:Class;
+    rdfs:subClassOf searchet:Place;
+    owl:equivalentClass dbpedia:Park,
+        freebase:Amusement_parksPark,
+        freebase:UserAlecfRecreationPark,
+        alchemyapi:Park .
+
+searchet:Percent a rdfs:Class;
+    owl:equivalentClass extractiv:PERCENT .
+
+searchet:PeriodicalEditor a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:PeriodicalEditor .
+
+searchet:PeriodicalPublisher a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:PeriodicalPublisher .
+
+searchet:Person a rdfs:Class;
+    owl:equivalentClass dbpedia:Person,
+        freebase:PeoplePerson,
+        extractiv:PERSON,
+        alchemyapi:Person,
+        opencalais:Person,
+        wikimeta:PERS .
+
+searchet:PersonFunction a rdfs:Class;
+    owl:equivalentClass dbpedia:PersonFunction,
+        wikimeta:FONC .
+
+searchet:PersonalInformation a rdfs:Class .
+
+searchet:PharmaceuticalCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass extractiv:PHARMACEUTICAL_COMPANY .
+
+searchet:Philosopher a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Philosopher,
+        freebase:UserIamgineDefault_domainPhilosopher .
+
+searchet:PhoneNumber a rdfs:Class;
+    rdfs:subClassOf searchet:PersonalInformation;
+    owl:equivalentClass extractiv:PHONE_NUMBER,
+        opencalais:PhoneNumber .
+
+searchet:Physician a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Physician .
+
+searchet:Place a rdfs:Class;
+    owl:equivalentClass dbpedia:Place,
+        zemanta:location,
+        freebase:LocationLocation,
+        extractiv:LOCATION,
+        wikimeta:LOC .
+
+searchet:Planet a rdfs:Class;
+    owl:equivalentClass dbpedia:Planet,
+        freebase:AstronomyPlanet .
+
+searchet:Plant a rdfs:Class;
+    rdfs:subClassOf searchet:Eukaryote;
+    owl:equivalentClass dbpedia:Plant,
+        freebase:AutomotiveManufacturing_plant,
+        freebase:BaseInfrastructurePower_station,
+        freebase:Fictional_universeFictional_plant,
+        freebase:UserDwielDefault_domainPlant .
+
+searchet:PlayboyPlaymate a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:PlayboyPlaymate .
+
+searchet:PodcastFeed a rdfs:Class;
+    owl:equivalentClass zemanta:podcast_feed .
+
+searchet:PokerPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:PokerPlayer .
+
+searchet:PoliticalAppointer a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass alchemyapi:PoliticalAppointer .
+
+searchet:PoliticalDistrict a rdfs:Class;
+    rdfs:subClassOf searchet:StateOrCounty;
+    owl:equivalentClass alchemyapi:PoliticalDistrict,
+        opencalais:ProvinceOrState .
+
+searchet:PoliticalEvent a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass opencalais:PoliticalEvent .
+
+searchet:PoliticalParty a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass zemanta:political_party,
+        extractiv:POLITICAL_PARTY,
+        alchemyapi:PoliticalParty .
+
+searchet:Politician a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Politician,
+        zemanta:politician,
+        freebase:GovernmentPolitician,
+        alchemyapi:Politician .
+
+searchet:PoloLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:PoloLeague .
+
+searchet:Pope a rdfs:Class;
+    rdfs:subClassOf searchet:Cleric;
+    owl:equivalentClass dbpedia:Pope .
+
+searchet:PopulatedPlace a rdfs:Class;
+    rdfs:subClassOf searchet:Place;
+    owl:equivalentClass dbpedia:PopulatedPlace,
+        freebase:LocationLocation,
+        alchemyapi:Facility,
+        opencalais:Facility .
+
+searchet:President a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:President,
+        freebase:BaseHarvardPresident,
+        freebase:GovernmentUs_vice_president,
+        freebase:UserAndhrizzDefault_domainPresidents_of_india,
+        freebase:UserKauzmoDefault_domainUs_president .
+
+searchet:PrimeMinister a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:PrimeMinister .
+
+searchet:PrintMedia a rdfs:Class;
+    owl:equivalentClass alchemyapi:PrintMedia,
+        opencalais:PublishedMedium .
+
+searchet:ProAthlete a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass alchemyapi:ProAthlete .
+
+searchet:ProcessorManufacturer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:ProcessorManufacturer .
+
+searchet:Product a rdfs:Class;
+    owl:equivalentClass zemanta:consumer_product,
+        alchemyapi:Product,
+        opencalais:Product,
+        wikimeta:PROD .
+
+searchet:ProductionCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:ProductionCompany .
+
+searchet:ProgrammingLanguage a rdfs:Class;
+    owl:equivalentClass zemanta:programming_language,
+        extractiv:PROGRAMMING_LANGUAGE,
+        opencalais:ProgrammingLanguage .
+
+searchet:ProgrammingLanguageDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ProgrammingLanguageDesigner .
+
+searchet:ProgrammingLanguageDeveloper a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ProgrammingLanguageDeveloper .
+
+searchet:ProjectParticipant a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ProjectParticipant .
+
+searchet:ProjectileWeapon a rdfs:Class;
+    rdfs:subClassOf searchet:Weapon;
+    owl:equivalentClass extractiv:PROJECTILE_WEAPON .
+
+searchet:ProtectedArea a rdfs:Class;
+    rdfs:subClassOf searchet:GeographicFeature;
+    owl:equivalentClass alchemyapi:ProtectedArea .
+
+searchet:ProtectedSite a rdfs:Class;
+    rdfs:subClassOf searchet:Website;
+    owl:equivalentClass zemanta:protected_site .
+
+searchet:Protein a rdfs:Class;
+    owl:equivalentClass dbpedia:Protein,
+        freebase:BiologyProtein .
+
+searchet:Protest a rdfs:Class;
+    owl:equivalentClass extractiv:PROTEST,
+        extractiv:REEF .
+
+searchet:Race a rdfs:Class;
+    rdfs:subClassOf searchet:SportsEvent;
+    owl:equivalentClass dbpedia:Race,
+        freebase:BaseHorseracingHorse_race,
+        freebase:BaseTriathlonTriathlon_race,
+        freebase:BaseWarofdragonsRace .
+
+searchet:RadioControlledRacingLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:RadioControlledRacingLeague .
+
+searchet:RadioNetwork a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:RadioNetwork .
+
+searchet:RadioProgram a rdfs:Class;
+    owl:equivalentClass zemanta:radio_program,
+        alchemyapi:RadioProgram,
+        opencalais:RadioProgram .
+
+searchet:RadioShow a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass extractiv:RADIO_SHOW .
+
+searchet:RadioStation a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:RadioStation,
+        zemanta:radio_station,
+        freebase:BaseRadiostationsRadio_station,
+        extractiv:RADIO_STATION,
+        opencalais:RadioStation .
+
+searchet:RecordLabel a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass zemanta:record_label,
+        alchemyapi:RecordLabel .
+
+searchet:RecordProducer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:RecordProducer .
+
+searchet:RecordingEngineer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:RecordingEngineer .
+
+searchet:Region a rdfs:Class;
+    rdfs:subClassOf searchet:Place;
+    owl:equivalentClass alchemyapi:Region,
+        opencalais:Region .
+
+searchet:RelativeDate a rdfs:Class;
+    owl:equivalentClass extractiv:RELATIVE_DATE .
+
+searchet:Religion a rdfs:Class;
+    owl:equivalentClass extractiv:RELIGION .
+
+searchet:ReligiousLeader a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ReligiousLeader .
+
+searchet:ReligiousOrder a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:ReligiousOrder .
+
+searchet:ReligiousOrganization a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass extractiv:RELIGIOUS_ORG,
+        alchemyapi:ReligiousOrganization .
+
+searchet:ReportIssuingInstitution a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:ReportIssuingInstitution .
+
+searchet:Reptile a rdfs:Class;
+    rdfs:subClassOf searchet:Animal;
+    owl:equivalentClass dbpedia:Reptile,
+        freebase:UserDoconnorPetsReptile .
+
+searchet:Restaurant a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass zemanta:restaurant,
+        extractiv:RESTAURANT,
+        alchemyapi:Restaurant .
+
+searchet:River a rdfs:Class;
+    rdfs:subClassOf searchet:Stream;
+    owl:equivalentClass dbpedia:River,
+        freebase:GeographyRiver,
+        extractiv:RIVER,
+        alchemyapi:River .
+
+searchet:Road a rdfs:Class;
+    rdfs:subClassOf searchet:Infrastructure;
+    owl:equivalentClass dbpedia:Road,
+        zemanta:road,
+        freebase:TransportationRoad,
+        extractiv:ROAD .
+
+searchet:Rocket a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass dbpedia:Rocket,
+        freebase:SpaceflightRocket .
+
+searchet:RocketEngineDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:RocketEngineDesigner .
+
+searchet:RocketManufacturer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:RocketManufacturer .
+
+searchet:RugbyLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:RugbyLeague .
+
+searchet:RugbyPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:RugbyPlayer,
+        freebase:UserStebbiDefault_domainRugby_player .
+
+searchet:Saint a rdfs:Class;
+    rdfs:subClassOf searchet:Cleric;
+    owl:equivalentClass dbpedia:Saint,
+        freebase:UserLadlesteinDefault_domainSaint .
+
+searchet:Sales a rdfs:Class;
+    owl:equivalentClass dbpedia:Sales,
+        freebase:UserMoundcityauctionsDefault_domainSales .
+
+searchet:School a rdfs:Class;
+    rdfs:subClassOf searchet:EducationalInstitution;
+    owl:equivalentClass dbpedia:School,
+        freebase:EducationSchool .
+
+searchet:SchoolFounder a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:SchoolFounder .
+
+searchet:SchoolNewspaper a rdfs:Class;
+    rdfs:subClassOf searchet:PrintMedia;
+    owl:equivalentClass alchemyapi:SchoolNewspaper .
+
+searchet:Scientist a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:Scientist,
+        freebase:ComputerComputer_scientist,
+        freebase:UserCameronneylonDefault_domainScientist,
+        freebase:UserMusicbdDefault_domainElectronic_scientist,
+        freebase:UserTomtzigtDefault_domainComputational_scientist .
+
+searchet:Sea a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass extractiv:SEA .
+
+searchet:Season a rdfs:Class;
+    owl:equivalentClass extractiv:SEASON .
+
+searchet:Senator a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:Senator,
+        freebase:BasePoldbUs_senator_current,
+        freebase:UserFinkedDefault_domainSenator,
+        freebase:UserOxladyDefault_domainState_senator,
+        freebase:UserRobertUs_congressUs_senator .
+
+searchet:SharpWeapon a rdfs:Class;
+    rdfs:subClassOf searchet:Weapon;
+    owl:equivalentClass extractiv:SHARP_WEAPON .
+
+searchet:Ship a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass dbpedia:Ship,
+        freebase:BoatsShip .
+
+searchet:ShipBuilder a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:ShipBuilder .
+
+searchet:ShipDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:ShipDesigner .
+
+searchet:ShootingWeapon a rdfs:Class;
+    rdfs:subClassOf searchet:Weapon;
+    owl:equivalentClass extractiv:SHOOTING_WEAPON .
+
+searchet:ShoppingCenter a rdfs:Class;
+    rdfs:subClassOf searchet:Business;
+    owl:equivalentClass zemanta:shopping_center .
+
+searchet:ShoppingMall a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:ShoppingMall,
+        freebase:BusinessShopping_center,
+        alchemyapi:ShoppingMall .
+
+searchet:Single a rdfs:Class;
+    rdfs:subClassOf searchet:MusicalWork;
+    owl:equivalentClass dbpedia:Single,
+        freebase:UserJuliethegreatDefault_domainSingle .
+
+searchet:SiteOfSpecialScientificInterest a rdfs:Class;
+    rdfs:subClassOf searchet:Place;
+    owl:equivalentClass dbpedia:SiteOfSpecialScientificInterest .
+
+searchet:SkiArea a rdfs:Class;
+    rdfs:subClassOf searchet:Place;
+    owl:equivalentClass dbpedia:SkiArea,
+        freebase:BaseSkitestSki_area,
+        alchemyapi:SkiArea .
+
+searchet:Skyscraper a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Skyscraper,
+        freebase:ArchitectureSkyscraper,
+        alchemyapi:Skyscraper .
+
+searchet:SoccerClub a rdfs:Class;
+    rdfs:subClassOf searchet:SportsTeam;
+    owl:equivalentClass dbpedia:SoccerClub,
+        freebase:SoccerFootball_team,
+        alchemyapi:SoccerClub .
+
+searchet:SoccerLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:SoccerLeague,
+        freebase:BaseAssociationfootballSoccer_league,
+        freebase:BaseAssociationfootballSoccer_organization,
+        freebase:SoccerFootball_league .
+
+searchet:SoccerManager a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass dbpedia:SoccerManager,
+        freebase:BaseAssociationfootballSoccer_team_manager,
+        freebase:SoccerFootball_team_manager .
+
+searchet:SoccerPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:SoccerPlayer,
+        freebase:SoccerFootball_player,
+        alchemyapi:FootballPlayer .
+
+searchet:SoftballLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:SoftballLeague .
+
+searchet:Software a rdfs:Class;
+    rdfs:subClassOf searchet:Work;
+    owl:equivalentClass dbpedia:Software,
+        zemanta:software,
+        freebase:ComputerSoftware,
+        extractiv:SOFTWARE .
+
+searchet:SoftwareDeveloper a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:SoftwareDeveloper .
+
+searchet:Song a rdfs:Class;
+    rdfs:subClassOf searchet:MusicalWork;
+    owl:equivalentClass dbpedia:Song,
+        zemanta:track,
+        freebase:BaseChristmasChristmas_song,
+        freebase:BaseDancingwiththestarsMusic,
+        freebase:CvgMusical_game_song,
+        freebase:FilmFilm_featured_song,
+        freebase:FilmFilm_song,
+        freebase:SportsFight_song,
+        freebase:TvTv_song .
+
+searchet:Songwriter a rdfs:Class;
+    rdfs:subClassOf searchet:Author;
+    owl:equivalentClass alchemyapi:Songwriter .
+
+searchet:SpaceAgency a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:SpaceAgency .
+
+searchet:SpaceMission a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass dbpedia:SpaceMission,
+        freebase:SpaceflightSpace_mission .
+
+searchet:SpaceShuttle a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass dbpedia:SpaceShuttle,
+        freebase:SpaceflightSpacecraft .
+
+searchet:SpaceStation a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass dbpedia:SpaceStation,
+        freebase:UserD_leaperDefault_domainSpace_station .
+
+searchet:Spacecraft a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass dbpedia:Spacecraft,
+        freebase:SpaceflightSpacecraft,
+        extractiv:SPACECRAFT .
+
+searchet:SpacecraftManufacturer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:SpacecraftManufacturer .
+
+searchet:Species a rdfs:Class;
+    rdfs:subClassOf searchet:Biology;
+    owl:equivalentClass dbpedia:Species,
+        zemanta:organism_classification .
+
+searchet:SpeedwayLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:SpeedwayLeague .
+
+searchet:SpiritBottler a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:SpiritBottler .
+
+searchet:SpiritProductManufacturer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:SpiritProductManufacturer .
+
+searchet:Sport a rdfs:Class;
+    rdfs:subClassOf searchet:Activity;
+    owl:equivalentClass dbpedia:Sport,
+        freebase:Sports,
+        extractiv:SPORT,
+        alchemyapi:Sport .
+
+searchet:SportPosition a rdfs:Class;
+    rdfs:subClassOf searchet:Sport;
+    owl:equivalentClass extractiv:SPORT_POSITION .
+
+searchet:SportsAssociation a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:SportsAssociation .
+
+searchet:SportsEvent a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass dbpedia:SportsEvent,
+        freebase:BaseSportsrecordsSports_event,
+        opencalais:SPORTS_EVENT,
+        opencalais:SportsEvents .
+
+searchet:SportsGame a rdfs:Class;
+    owl:equivalentClass opencalais:SportsGame .
+
+searchet:SportsLeague a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:SportsLeague,
+        freebase:SportsSports_league,
+        extractiv:SPORTS_LEAGUE,
+        opencalais:SportsLeague .
+
+searchet:SportsLeagueAwardWinner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:SportsLeagueAwardWinner .
+
+searchet:SportsOfficial a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:SportsOfficial .
+
+searchet:SportsTeam a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass dbpedia:SportsTeam,
+        zemanta:sports_team,
+        freebase:SportsSports_team,
+        extractiv:SPORTS_TEAM .
+
+searchet:SportsTeamOwner a rdfs:Class;
+    owl:equivalentClass extractiv:SPORTS_TEAM_OWNER .
+
+searchet:Stadium a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Stadium,
+        freebase:BaseBowlgamesBowl_game_stadium,
+        freebase:BaseFutebolStadium,
+        freebase:BasePlayballBaseball_stadium,
+        freebase:CricketCricket_stadium,
+        freebase:SoccerFootball_pitch,
+        freebase:SportsSports_facility,
+        extractiv:STADIUM,
+        alchemyapi:Stadium .
+
+searchet:StateOrCounty a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass extractiv:COUNTY,
+        alchemyapi:StateOrCounty .
+
+searchet:Station a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass dbpedia:Station,
+        freebase:BaseCimisWeather_station,
+        freebase:BaseInfrastructurePower_station,
+        freebase:BaseUndergroundUnderground_station,
+        freebase:BroadcastRadio_station,
+        freebase:BroadcastTv_station,
+        freebase:EducationStudent_radio_station,
+        freebase:Metropolitan_transitTransit_stop,
+        alchemyapi:Station .
+
+searchet:StockExchange a rdfs:Class;
+    owl:equivalentClass extractiv:STOCK_EXCHANGE .
+
+searchet:StockMarketIndex a rdfs:Class;
+    owl:equivalentClass extractiv:STOCK_MARKET_INDEX .
+
+searchet:Stream a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass dbpedia:Stream .
+
+searchet:StudentOrganization a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:StudentOrganization .
+
+searchet:Submarine a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass extractiv:SUBMARINE .
+
+searchet:SupremeCourtOfTheUnitedStatesCase a rdfs:Class;
+    owl:equivalentClass dbpedia:SupremeCourtOfTheUnitedStatesCase .
+
+searchet:Surgeon a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Surgeon .
+
+searchet:TV a rdfs:Class;
+    owl:equivalentClass zemanta:tv .
+
+searchet:TVActor a rdfs:Class;
+    rdfs:subClassOf searchet:Actor;
+    owl:equivalentClass alchemyapi:TVActor .
+
+searchet:TVCharacter a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:TVCharacter .
+
+searchet:TVDirector a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:TVDirector .
+
+searchet:TVNetwork a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass extractiv:TV_NETWORK,
+        alchemyapi:TVNetwork .
+
+searchet:TVPersonality a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:TVPersonality .
+
+searchet:TVProducer a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:TVProducer .
+
+searchet:TVProgram a rdfs:Class;
+    rdfs:subClassOf searchet:TV;
+    owl:equivalentClass zemanta:tv_program .
+
+searchet:TVProgramCreator a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:TVProgramCreator .
+
+searchet:TVShow a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass alchemyapi:TelevisionShow,
+        opencalais:TVShow .
+
+searchet:TVStation a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass zemanta:tv_station,
+        alchemyapi:TelevisionStation,
+        opencalais:TVStation .
+
+searchet:TVWriter a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:TVWriter .
+
+searchet:Technology a rdfs:Class;
+    owl:equivalentClass alchemyapi:Technology,
+        opencalais:Technology .
+
+searchet:TelevisionEpisode a rdfs:Class;
+    owl:equivalentClass dbpedia:TelevisionEpisode,
+        freebase:TvTv_series_episode .
+
+searchet:TelevisionShow a rdfs:Class;
+    rdfs:subClassOf searchet:Work;
+    owl:equivalentClass dbpedia:TelevisionShow,
+        freebase:TvTv_program .
+
+searchet:Temperature a rdfs:Class;
+    owl:equivalentClass extractiv:TEMPERATURE .
+
+searchet:TennisLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:TennisLeague .
+
+searchet:TennisPlayer a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:TennisPlayer,
+        freebase:TennisTennis_player,
+        alchemyapi:TennisPlayer .
+
+searchet:TennisTournamentChampion a rdfs:Class;
+    rdfs:subClassOf searchet:TennisPlayer;
+    owl:equivalentClass alchemyapi:TennisTournamentChampion .
+
+searchet:Theater a rdfs:Class;
+    rdfs:subClassOf searchet:Architecture;
+    owl:equivalentClass zemanta:theater .
+
+searchet:TheaterActor a rdfs:Class;
+    rdfs:subClassOf searchet:Actor;
+    owl:equivalentClass alchemyapi:TheaterActor .
+
+searchet:TheaterCharacter a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:TheaterCharacter .
+
+searchet:TheaterChoreographer a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:TheaterChoreographer .
+
+searchet:TheaterDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:TheaterDesigner .
+
+searchet:TheaterDirector a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:TheaterDirector .
+
+searchet:TheaterProducer a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:TheaterProducer .
+
+searchet:TheatricalComposer a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:TheatricalComposer .
+
+searchet:TheatricalLyricist a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass alchemyapi:TheatricalLyricist .
+
+searchet:Time a rdfs:Class;
+    owl:equivalentClass zemanta:time,
+        extractiv:TIME .
+
+searchet:TopLevelDomain a rdfs:Class;
+    rdfs:subClassOf searchet:Internet;
+    owl:equivalentClass zemanta:top_level_domain .
+
+searchet:TopLevelDomainRegistry a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass alchemyapi:TopLevelDomainRegistry .
+
+searchet:TouristAttraction a rdfs:Class;
+    rdfs:subClassOf searchet:Travel;
+    owl:equivalentClass zemanta:tourist_attraction .
+
+searchet:Town a rdfs:Class;
+    rdfs:subClassOf searchet:Municipality;
+    owl:equivalentClass dbpedia:Town,
+        freebase:BaseAareasSchemaAuTown,
+        freebase:BaseAareasSchemaEarthCitytown,
+        freebase:BaseAareasSchemaEarthTown,
+        freebase:BaseGreeceGr_city,
+        freebase:BaseSwitzerlandCh_city,
+        freebase:LocationJp_city_town .
+
+searchet:TradeUnion a rdfs:Class;
+    rdfs:subClassOf searchet:Union;
+    owl:equivalentClass alchemyapi:TradeUnion .
+
+searchet:Translator a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:Translator .
+
+searchet:TransportOperator a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:TransportOperator .
+
+searchet:Travel a rdfs:Class;
+    owl:equivalentClass zemanta:travel .
+
+searchet:TropicalCyclone a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalDisaster;
+    owl:equivalentClass alchemyapi:TropicalCyclone .
+
+searchet:URL a rdfs:Class;
+    rdfs:subClassOf searchet:Internet;
+    owl:equivalentClass extractiv:URL,
+        opencalais:URL .
+
+searchet:USCabinetMember a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass extractiv:US_CABINET_MEMBER .
+
+searchet:USCongressperson a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass alchemyapi:U_S_Congressperson .
+
+searchet:USGovernor a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass extractiv:US_GOVERNOR .
+
+searchet:USPresident a rdfs:Class;
+    rdfs:subClassOf searchet:President;
+    owl:equivalentClass alchemyapi:USPresident .
+
+searchet:USSenator a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass extractiv:US_SENATOR .
+
+searchet:USState a rdfs:Class;
+    rdfs:subClassOf searchet:PopulatedPlace;
+    owl:equivalentClass extractiv:US_STATE .
+
+searchet:USVicePresident a rdfs:Class;
+    rdfs:subClassOf searchet:VicePresident;
+    owl:equivalentClass alchemyapi:USVicePresident .
+
+searchet:Union a rdfs:Class;
+    rdfs:subClassOf searchet:Organization;
+    owl:equivalentClass extractiv:UNION .
+
+searchet:University a rdfs:Class;
+    rdfs:subClassOf searchet:EducationalInstitution;
+    owl:equivalentClass dbpedia:University,
+        freebase:BaseUniversitiesUniversity,
+        freebase:EducationUniversity,
+        freebase:UserA_olympiaDefault_domainUniversity,
+        extractiv:UNIVERSITY .
+
+searchet:Valley a rdfs:Class;
+    rdfs:subClassOf searchet:Place;
+    owl:equivalentClass dbpedia:Valley,
+        freebase:UserPsiroisDefault_domainValley,
+        extractiv:VALLEY .
+
+searchet:VehicleManufacturer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass extractiv:LAND_VEHICLE .
+
+searchet:Vein a rdfs:Class;
+    rdfs:subClassOf searchet:AnatomicalStructure;
+    owl:equivalentClass dbpedia:Vein,
+        freebase:MedicineVein .
+
+searchet:Velocity a rdfs:Class;
+    owl:equivalentClass extractiv:VELOCITY .
+
+searchet:VentureFundedCompany a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:VentureFundedCompany .
+
+searchet:VentureInvestor a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:VentureInvestor .
+
+searchet:VicePresident a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:VicePresident,
+        freebase:GovernmentUs_vice_president .
+
+searchet:VicePrimeMinister a rdfs:Class;
+    rdfs:subClassOf searchet:Politician;
+    owl:equivalentClass dbpedia:VicePrimeMinister .
+
+searchet:VideoGame a rdfs:Class;
+    rdfs:subClassOf searchet:Software;
+    owl:equivalentClass dbpedia:VideoGame,
+        zemanta:computer_videogame,
+        freebase:CvgComputer_videogame,
+        extractiv:VIDEO_GAME .
+
+searchet:VideoGameActor a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:VideoGameActor .
+
+searchet:VideoGameDesigner a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:VideoGameDesigner .
+
+searchet:VideoGameDeveloper a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:VideoGameDeveloper .
+
+searchet:VideoGameEngineDeveloper a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:VideoGameEngineDeveloper .
+
+searchet:VideoGamePublisher a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass alchemyapi:VideoGamePublisher .
+
+searchet:VideoGameRegion a rdfs:Class;
+    rdfs:subClassOf searchet:Region;
+    owl:equivalentClass alchemyapi:VideoGameRegion .
+
+searchet:VideoGamesLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:VideogamesLeague .
+
+searchet:Village a rdfs:Class;
+    rdfs:subClassOf searchet:Municipality;
+    owl:equivalentClass dbpedia:Village,
+        freebase:BaseAareasSchemaEarthCitytown,
+        freebase:BaseGreeceGr_city,
+        freebase:BaseSwitzerlandCh_city,
+        freebase:LocationJp_city_town,
+        freebase:UserJobeDefault_domainVillage .
+
+searchet:Vineyard a rdfs:Class;
+    rdfs:subClassOf searchet:Plant;
+    owl:equivalentClass zemanta:vineyard .
+
+searchet:Virus a rdfs:Class;
+    owl:equivalentClass extractiv:VIRUS .
+
+searchet:VisualArtist a rdfs:Class;
+    rdfs:subClassOf searchet:Person;
+    owl:equivalentClass alchemyapi:VisualArtist .
+
+searchet:VoiceActor a rdfs:Class;
+    rdfs:subClassOf searchet:Actor;
+    owl:equivalentClass dbpedia:VoiceActor,
+        freebase:UserAmbyDefault_domainVoice_actor,
+        freebase:UserJfryDefault_domainVoice_actor .
+
+searchet:VolleyballLeague a rdfs:Class;
+    rdfs:subClassOf searchet:SportsLeague;
+    owl:equivalentClass dbpedia:VolleyballLeague .
+
+searchet:Volume a rdfs:Class;
+    owl:equivalentClass extractiv:VOLUME .
+
+searchet:WaterCraft a rdfs:Class;
+    rdfs:subClassOf searchet:MeanOfTransportation;
+    owl:equivalentClass extractiv:WATERCRAFT .
+
+searchet:Waterfall a rdfs:Class;
+    rdfs:subClassOf searchet:NaturalFeature;
+    owl:equivalentClass alchemyapi:Waterfall .
+
+searchet:Weapon a rdfs:Class;
+    rdfs:subClassOf searchet:Device;
+    owl:equivalentClass dbpedia:Weapon,
+        extractiv:WEAPON .
+
+searchet:WebBrowser a rdfs:Class;
+    owl:equivalentClass extractiv:WEB_BROWSER .
+
+searchet:Website a rdfs:Class;
+    rdfs:subClassOf searchet:Internet;
+    owl:equivalentClass dbpedia:Website,
+        zemanta:website,
+        freebase:InternetWebsite .
+
+searchet:Wine a rdfs:Class;
+    owl:equivalentClass zemanta:wine .
+
+searchet:WineProducer a rdfs:Class;
+    rdfs:subClassOf searchet:Company;
+    owl:equivalentClass zemanta:wine_producer,
+        alchemyapi:WineProducer .
+
+searchet:WineRegion a rdfs:Class;
+    rdfs:subClassOf searchet:Region;
+    owl:equivalentClass alchemyapi:WineRegion .
+
+searchet:Work a rdfs:Class;
+    owl:equivalentClass dbpedia:Work,
+        freebase:AwardAward_nominated_work,
+        freebase:AwardAward_winning_work,
+        freebase:BookPublished_work,
+        freebase:BookScholarly_work,
+        freebase:BookTranslated_work,
+        freebase:BookWritten_work,
+        freebase:Media_commonAdapted_work,
+        freebase:Media_commonCreative_work,
+        freebase:Visual_artArtwork,
+        opencalais:Position .
+
+searchet:Wrestler a rdfs:Class;
+    rdfs:subClassOf searchet:Athlete;
+    owl:equivalentClass dbpedia:Wrestler,
+        freebase:BaseSchemastagingSumo_wrestler,
+        freebase:BaseWrestlingProfessional_wrestler .
+
+searchet:WrestlingEvent a rdfs:Class;
+    rdfs:subClassOf searchet:SportsEvent;
+    owl:equivalentClass dbpedia:WrestlingEvent,
+        freebase:UserPoundsdwayne47Default_domainProfessional_wrestling_event .
+
+searchet:Writer a rdfs:Class;
+    rdfs:subClassOf searchet:Artist;
+    owl:equivalentClass dbpedia:Writer,
+        freebase:BaseAmericancomedyComedy_writer,
+        freebase:BookAuthor,
+        freebase:Comic_booksComic_book_writer,
+        freebase:TvTv_writer .
+
+searchet:Year a rdfs:Class;
+    owl:equivalentClass extractiv:YEAR .
+
+searchet:YearInSpaceflight a rdfs:Class;
+    rdfs:subClassOf searchet:Event;
+    owl:equivalentClass dbpedia:YearInSpaceflight .
+
+searchet:YearRange a rdfs:Class;
+    owl:equivalentClass extractiv:YEAR_RANGE .
+

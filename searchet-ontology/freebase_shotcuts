@@ -1,0 +1,13 @@
+{"type": "/type/type", "domain":{"id": null, "/freebase/domain_profile/category":{"id": "/category/commons"}}, "return": "count"}
+
+
+
+query = {'id':'/en/bill_clinton', 'type':[{"/type/type/domain":{"key":[{"namespace":"/","limit":0}],"id":None}}]}
+
+res = freebase.search(type=['/freebase/type_profile', '/type/type'], query='*')
+
+
+result = g.subject_objects(predicate=rdflib.term.URIRef('http://www.w3.org/2002/07/owl#equivalentClass'))
+for r in result:
+if 'http://rdf.freebase.com/ns/' in  r[1]:
+g.remove((r[0], rdflib.term.URIRef(u'http://www.w3.org/2002/07/owl#equivalentClass'), r[1]))

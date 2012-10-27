@@ -1,0 +1,27 @@
+% start S
+# searchet:http://searchet.baidu.com/ontology#
+
+# people
+S[SEM=(show + profile + ?person)] -> PEOPLE[SEM=?person]
+PEOPLE[SEM='person'] -> 'http://searchet.baidu.com/ontology#Person'
+
+# event
+S[SEM=(show + carousel + ?event)] -> EVENT[SEM=?event]
+EVENT[SEM='event'] -> 'http://searchet.baidu.com/ontology#Time'
+EVENT[SEM='event'] -> 'http://searchet.baidu.com/ontology#Evnet'
+
+# flight
+S[SEM=(show + ?flight + itinerary + with + ?locations + and + ?date)] -> FLIGHT[SEM=?flight] LOCATIONS[SEM=?locations] DATE[SEM=?date]
+S[SEM=(show + itinerary + with + ?locations + and + ?date)] -> LOCATIONS[SEM=?locations] DATE[SEM=?date] | DATE[SEM=?date] LOCATIONS[SEM=?locations]
+S[SEM=(show + ?flight + itinerary + with + ?locations)] -> FLIGHT[SEM=?flight] LOCATIONS[SEM=?locations] | LOCATIONS[SEM=?locations] FLIGHT[SEM=?flight]
+S[SEM=(show + itinerary + with + ?locations)] -> LOCATIONS[SEM=?locations]
+LOCATIONS[SEM=?location] -> LOCATION[SEM=?location] LOCATION[SEM=?location] | LOCATION[SEM=?location] | PS LOCATION[SEM=?location] PD LOCATION[SEM=?location] | PS LOCATION[SEM=?location] LOCATION[SEM=?location] | LOCATION[SEM=?location] PD LOCATION[SEM=?location] | PD LOCATION[SEM=?location]
+PS -> 'From' | 'from'
+PD -> 'To' | 'to'
+FLIGHT[SEM='airline'] -> 'Flight' | 'flight' | 'Fly' | 'fly' | 'Go' | 'go' | 'Itinerary' | 'itinerary' | 'Airline' | 'airline' | 'Airways' | 'airways' | 'Air' | 'air'
+LOCATION[SEM='cities'] -> 'http://searchet.baidu.com/ontology#Place'
+DATE[SEM='date'] -> 'http://searchet.baidu.com/ontology#Date'
+
+# book
+S[SEM=(show + profile + ?work)] -> [SEM=?work]
+WORK[SEM='work'] -> 'http://searchet.baidu.com/ontology#Work'

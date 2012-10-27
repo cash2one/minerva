@@ -1,0 +1,31 @@
+李兴建
+Baidu English NER C interface
+http://wiki.babel.baidu.com/twiki/bin/view/Ps/NLPTech/NLPtechWordnerApp310
+
+动态库和python调用示例：
+
+work@dbl-nlptest-2-04.vm.baidu.com:/home/work/lixingjian/runtest/wordner/env_itl/lib/python
+
+
+
+分词词典：
+
+work@dbl-nlptest-2-04.vm.baidu.com:/home/work/lixingjian/runtest/wordner/env_itl/scwdict/gb
+
+
+
+专名词典：
+
+work@dbl-nlptest-2-04.vm.baidu.com:/home/work/lixingjian/runtest/wordner/env_itl/nedict/gb/ps
+
+
+
+wordner.test.py的4个参数分别是
+
+scwdict: 分词词典，要传scw.conf文件所在的目录
+
+nerconf: 专名词典，要传wordner.conf文件所在目录
+
+langid: 语言id，英文的话传0
+
+infile就是输入文件

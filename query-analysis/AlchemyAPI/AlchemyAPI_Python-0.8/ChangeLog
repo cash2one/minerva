@@ -1,0 +1,13 @@
+CHANGELOG
+
+0.8 - Added support for author extraction and targeted sentiment.
+      Added support for later versions of python
+0.7 - Added support for relations extraction.
+0.6 - Added support for sentiment analysis.
+0.5.1 - Changed how exceptions are raised.
+0.5 - Added GetRankedConcepts calls, and parameters object.
+0.4.2 - Added Parameters objects, changed URL calls to use HTTP GET.
+0.4 - Added GetRankedKeywords calls, added TextGetCategory call, lxml support.
+0.3 - Added ConstraintQuery call, general improvements.
+0.2 - Added setApiKey() call, setApiHost() call, updated API endpoint.
+0.1 - Initial Release

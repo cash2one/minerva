@@ -1,0 +1,1306 @@
+
+
+Michelle Obama speech
+{'query': u'Michelle Obama speech', 'nerd': [[u'Person', 'Person', 'none'], [u'OfficeHolder', 'none', 'none']]}
+
+Kellie Pickler
+{'query': u'Kellie Pickler', 'nerd': [[u'Person', 'Person', 'none'], [u'MusicalArtist', 'MusicalArtist', 'Artist'], [u'TVActor', 'TVActor', 'Actor']]}
+
+Deval Patrick
+{'query': u'Deval Patrick', 'nerd': [[u'Person', 'Person', 'none'], [u'Politician', 'Politician', 'Person'], [u'Governor', 'none', 'none']]}
+
+Democratic National Convention 2012
+{'query': u'Democratic National Convention 2012', 'nerd': []}
+
+Blue Moon August 2012
+{'query': u'Blue Moon August 2012', 'nerd': []}
+
+Dedication 4
+{'query': u'Dedication 4', 'nerd': []}
+
+Costa Rica Earthquake
+{'query': u'Costa Rica Earthquake', 'nerd': []}
+
+Maria Montessori
+{'query': u'Maria Montessori', 'nerd': [[u'Person', 'Person', 'none'], [u'Physician', 'Physician', 'Person']]}
+
+Living Social
+{'query': u'Living Social', 'nerd': []}
+
+Andy Roddick
+{'query': u'Andy Roddick', 'nerd': [[u'Person', 'Person', 'none'], [u'Athlete', 'none', 'none'], [u'TennisPlayer', 'TennisPlayer', 'Athlete'], [u'Celebrity', 'Celebrity', 'Person'], [u'OlympicAthlete', 'OlympicAthlete', 'Person'], [u'TennisTournamentChampion', 'TennisTournamentChampion', 'TennisPlayer'], [u'TVActor', 'TVActor', 'Actor']]}
+
+Michelle Obama
+{'query': u'Michelle Obama', 'nerd': [[u'Person', 'Person', 'none'], [u'OfficeHolder', 'none', 'none']]}
+
+Khan Academy
+{'query': u'Khan Academy', 'nerd': [[u'Organization', 'Organization', 'none']]}
+
+Eddie Murphy died
+{'query': u'Eddie Murphy died', 'nerd': [[u'Person', 'Person', 'none'], [u'MusicalArtist', 'MusicalArtist', 'Artist'], [u'AwardNominee', 'AwardNominee', 'Person'], [u'AwardWinner', 'AwardWinner', 'Person'], [u'BroadcastArtist', 'BroadcastArtist', 'Artist'], [u'Celebrity', 'Celebrity', 'Person'], [u'Comedian', 'none', 'none'], [u'FilmDirector', 'FilmDirector', 'Artist'], [u'FilmProducer', 'FilmProducer', 'Artist'], [u'TVProducer', 'TVProducer', 'Person'], [u'FilmActor', 'FilmActor', 'Actor'], [u'FilmWriter', 'none', 'none'], [u'TVActor', 'TVActor', 'Actor'], [u'TVWriter', 'TVWriter', 'Person']]}
+
+Clint Eastwood Speech
+{'query': u'Clint Eastwood Speech', 'nerd': [[u'Person', 'Person', 'none'], [u'Actor', 'none', 'none'], [u'Composer', 'Composer', 'Artist'], [u'MusicalArtist', 'MusicalArtist', 'Artist'], [u'Politician', 'Politician', 'Person'], [u'AwardNominee', 'AwardNominee', 'Person'], [u'AwardWinner', 'AwardWinner', 'Person'], [u'Dedicatee', 'Dedicatee', 'Person'], [u'Dedicator', 'Dedicator', 'Person'], [u'FilmActor', 'FilmActor', 'Actor'], [u'FilmDirector', 'FilmDirector', 'Artist'], [u'FilmMusicContributor', 'FilmMusicContributor', 'Artist'], [u'FilmProducer', 'FilmProducer', 'Artist'], [u'MilitaryPerson', 'MilitaryPerson', 'Person'], [u'MusicalGroupMember', 'MusicalGroupMember', 'Artist'], [u'TVActor', 'TVActor', 'Actor'], [u'TVDirector', 'TVDirector', 'Artist']]}
+
+Costa Rica earthquake
+{'query': u'Costa Rica earthquake', 'nerd': [[u'Country', 'Country', 'PopulatedPlace']]}
+
+NFL
+{'query': u'NFL', 'nerd': []}
+
+Michelle Obama Speech
+{'query': u'Michelle Obama Speech', 'nerd': [[u'Person', 'Person', 'none'], [u'OfficeHolder', 'none', 'none']]}
+
+NASCAR
+{'query': u'NASCAR', 'nerd': [[u'Organization', 'Organization', 'none']]}
+
+Costa Rica
+{'query': u'Costa Rica', 'nerd': [[u'Country', 'Country', 'PopulatedPlace']]}
+
+Espn College Football
+{'query': u'Espn College Football', 'nerd': [[u'Sport', 'Sport', 'Activity']]}
+
+Robin Roberts
+{'query': u'Robin Roberts', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Elizabeth Warren
+{'query': u'Elizabeth Warren', 'nerd': [[u'Person', 'Person', 'none'], [u'FilmActor', 'FilmActor', 'Actor']]}
+
+Suzanne Barr
+{'query': u'Suzanne Barr', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Clint Eastwood
+{'query': u'Clint Eastwood', 'nerd': [[u'Person', 'Person', 'none'], [u'Actor', 'none', 'none'], [u'Composer', 'Composer', 'Artist'], [u'MusicalArtist', 'MusicalArtist', 'Artist'], [u'Politician', 'Politician', 'Person'], [u'AwardNominee', 'AwardNominee', 'Person'], [u'AwardWinner', 'AwardWinner', 'Person'], [u'Dedicatee', 'Dedicatee', 'Person'], [u'Dedicator', 'Dedicator', 'Person'], [u'FilmActor', 'FilmActor', 'Actor'], [u'FilmDirector', 'FilmDirector', 'Artist'], [u'FilmMusicContributor', 'FilmMusicContributor', 'Artist'], [u'FilmProducer', 'FilmProducer', 'Artist'], [u'MilitaryPerson', 'MilitaryPerson', 'Person'], [u'MusicalGroupMember', 'MusicalGroupMember', 'Artist'], [u'TVActor', 'TVActor', 'Actor'], [u'TVDirector', 'TVDirector', 'Artist']]}
+
+Labor Day
+{'query': u'Labor Day', 'nerd': [[u'Holiday', 'Holiday', 'none']]}
+
+Sandra Fluke
+{'query': u'Sandra Fluke', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Michael Strahan
+{'query': u'Michael Strahan', 'nerd': [[u'Person', 'Person', 'none'], [u'Athlete', 'none', 'none'], [u'Celebrity', 'Celebrity', 'Person'], [u'FootballPlayer', 'SoccerPlayer', 'Athlete'], [u'TVActor', 'TVActor', 'Actor']]}
+
+Nazanin Boniadi
+{'query': u'Nazanin Boniadi', 'nerd': [[u'Person', 'Person', 'none'], [u'Actor', 'none', 'none'], [u'FilmActor', 'FilmActor', 'Actor'], [u'TVActor', 'TVActor', 'Actor']]}
+
+Michael Clarke Duncan
+{'query': u'Michael Clarke Duncan', 'nerd': [[u'Person', 'Person', 'none']]}
+
+College Football Scores
+{'query': u'College Football Scores', 'nerd': []}
+
+Eddie Murphy Dead
+{'query': u'Eddie Murphy Dead', 'nerd': [[u'Person', 'Person', 'none'], [u'MusicalArtist', 'MusicalArtist', 'Artist'], [u'AwardNominee', 'AwardNominee', 'Person'], [u'AwardWinner', 'AwardWinner', 'Person'], [u'BroadcastArtist', 'BroadcastArtist', 'Artist'], [u'Celebrity', 'Celebrity', 'Person'], [u'Comedian', 'none', 'none'], [u'FilmDirector', 'FilmDirector', 'Artist'], [u'FilmProducer', 'FilmProducer', 'Artist'], [u'TVProducer', 'TVProducer', 'Person'], [u'FilmActor', 'FilmActor', 'Actor'], [u'FilmWriter', 'none', 'none'], [u'TVActor', 'TVActor', 'Actor'], [u'TVWriter', 'TVWriter', 'Person']]}
+
+myocardial infarction
+{'query': u'myocardial infarction', 'nerd': [[u'HealthCondition', 'HealthCondition', 'none'], [u'DiseaseOrMedicalCondition', 'none', 'none'], [u'CauseOfDeath', 'none', 'none'], [u'RiskFactor', 'none', 'none'], [u'Symptom', 'none', 'none'], [u'Disease', 'none', 'none']]}
+
+Chris Lighty
+{'query': u'Chris Lighty', 'nerd': [[u'Person', 'Person', 'none']]}
+
+NFL Schedule 2012
+{'query': u'NFL Schedule 2012', 'nerd': [[u'Organization', 'Organization', 'none']]}
+
+Griselda Blanco
+{'query': u'Griselda Blanco', 'nerd': [[u'Person', 'Person', 'none'], [u'Criminal', 'none', 'none']]}
+
+Ann Romney
+{'query': u'Ann Romney', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Askew
+{'query': u'Askew', 'nerd': []}
+
+Michigan Football
+{'query': u'Michigan Football', 'nerd': [[u'Sport', 'Sport', 'Activity'], [u'Location', 'none', 'none'], [u'PoliticalDistrict', 'PoliticalDistrict', 'StateOrCounty'], [u'AdministrativeDivision', 'AdministrativeRegion', 'StateOrCounty'], [u'GovernmentalJurisdiction', 'GovernmentalJurisdiction', 'StateOrCounty'], [u'USState', 'none', 'none']]}
+
+Michael Clark Duncan
+{'query': u'Michael Clark Duncan', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Ncaa Football Scores
+{'query': u'Ncaa Football Scores', 'nerd': [[u'Organization', 'Organization', 'none'], [u'SportsAssociation', 'SportsAssociation', 'Organization']]}
+
+Clint Eastwood speech
+{'query': u'Clint Eastwood speech', 'nerd': [[u'Person', 'Person', 'none'], [u'Actor', 'none', 'none'], [u'Composer', 'Composer', 'Artist'], [u'MusicalArtist', 'MusicalArtist', 'Artist'], [u'Politician', 'Politician', 'Person'], [u'AwardNominee', 'AwardNominee', 'Person'], [u'AwardWinner', 'AwardWinner', 'Person'], [u'Dedicatee', 'Dedicatee', 'Person'], [u'Dedicator', 'Dedicator', 'Person'], [u'FilmActor', 'FilmActor', 'Actor'], [u'FilmDirector', 'FilmDirector', 'Artist'], [u'FilmMusicContributor', 'FilmMusicContributor', 'Artist'], [u'FilmProducer', 'FilmProducer', 'Artist'], [u'MilitaryPerson', 'MilitaryPerson', 'Person'], [u'MusicalGroupMember', 'MusicalGroupMember', 'Artist'], [u'TVActor', 'TVActor', 'Actor'], [u'TVDirector', 'TVDirector', 'Artist']]}
+
+Alabama Football
+{'query': u'Alabama Football', 'nerd': [[u'Sport', 'Sport', 'Activity'], [u'Location', 'none', 'none'], [u'PoliticalDistrict', 'PoliticalDistrict', 'StateOrCounty'], [u'AdministrativeDivision', 'AdministrativeRegion', 'StateOrCounty'], [u'GovernmentalJurisdiction', 'GovernmentalJurisdiction', 'StateOrCounty'], [u'USState', 'none', 'none']]}
+
+Farrah Abraham
+{'query': u'Farrah Abraham', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Courtney Stodden
+{'query': u'Courtney Stodden', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Paul Ryan
+{'query': u'Paul Ryan', 'nerd': []}
+
+Blue moon
+{'query': u'Blue moon', 'nerd': []}
+
+Pretty Little Liars
+{'query': u'Pretty Little Liars', 'nerd': []}
+
+Earthquake
+{'query': u'Earthquake', 'nerd': [[u'NaturalDisaster', 'NaturalDisaster', 'Event']]}
+
+Blue Moon
+{'query': u'Blue Moon', 'nerd': []}
+
+Condoleezza Rice
+{'query': u'Condoleezza Rice', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Jersey Shore
+{'query': u'Jersey Shore', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Eddie Murphy
+{'query': u'Eddie Murphy', 'nerd': [[u'Person', 'Person', 'none'], [u'MusicalArtist', 'MusicalArtist', 'Artist'], [u'AwardNominee', 'AwardNominee', 'Person'], [u'AwardWinner', 'AwardWinner', 'Person'], [u'BroadcastArtist', 'BroadcastArtist', 'Artist'], [u'Celebrity', 'Celebrity', 'Person'], [u'Comedian', 'none', 'none'], [u'FilmDirector', 'FilmDirector', 'Artist'], [u'FilmProducer', 'FilmProducer', 'Artist'], [u'TVProducer', 'TVProducer', 'Person'], [u'FilmActor', 'FilmActor', 'Actor'], [u'FilmWriter', 'none', 'none'], [u'TVActor', 'TVActor', 'Actor'], [u'TVWriter', 'TVWriter', 'Person']]}
+
+Pasquale Rotella
+{'query': u'Pasquale Rotella', 'nerd': [[u'Person', 'Person', 'none']]}
+
+NCAA Football Scores
+{'query': u'NCAA Football Scores', 'nerd': [[u'Organization', 'Organization', 'none'], [u'SportsAssociation', 'SportsAssociation', 'Organization']]}
+
+earthquake
+{'query': u'earthquake', 'nerd': []}
+
+Michael Jackson
+{'query': u'Michael Jackson', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Mitt Romney
+{'query': u'Mitt Romney', 'nerd': [[u'Person', 'Person', 'none'], [u'Politician', 'Politician', 'Person'], [u'CompanyFounder', 'CompanyFounder', 'Person'], [u'TVActor', 'TVActor', 'Actor']]}
+
+Marco Rubio
+{'query': u'Marco Rubio', 'nerd': []}
+
+Chris Cooley
+{'query': u'Chris Cooley', 'nerd': []}
+
+Plaquemines Parish
+{'query': u'Plaquemines Parish', 'nerd': [[u'City', 'City', 'Municipality']]}
+
+What Is Labor Day
+{'query': u'What Is Labor Day', 'nerd': [[u'Holiday', 'Holiday', 'none']]}
+
+Mia Love
+{'query': u'Mia Love', 'nerd': []}
+
+blue moon
+{'query': u'blue moon', 'nerd': []}
+
+Canoodle
+{'query': u'Canoodle', 'nerd': []}
+
+Jerry Nelson
+{'query': u'Jerry Nelson', 'nerd': []}
+
+Hurricane Katrina
+{'query': u'Hurricane Katrina', 'nerd': []}
+
+Adrian Gonzalez
+{'query': u'Adrian Gonzalez', 'nerd': []}
+
+Isaac Hurricane
+{'query': u'Isaac Hurricane', 'nerd': []}
+
+Chris Christie
+{'query': u'Chris Christie', 'nerd': [[u'Person', 'Person', 'none'], [u'Politician', 'Politician', 'Person']]}
+
+Hurricane Isaac Path
+{'query': u'Hurricane Isaac Path', 'nerd': []}
+
+Tropical Storm Isaac path
+{'query': u'Tropical Storm Isaac path', 'nerd': []}
+
+Terrell Owens
+{'query': u'Terrell Owens', 'nerd': [[u'Person', 'Person', 'none'], [u'Athlete', 'none', 'none'], [u'Celebrity', 'Celebrity', 'Person'], [u'FootballPlayer', 'SoccerPlayer', 'Athlete'], [u'TVProducer', 'TVProducer', 'Person'], [u'TVActor', 'TVActor', 'Actor']]}
+
+Republican National Convention
+{'query': u'Republican National Convention', 'nerd': []}
+
+Neil Armstrong
+{'query': u'Neil Armstrong', 'nerd': []}
+
+US Open Tennis
+{'query': u'US Open Tennis', 'nerd': [[u'Country', 'Country', 'PopulatedPlace'], [u'Location', 'none', 'none'], [u'Region', 'Region', 'Place'], [u'AdministrativeDivision', 'AdministrativeRegion', 'StateOrCounty'], [u'GovernmentalJurisdiction', 'GovernmentalJurisdiction', 'StateOrCounty'], [u'FilmEditor', 'FilmEditor', 'Artist']]}
+
+Isaac path
+{'query': u'Isaac path', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Guild Wars 2
+{'query': u'Guild Wars 2', 'nerd': []}
+
+Avril Lavigne
+{'query': u'Avril Lavigne', 'nerd': []}
+
+LL Cool J
+{'query': u'LL Cool J', 'nerd': []}
+
+Earthquake San Diego
+{'query': u'Earthquake San Diego', 'nerd': []}
+
+CONDOLEEZZA RICE
+{'query': u'CONDOLEEZZA RICE', 'nerd': [[u'Person', 'Person', 'none']]}
+
+Foo
+{'query': u'Foo', 'nerd': []}
+
+Hurricane Isaac 2012
+{'query': u'Hurricane Isaac 2012', 'nerd': []}
+
+Hurricane Isaac
+{'query': u'Hurricane Isaac', 'nerd': []}
+
+Karlie Redd
+{'query': u'Karlie Redd', 'nerd': []}
+
+Amy Schumer
+{'query': u'Amy Schumer', 'nerd': []}
+
+Perry Hall High School
+{'query': u'Perry Hall High School', 'nerd': [[u'Facility', 'PopulatedPlace', 'Place']]}
+
+Tony Farmer
+{'query': u'Tony Farmer', 'nerd': []}
+
+Snooki baby
+{'query': u'Snooki baby', 'nerd': []}
+
+Sam Claflin
+{'query': u'Sam Claflin', 'nerd': []}
+
+Bill Cosby
+{'query': u'Bill Cosby', 'nerd': []}
+
+Lance Armstrong
+{'query': u'Lance Armstrong', 'nerd': []}
+
+US Open
+{'query': u'US Open', 'nerd': []}
+
+Snooki
+{'query': u'Snooki', 'nerd': []}
+
+Little League World Series
+{'query': u'Little League World Series', 'nerd': []}
+
+Snooki Baby
+{'query': u'Snooki Baby', 'nerd': []}
+
+UFC
+{'query': u'UFC', 'nerd': []}
+
+West Nile virus symptoms
+{'query': u'West Nile virus symptoms', 'nerd': []}
+
+Empire State Building Shooting
+{'query': u'Empire State Building Shooting', 'nerd': []}
+
+Hurricane Isaac path
+{'query': u'Hurricane Isaac path', 'nerd': []}
+
+Tropical Storm Isaac Path
+{'query': u'Tropical Storm Isaac Path', 'nerd': []}
+
+Bill Nye
+{'query': u'Bill Nye', 'nerd': []}
+
+Aaliyah
+{'query': u'Aaliyah', 'nerd': []}
+
+US Open tennis
+{'query': u'US Open tennis', 'nerd': []}
+
+Prince Harry Vegas pictures
+{'query': u'Prince Harry Vegas pictures', 'nerd': []}
+
+London 2012 Diving
+{'query': u'London 2012 Diving', 'nerd': []}
+
+JULIA CHILD
+{'query': u'JULIA CHILD', 'nerd': []}
+
+Olympics
+{'query': u'Olympics', 'nerd': []}
+
+Muhammad Ali
+{'query': u'Muhammad Ali', 'nerd': []}
+
+Todd Akin
+{'query': u'Todd Akin', 'nerd': []}
+
+Texas A&amp;m
+{'query': u'Texas A&amp;m', 'nerd': []}
+
+Randy Travis
+{'query': u'Randy Travis', 'nerd': []}
+
+Olympics live
+{'query': u'Olympics live', 'nerd': []}
+
+Kirk Urso
+{'query': u'Kirk Urso', 'nerd': []}
+
+Colorado shooting victims
+{'query': u'Colorado shooting victims', 'nerd': []}
+
+ichiro
+{'query': u'ichiro', 'nerd': []}
+
+Chicago Bears
+{'query': u'Chicago Bears', 'nerd': []}
+
+Prince Harry naked
+{'query': u'Prince Harry naked', 'nerd': []}
+
+Kristen Stewart Rupert Sanders Photos
+{'query': u'Kristen Stewart Rupert Sanders Photos', 'nerd': []}
+
+Phelps
+{'query': u'Phelps', 'nerd': []}
+
+Lauren Perdue
+{'query': u'Lauren Perdue', 'nerd': []}
+
+Montenegro
+{'query': u'Montenegro', 'nerd': []}
+
+Melky Cabrera
+{'query': u'Melky Cabrera', 'nerd': []}
+
+James Holmes
+{'query': u'James Holmes', 'nerd': []}
+
+Lupe Ontiveros
+{'query': u'Lupe Ontiveros', 'nerd': []}
+
+John Orozco
+{'query': u'John Orozco', 'nerd': []}
+
+Allyson Felix
+{'query': u'Allyson Felix', 'nerd': []}
+
+Darla Moore
+{'query': u'Darla Moore', 'nerd': []}
+
+Empire State Building shooting
+{'query': u'Empire State Building shooting', 'nerd': []}
+
+Misty May Treanor
+{'query': u'Misty May Treanor', 'nerd': []}
+
+OJ Murdock
+{'query': u'OJ Murdock', 'nerd': []}
+
+Alex Morgan
+{'query': u'Alex Morgan', 'nerd': []}
+
+Christian Bale
+{'query': u'Christian Bale', 'nerd': []}
+
+Florida Lotto
+{'query': u'Florida Lotto', 'nerd': []}
+
+Opening ceremony London 2012
+{'query': u'Opening ceremony London 2012', 'nerd': []}
+
+London 2012 basketball
+{'query': u'London 2012 basketball', 'nerd': []}
+
+Chariots of Fire
+{'query': u'Chariots of Fire', 'nerd': []}
+
+London 2012 Closing Ceremony
+{'query': u'London 2012 Closing Ceremony', 'nerd': []}
+
+Kinesio tape
+{'query': u'Kinesio tape', 'nerd': []}
+
+David Boudia
+{'query': u'David Boudia', 'nerd': []}
+
+Bill Clinton
+{'query': u'Bill Clinton', 'nerd': []}
+
+Jessica Ennis
+{'query': u'Jessica Ennis', 'nerd': []}
+
+Danell Leyva
+{'query': u'Danell Leyva', 'nerd': []}
+
+Katherine Jackson
+{'query': u'Katherine Jackson', 'nerd': []}
+
+Matt Grevers
+{'query': u'Matt Grevers', 'nerd': []}
+
+Minka Kelly sex tape
+{'query': u'Minka Kelly sex tape', 'nerd': []}
+
+Tom Hardy
+{'query': u'Tom Hardy', 'nerd': []}
+
+The Campaign
+{'query': u'The Campaign', 'nerd': []}
+
+Newsweek
+{'query': u'Newsweek', 'nerd': []}
+
+Empire State Building
+{'query': u'Empire State Building', 'nerd': []}
+
+meteor shower
+{'query': u'meteor shower', 'nerd': []}
+
+Hurricane
+{'query': u'Hurricane', 'nerd': []}
+
+Chad Johnson
+{'query': u'Chad Johnson', 'nerd': []}
+
+Katie Ledecky
+{'query': u'Katie Ledecky', 'nerd': []}
+
+Weather Radar
+{'query': u'Weather Radar', 'nerd': []}
+
+Olympics Live
+{'query': u'Olympics Live', 'nerd': []}
+
+Medal Count 2012 Olympics
+{'query': u'Medal Count 2012 Olympics', 'nerd': []}
+
+London 2012 Table Tennis
+{'query': u'London 2012 Table Tennis', 'nerd': []}
+
+Women's Gymnastics
+{'query': u"Women's Gymnastics", 'nerd': []}
+
+Taylor Swift
+{'query': u'Taylor Swift', 'nerd': []}
+
+Beach volleyball Olympics 2012
+{'query': u'Beach volleyball Olympics 2012', 'nerd': []}
+
+Ronda Rousey
+{'query': u'Ronda Rousey', 'nerd': []}
+
+NASA
+{'query': u'NASA', 'nerd': []}
+
+London 2012 synchronized swimming
+{'query': u'London 2012 synchronized swimming', 'nerd': []}
+
+London 2012 Hurdles
+{'query': u'London 2012 Hurdles', 'nerd': []}
+
+NBCOlympics
+{'query': u'NBCOlympics', 'nerd': []}
+
+Roger Federer
+{'query': u'Roger Federer', 'nerd': []}
+
+ABC
+{'query': u'ABC', 'nerd': []}
+
+Johnny Pesky
+{'query': u'Johnny Pesky', 'nerd': []}
+
+Serena Williams
+{'query': u'Serena Williams', 'nerd': []}
+
+Evelyn Lozada
+{'query': u'Evelyn Lozada', 'nerd': []}
+
+Helen Gurley Brown
+{'query': u'Helen Gurley Brown', 'nerd': []}
+
+Badminton
+{'query': u'Badminton', 'nerd': []}
+
+London 2012 Women's Pole Vault
+{'query': u"London 2012 Women's Pole Vault", 'nerd': []}
+
+London 2012 Synchronized Swimming
+{'query': u'London 2012 Synchronized Swimming', 'nerd': []}
+
+Garrett Reid
+{'query': u'Garrett Reid', 'nerd': []}
+
+Rio de Janeiro
+{'query': u'Rio de Janeiro', 'nerd': []}
+
+Winter Olympics 2014
+{'query': u'Winter Olympics 2014', 'nerd': []}
+
+NOAA
+{'query': u'NOAA', 'nerd': []}
+
+Rihanna
+{'query': u'Rihanna', 'nerd': []}
+
+Hunter Pence
+{'query': u'Hunter Pence', 'nerd': []}
+
+Paris Jackson
+{'query': u'Paris Jackson', 'nerd': []}
+
+Kourtney Kardashian Baby Girl
+{'query': u'Kourtney Kardashian Baby Girl', 'nerd': []}
+
+London 2012 Slalom Canoe
+{'query': u'London 2012 Slalom Canoe', 'nerd': []}
+
+People Water
+{'query': u'People Water', 'nerd': []}
+
+Aly Raisman
+{'query': u'Aly Raisman', 'nerd': []}
+
+Robyn Lawley
+{'query': u'Robyn Lawley', 'nerd': []}
+
+Aurora victims
+{'query': u'Aurora victims', 'nerd': []}
+
+Perez Hilton
+{'query': u'Perez Hilton', 'nerd': []}
+
+Sikh temple
+{'query': u'Sikh temple', 'nerd': []}
+
+Horshack
+{'query': u'Horshack', 'nerd': []}
+
+Honey Boo Boo Child
+{'query': u'Honey Boo Boo Child', 'nerd': []}
+
+Phyllis Diller
+{'query': u'Phyllis Diller', 'nerd': []}
+
+Big Brother
+{'query': u'Big Brother', 'nerd': []}
+
+London 2012 Soccer
+{'query': u'London 2012 Soccer', 'nerd': []}
+
+NBC Olympics
+{'query': u'NBC Olympics', 'nerd': []}
+
+Medal count 2012 Olympics
+{'query': u'Medal count 2012 Olympics', 'nerd': []}
+
+Medal Count
+{'query': u'Medal Count', 'nerd': []}
+
+MLB trade rumors
+{'query': u'MLB trade rumors', 'nerd': []}
+
+Taylor Kinney
+{'query': u'Taylor Kinney', 'nerd': []}
+
+Usain Bolt
+{'query': u'Usain Bolt', 'nerd': []}
+
+Bumbo Recall
+{'query': u'Bumbo Recall', 'nerd': []}
+
+Ashton Eaton
+{'query': u'Ashton Eaton', 'nerd': []}
+
+NBC Olympics Live
+{'query': u'NBC Olympics Live', 'nerd': []}
+
+Ryan Dempster
+{'query': u'Ryan Dempster', 'nerd': []}
+
+Kindle Fire
+{'query': u'Kindle Fire', 'nerd': []}
+
+Olympic Medal Count
+{'query': u'Olympic Medal Count', 'nerd': []}
+
+Chick fil a
+{'query': u'Chick fil a', 'nerd': []}
+
+NBC
+{'query': u'NBC', 'nerd': []}
+
+Aurora
+{'query': u'Aurora', 'nerd': []}
+
+Jessie J
+{'query': u'Jessie J', 'nerd': []}
+
+Rupert Sanders
+{'query': u'Rupert Sanders', 'nerd': []}
+
+opening ceremony London 2012
+{'query': u'opening ceremony London 2012', 'nerd': []}
+
+Hunger Games
+{'query': u'Hunger Games', 'nerd': []}
+
+Chick fil A
+{'query': u'Chick fil A', 'nerd': []}
+
+Kenneth Branagh
+{'query': u'Kenneth Branagh', 'nerd': []}
+
+Leryn Franco
+{'query': u'Leryn Franco', 'nerd': []}
+
+TD Bank
+{'query': u'TD Bank', 'nerd': []}
+
+Chick Fil A
+{'query': u'Chick Fil A', 'nerd': []}
+
+Ron Palillo
+{'query': u'Ron Palillo', 'nerd': []}
+
+Usain Bolt 2012 Olympics
+{'query': u'Usain Bolt 2012 Olympics', 'nerd': []}
+
+Steelers
+{'query': u'Steelers', 'nerd': []}
+
+Gabby Douglas Hair
+{'query': u'Gabby Douglas Hair', 'nerd': []}
+
+David Bowie
+{'query': u'David Bowie', 'nerd': []}
+
+Snoop Lion
+{'query': u'Snoop Lion', 'nerd': []}
+
+Women's Gymnastics Olympics
+{'query': u"Women's Gymnastics Olympics", 'nerd': []}
+
+Olympics Schedule 2012
+{'query': u'Olympics Schedule 2012', 'nerd': []}
+
+Beach Volleyball Olympics 2012
+{'query': u'Beach Volleyball Olympics 2012', 'nerd': []}
+
+Aliya Mustafina
+{'query': u'Aliya Mustafina', 'nerd': []}
+
+Hanley Ramirez
+{'query': u'Hanley Ramirez', 'nerd': []}
+
+NBA
+{'query': u'NBA', 'nerd': []}
+
+London 2012 diving
+{'query': u'London 2012 diving', 'nerd': []}
+
+Powerball
+{'query': u'Powerball', 'nerd': []}
+
+Tim Berners-Lee
+{'query': u'Tim Berners-Lee', 'nerd': []}
+
+Usher
+{'query': u'Usher', 'nerd': []}
+
+George Michael
+{'query': u'George Michael', 'nerd': []}
+
+Marvin Hamlisch
+{'query': u'Marvin Hamlisch', 'nerd': []}
+
+Aaron Ross
+{'query': u'Aaron Ross', 'nerd': []}
+
+Chad Everett
+{'query': u'Chad Everett', 'nerd': []}
+
+Olympic schedule
+{'query': u'Olympic schedule', 'nerd': []}
+
+Mayim Bialik
+{'query': u'Mayim Bialik', 'nerd': []}
+
+London 2012 China
+{'query': u'London 2012 China', 'nerd': []}
+
+Hope Solo
+{'query': u'Hope Solo', 'nerd': []}
+
+Bachelorette
+{'query': u'Bachelorette', 'nerd': []}
+
+Olympics 2012 Schedule
+{'query': u'Olympics 2012 Schedule', 'nerd': []}
+
+BBC
+{'query': u'BBC', 'nerd': []}
+
+Nathan Adrian
+{'query': u'Nathan Adrian', 'nerd': []}
+
+London Olympics
+{'query': u'London Olympics', 'nerd': []}
+
+National Weather Service
+{'query': u'National Weather Service', 'nerd': []}
+
+Tony Scott
+{'query': u'Tony Scott', 'nerd': []}
+
+Christian Bale visits victims
+{'query': u'Christian Bale visits victims', 'nerd': []}
+
+Fatboy Slim
+{'query': u'Fatboy Slim', 'nerd': []}
+
+PGA Championship 2012
+{'query': u'PGA Championship 2012', 'nerd': []}
+
+Kayla Harrison
+{'query': u'Kayla Harrison', 'nerd': []}
+
+Sikh
+{'query': u'Sikh', 'nerd': []}
+
+Google Fiber
+{'query': u'Google Fiber', 'nerd': []}
+
+Felix Hernandez
+{'query': u'Felix Hernandez', 'nerd': []}
+
+AAPL
+{'query': u'AAPL', 'nerd': []}
+
+Carly Rae Jepsen
+{'query': u'Carly Rae Jepsen', 'nerd': []}
+
+tagged
+{'query': u'tagged', 'nerd': []}
+
+Earthquake Costa Rica
+{'query': u'Earthquake Costa Rica', 'nerd': []}
+
+Vanessa Bryant
+{'query': u'Vanessa Bryant', 'nerd': []}
+
+Olympic Schedule
+{'query': u'Olympic Schedule', 'nerd': []}
+
+Meteor Shower
+{'query': u'Meteor Shower', 'nerd': []}
+
+Eric Idle
+{'query': u'Eric Idle', 'nerd': []}
+
+Lakers
+{'query': u'Lakers', 'nerd': []}
+
+Minka Kelly
+{'query': u'Minka Kelly', 'nerd': []}
+
+Bumbo recall
+{'query': u'Bumbo recall', 'nerd': []}
+
+Tom Daley
+{'query': u'Tom Daley', 'nerd': []}
+
+Kerri Strug
+{'query': u'Kerri Strug', 'nerd': []}
+
+UFC 151
+{'query': u'UFC 151', 'nerd': []}
+
+UFC 150
+{'query': u'UFC 150', 'nerd': []}
+
+NFL.com
+{'query': u'NFL.com', 'nerd': []}
+
+nbcolympics
+{'query': u'nbcolympics', 'nerd': []}
+
+Nastia Liukin
+{'query': u'Nastia Liukin', 'nerd': []}
+
+Joey Kovar
+{'query': u'Joey Kovar', 'nerd': []}
+
+Amber Portwood
+{'query': u'Amber Portwood', 'nerd': []}
+
+Shawn Johnson
+{'query': u'Shawn Johnson', 'nerd': []}
+
+Empire State building shooting
+{'query': u'Empire State building shooting', 'nerd': []}
+
+Katy Perry
+{'query': u'Katy Perry', 'nerd': []}
+
+Allison Schmitt
+{'query': u'Allison Schmitt', 'nerd': []}
+
+Olympics Opening Ceremony
+{'query': u'Olympics Opening Ceremony', 'nerd': []}
+
+Dancing With the Stars
+{'query': u'Dancing With the Stars', 'nerd': []}
+
+Olympic Schedule 2012
+{'query': u'Olympic Schedule 2012', 'nerd': []}
+
+Elvis Presley
+{'query': u'Elvis Presley', 'nerd': []}
+
+Heptathlon
+{'query': u'Heptathlon', 'nerd': []}
+
+Victoria Beckham
+{'query': u'Victoria Beckham', 'nerd': []}
+
+Mens Gymnastics
+{'query': u'Mens Gymnastics', 'nerd': []}
+
+Jessica Ghawi
+{'query': u'Jessica Ghawi', 'nerd': []}
+
+Dancing with the Stars
+{'query': u'Dancing with the Stars', 'nerd': []}
+
+Andy Reid
+{'query': u'Andy Reid', 'nerd': []}
+
+decathlon
+{'query': u'decathlon', 'nerd': []}
+
+Sam Mikulak
+{'query': u'Sam Mikulak', 'nerd': []}
+
+Caster Semenya
+{'query': u'Caster Semenya', 'nerd': []}
+
+Freddie Mercury
+{'query': u'Freddie Mercury', 'nerd': []}
+
+Gore Vidal
+{'query': u'Gore Vidal', 'nerd': []}
+
+WWE
+{'query': u'WWE', 'nerd': []}
+
+Angie Everhart
+{'query': u'Angie Everhart', 'nerd': []}
+
+Shark Week
+{'query': u'Shark Week', 'nerd': []}
+
+Penn State
+{'query': u'Penn State', 'nerd': []}
+
+James Holmes court
+{'query': u'James Holmes court', 'nerd': []}
+
+Rebecca Soni
+{'query': u'Rebecca Soni', 'nerd': []}
+
+Julia Child
+{'query': u'Julia Child', 'nerd': []}
+
+badminton
+{'query': u'badminton', 'nerd': []}
+
+Closing Ceremony London 2012
+{'query': u'Closing Ceremony London 2012', 'nerd': []}
+
+Sally Ride
+{'query': u'Sally Ride', 'nerd': []}
+
+Alexa Vega
+{'query': u'Alexa Vega', 'nerd': []}
+
+Kyla Ross
+{'query': u'Kyla Ross', 'nerd': []}
+
+Andy Murray
+{'query': u'Andy Murray', 'nerd': []}
+
+iPhone 5
+{'query': u'iPhone 5', 'nerd': []}
+
+2016 Olympics
+{'query': u'2016 Olympics', 'nerd': []}
+
+London 2012 javelin
+{'query': u'London 2012 javelin', 'nerd': []}
+
+Frank Ocean
+{'query': u'Frank Ocean', 'nerd': []}
+
+London 2012 shot put
+{'query': u'London 2012 shot put', 'nerd': []}
+
+London 2012 Basketball
+{'query': u'London 2012 Basketball', 'nerd': []}
+
+2012 Olympics
+{'query': u'2012 Olympics', 'nerd': []}
+
+Olga Korbut
+{'query': u'Olga Korbut', 'nerd': []}
+
+Mars landing
+{'query': u'Mars landing', 'nerd': []}
+
+London 2012 Track and Field
+{'query': u'London 2012 Track and Field', 'nerd': []}
+
+Wiz Khalifa
+{'query': u'Wiz Khalifa', 'nerd': []}
+
+London 2012 Fencing
+{'query': u'London 2012 Fencing', 'nerd': []}
+
+Kobe Bryant
+{'query': u'Kobe Bryant', 'nerd': []}
+
+Drew Peterson
+{'query': u'Drew Peterson', 'nerd': []}
+
+Dominique Dawes
+{'query': u'Dominique Dawes', 'nerd': []}
+
+Missy Franklin
+{'query': u'Missy Franklin', 'nerd': []}
+
+Ichiro
+{'query': u'Ichiro', 'nerd': []}
+
+Spice Girls
+{'query': u'Spice Girls', 'nerd': []}
+
+Miley Cyrus
+{'query': u'Miley Cyrus', 'nerd': []}
+
+Ye Shiwen
+{'query': u'Ye Shiwen', 'nerd': []}
+
+Oscar Pistorius
+{'query': u'Oscar Pistorius', 'nerd': []}
+
+Meteor Shower August 2012
+{'query': u'Meteor Shower August 2012', 'nerd': []}
+
+London 2012 Javelin
+{'query': u'London 2012 Javelin', 'nerd': []}
+
+Gabby Douglas hair
+{'query': u'Gabby Douglas hair', 'nerd': []}
+
+David Rakoff
+{'query': u'David Rakoff', 'nerd': []}
+
+Ernie Els
+{'query': u'Ernie Els', 'nerd': []}
+
+Olympic Games
+{'query': u'Olympic Games', 'nerd': []}
+
+Prince Harry
+{'query': u'Prince Harry', 'nerd': []}
+
+Medal Count 2012
+{'query': u'Medal Count 2012', 'nerd': []}
+
+Mountain Lion
+{'query': u'Mountain Lion', 'nerd': []}
+
+Rory McIlroy
+{'query': u'Rory McIlroy', 'nerd': []}
+
+Powerball Numbers
+{'query': u'Powerball Numbers', 'nerd': []}
+
+Amelia Earhart
+{'query': u'Amelia Earhart', 'nerd': []}
+
+Bourne Legacy
+{'query': u'Bourne Legacy', 'nerd': []}
+
+Pussy Riot
+{'query': u'Pussy Riot', 'nerd': []}
+
+Gabby Douglas
+{'query': u'Gabby Douglas', 'nerd': []}
+
+Olympic medal count
+{'query': u'Olympic medal count', 'nerd': []}
+
+Jake Dalton
+{'query': u'Jake Dalton', 'nerd': []}
+
+London 2012 Artistic Gymnastics Men's Rings
+{'query': u"London 2012 Artistic Gymnastics Men's Rings", 'nerd': []}
+
+Honey Boo Boo
+{'query': u'Honey Boo Boo', 'nerd': []}
+
+Olympics 2012 schedule
+{'query': u'Olympics 2012 schedule', 'nerd': []}
+
+London 2012 rhythmic gymnastics
+{'query': u'London 2012 rhythmic gymnastics', 'nerd': []}
+
+Sherman Hemsley
+{'query': u'Sherman Hemsley', 'nerd': []}
+
+Kathi Goertzen
+{'query': u'Kathi Goertzen', 'nerd': []}
+
+Gabby Olympic Gymnast
+{'query': u'Gabby Olympic Gymnast', 'nerd': []}
+
+Zeek Rewards
+{'query': u'Zeek Rewards', 'nerd': []}
+
+Teen Choice Awards 2012
+{'query': u'Teen Choice Awards 2012', 'nerd': []}
+
+McKayla Maroney
+{'query': u'McKayla Maroney', 'nerd': []}
+
+Taio Cruz
+{'query': u'Taio Cruz', 'nerd': []}
+
+London 2012 field hockey
+{'query': u'London 2012 field hockey', 'nerd': []}
+
+USA Basketball
+{'query': u'USA Basketball', 'nerd': []}
+
+Misty May And Kerri Walsh
+{'query': u'Misty May And Kerri Walsh', 'nerd': []}
+
+hurricane
+{'query': u'hurricane', 'nerd': []}
+
+US weekly
+{'query': u'US weekly', 'nerd': []}
+
+British Open Leaderboard
+{'query': u'British Open Leaderboard', 'nerd': []}
+
+MLB Trade Rumors
+{'query': u'MLB Trade Rumors', 'nerd': []}
+
+Microsoft
+{'query': u'Microsoft', 'nerd': []}
+
+Olympics Opening Ceremony Time
+{'query': u'Olympics Opening Ceremony Time', 'nerd': []}
+
+Olympics 2012
+{'query': u'Olympics 2012', 'nerd': []}
+
+John Witherspoon
+{'query': u'John Witherspoon', 'nerd': []}
+
+Olympic Medal Count 2012
+{'query': u'Olympic Medal Count 2012', 'nerd': []}
+
+Nadia Comaneci
+{'query': u'Nadia Comaneci', 'nerd': []}
+
+Beady Eye
+{'query': u'Beady Eye', 'nerd': []}
+
+Colorado shooting
+{'query': u'Colorado shooting', 'nerd': []}
+
+Sikh Temple
+{'query': u'Sikh Temple', 'nerd': []}
+
+Dallas Cowboys
+{'query': u'Dallas Cowboys', 'nerd': []}
+
+Michael Phelps
+{'query': u'Michael Phelps', 'nerd': []}
+
+US Weekly
+{'query': u'US Weekly', 'nerd': []}
+
+Lolo Jones
+{'query': u'Lolo Jones', 'nerd': []}
+
+Sanya Richards Ross
+{'query': u'Sanya Richards Ross', 'nerd': []}
+
+London 2012 Track And Field
+{'query': u'London 2012 Track And Field', 'nerd': []}
+
+London 2012 soccer
+{'query': u'London 2012 soccer', 'nerd': []}
+
+Joe Biden
+{'query': u'Joe Biden', 'nerd': []}
+
+Megan Rossee
+{'query': u'Megan Rossee', 'nerd': []}
+
+Expendables 2
+{'query': u'Expendables 2', 'nerd': []}
+
+Lindsay Lohan
+{'query': u'Lindsay Lohan', 'nerd': []}
+
+Morgan Freeman
+{'query': u'Morgan Freeman', 'nerd': []}
+
+Art Modell
+{'query': u'Art Modell', 'nerd': []}
+
+Lollapalooza
+{'query': u'Lollapalooza', 'nerd': []}
+
+Columbine
+{'query': u'Columbine', 'nerd': []}
+
+Ledecky
+{'query': u'Ledecky', 'nerd': []}
+
+Grenada
+{'query': u'Grenada', 'nerd': []}
+
+London 2012 fencing
+{'query': u'London 2012 fencing', 'nerd': []}
+
+Justin Theroux
+{'query': u'Justin Theroux', 'nerd': []}
+
+Chad Johnson Twitter
+{'query': u'Chad Johnson Twitter', 'nerd': []}
+
+Christian Bale Visits Victims
+{'query': u'Christian Bale Visits Victims', 'nerd': []}
+
+Rich Kids of Instagram
+{'query': u'Rich Kids of Instagram', 'nerd': []}
+
+Tyrann Mathieu
+{'query': u'Tyrann Mathieu', 'nerd': []}
+
+Chariots Of Fire
+{'query': u'Chariots Of Fire', 'nerd': []}
+
+Dwight Howard
+{'query': u'Dwight Howard', 'nerd': []}
+
+Tropical Storm Isaac
+{'query': u'Tropical Storm Isaac', 'nerd': []}
+
+Shark Week 2012
+{'query': u'Shark Week 2012', 'nerd': []}
+
+Marilyn Monroe
+{'query': u'Marilyn Monroe', 'nerd': []}
+
+Opening Ceremony London 2012
+{'query': u'Opening Ceremony London 2012', 'nerd': []}
+
+Ryan Lochte
+{'query': u'Ryan Lochte', 'nerd': []}
+
+Phillies
+{'query': u'Phillies', 'nerd': []}
+
+Dana Vollmer
+{'query': u'Dana Vollmer', 'nerd': []}
+
+Prince Harry Vegas
+{'query': u'Prince Harry Vegas', 'nerd': []}
+
+London 2012 closing ceremony
+{'query': u'London 2012 closing ceremony', 'nerd': []}
+
+Kinesio Tape
+{'query': u'Kinesio Tape', 'nerd': []}
+
+NBC Olympics schedule
+{'query': u'NBC Olympics schedule', 'nerd': []}
+
+Olympics closing ceremony
+{'query': u'Olympics closing ceremony', 'nerd': []}
+
+London 2012 hurdles
+{'query': u'London 2012 hurdles', 'nerd': []}
+
+National Hurricane Center
+{'query': u'National Hurricane Center', 'nerd': []}
+
+Kristen Stewart
+{'query': u'Kristen Stewart', 'nerd': []}
+
+Tony Sly
+{'query': u'Tony Sly', 'nerd': []}
+
+Jordyn Wieber
+{'query': u'Jordyn Wieber', 'nerd': []}
+
+Alfonso Ribeiro
+{'query': u'Alfonso Ribeiro', 'nerd': []}
+
+Stand Up To Cancer
+{'query': u'Stand Up To Cancer', 'nerd': []}
+
+Jennifer Granholm
+{'query': u'Jennifer Granholm', 'nerd': []}
+
+Kevin Hart
+{'query': u'Kevin Hart', 'nerd': []}
+
+Scarlett Johansson
+{'query': u'Scarlett Johansson', 'nerd': []}
+
+Obama speech
+{'query': u'Obama speech', 'nerd': []}
+
+Devon Walker
+{'query': u'Devon Walker', 'nerd': []}
+
+Chris Kluwe
+{'query': u'Chris Kluwe', 'nerd': []}
+
+Morgan Freeman Dead
+{'query': u'Morgan Freeman Dead', 'nerd': []}
+
+Star Trek: The Original Series
+{'query': u'Star Trek: The Original Series', 'nerd': []}
+
+Frank Ocean Gay
+{'query': u'Frank Ocean Gay', 'nerd': []}
+
+Obama Speech
+{'query': u'Obama Speech', 'nerd': []}
+
+Amber Rose
+{'query': u'Amber Rose', 'nerd': []}
+
+Stand Up to Cancer
+{'query': u'Stand Up to Cancer', 'nerd': []}
+
+stand up to cancer
+{'query': u'stand up to cancer', 'nerd': []}
+
+Clinton speech
+{'query': u'Clinton speech', 'nerd': []}
+
+Eva Longoria
+{'query': u'Eva Longoria', 'nerd': []}
+
+Carlton
+{'query': u'Carlton', 'nerd': []}
+
+College Football Scoreboard
+{'query': u'College Football Scoreboard', 'nerd': []}

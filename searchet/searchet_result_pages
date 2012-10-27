@@ -1,0 +1,83 @@
+>>> People
+[
+'title':'Michelle Obama',
+'summary':'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget facilisis ante. Curabitur eu diam purus. Fusce sed justo arcu. Nulla vitae scelerisque nisi. Vivamus tempus augue in ante semper eget gravida tellus sodales. Integer tincidunt velit sit amet diam aliquet tempus. In nec tellus eget justo porttitor porttitor vel sed eros.',
+'image':'http://img.freebase.com/api/trans/image_thumb/m/02gn5dx?maxheight=600&mode=fit&maxwidth=300',
+'more_link':'http://en.wikipedia.org/wiki/index.html?curid=18622259',
+'related_images':{
+	    'Barack Obama':'http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/220px-Official_portrait_of_Barack_Obama.jpg', 
+	    'Hilary Clinton':'http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg/220px-Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg'
+	},
+'attributes':[
+	    ('KWType', 'Artefact'),
+	    ('Category', 'business and industry'),
+	    ('Slogan', 'Innovation That Matters, Think, What Makes You Special?'),
+	    ('Computer Lines', 'IBM System i, IBM System p, IBM System x, IBM System z'),
+	    ('Issue', 'INTL BUSINESS MACHINES CORP Common Stock'),
+	    ('Industry', 'Computer hardware, Computer software, Computer Systems Design Services, Administrative Management and General Management Consulting Services, Management Consulting Services, Computer Integrated Systems Design'),
+	    ('Place founded','Endicott')
+	],
+'related_news':{
+		'images':['http://i2.cdn.turner.com/cnn/dam/assets/120924011440-ten-dollar-bill-story-top.jpg', 'http://i2.cdn.turner.com/cnn/dam/assets/110912013005-david-frum-portrait-left-tease.jpg']
+		'content':'<html>some clean html code after readability</html>'
+	},
+'google_results':[
+	    ('<em>IBM</em> - United States', 'http://www.ibm.com/','The IBM corporate home page, entry point to information about IBM products and services.'),
+	    ('<em>IBM</em> Recruitment - Join Us','http://www.ibm.com/employment/','Why I\'m an IBMer. Are you a problem solver? Are you a difference maker? Are you ready to make the planet work smarter? Are you an IBMer? Join us. Jobs at ...'),
+	    ('<em>IBM</em> - Wikipedia, the free encyclopedia','http://en.wikipedia.org/wiki/IBM','<em>International Business Machines</em> Corporation, or <em>IBM</em>, is an American multinational technology and consulting corporation headquartered in Armonk, New York, ...'),
+	    ('<em>IBM</em>: Summary for <em>International Business Machines</em> - Yahoo! Finance','http://finance.yahoo.com/q%3Fs%3DIBM','View the basic IBM stock chart on Yahoo! Finance. Change the date range, chart type and compare International Business Machines against other companies.'),
+    ]
+]
+
+
+
+>>> Flights
+Please refer to http://www.google.com/landing/now/
+[
+'airline_name':'United Airlines',
+'airline_logo':'http://upload.wikimedia.org/wikipedia/en/thumb/e/e0/United_Airlines_Logo.svg/300px-United_Airlines_Logo.svg.png',
+'airline_number':'Flight 2340',
+'status':'Delayed',
+'date':'Tue, September 25, 2012',
+'from':'San Francisco'.
+'to':'Beijing',
+'ticket_price':'USD 800',
+'weather':{
+		'source':[
+				('temperature', '37C').
+				('humidity', '80%'),
+				('Wind', 'W at 11km/h'),
+				('forecast', 'Partly Cloudy'),
+				('forecast_icon', 'http://s.imwx.com/v.20120328.084208//img/wxicon/120/29.png'),
+				('more_link', 'http://www.weather.com/weather/right-now/37.774929,-122.419415')
+			],
+		'destination':[
+				('temperature', '21C').
+				('humidity', '65%'),
+				('Wind', 'N at 6km/h'),
+				('forecast', 'Light Rain'),
+				('forecast_icon', 'http://s.imwx.com/v.20120328.084208//img/wxicon/120/11.png'),
+				('more_link', 'http://www.weather.com/weather/right-now/39.904214,116.407413')
+			]
+	},
+'flight_info':{
+	'source':[
+			('airport_short', 'SFO'),
+			('depart_time', '7:09pm, September 25, 2012'),
+			('scheduled_time', '5:20pm, September 25, 2012'),
+			('terminal', 'Termina 4, Gate A3'),
+			('airport_address', 'California 94128 United States'),
+			('airport_telephone', '(800) 435-9736'),
+			('airport_email', 'Jean.Caramatti@flysfo.com')
+		],
+	'destination':[
+			('airport_short','PEK')
+			('arrive_time', '10:32pm, September 26, 2012'),
+			('scheduled_time', '2:20pm, September 26, 2012'),
+			('terminal', 'Terminal 2, Gate 50'),
+			('airport_address', 'Airport Road, Chaoyang District, Beijing, 100621, China'),
+			('airport_telephone', '010-64541100'),
+			('airport_email', 'service@bcia.com.cn')
+		]
+	}
+]

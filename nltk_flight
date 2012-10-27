@@ -1,0 +1,6 @@
+from nltk import load_parser
+c = load_parser('flight.fcfg')
+'_'.join(c.nbest_parse('Location Location'.split())[0].node['SEM'])
+
+test = 'some_method("parameters")'
+eval(test)

@@ -1,0 +1,2176 @@
+
+ 
+  JULIA CHILD
+  Person
+  Hall of fame inductee, Film subject, Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, Film actor, TV Personality, Literature Subject, Topic, Person impersonated on SNL, Film story contributor, Person, Columnist, Deceased Person, Impersonated celebrity, TV Actor, Concept, Ontology Instance, Person Or Being In Fiction, Chef, NNDB Person, Name source, Context name
+  people, tv, fictional_universe, influence, award, symbols, dining, book, film
+ 
+  Olympics
+  SportingEvent
+  Domain, Domain Profile
+  freebase, type
+ 
+  Costa Rica Earthquake
+  None
+  Topic, Earthquake, Event
+  time
+ 
+  Devon Walker
+  Person
+  Topic, Person, Athlete, American football player
+  sports, american_football, people
+ 
+  Muhammad Ali
+  Person, AwardWinner, Boxer, HallOfFameInductee, MartialArtist, OlympicAthlete, TVPersonality, FilmActor, FilmWriter, TVActor
+  Public figure with medical condition, Film subject, Author, Award Winner, Person or entity appearing in film, TV subject, Film actor, Literature Subject, TV Personality, Measured person, Athlete extra, Boxer, Film writer, Athlete, Person extra, Person, Martial Artist, TV Actor, Art Subject, Olympic athlete, Ontology Instance, Person Or Being In Fiction, Sports official, Topic, Hall of fame inductee, Context name
+  visual_art, people, tv, fictional_universe, m, award, sports, martial_arts, olympics, medicine, book, film
+ 
+  Isaac Hurricane
+  None
+  Topic, Tropical Cyclone
+  meteorology
+ 
+  Todd Akin
+  Person, Politician, U.S.Congressperson
+  US Representative (current), Politician, U.S. Congressperson, Social network user, Topic, Person, US Representative, NNDB Person, Legislator
+  government, internet, people
+ 
+  Hurricane Isaac Path
+  None
+  None
+  None
+ 
+  Texas A&amp;m
+  Company, Location, PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState
+  Business Operation, Ranked item, Educational institution extra, Educational Institution Campus, Organization member, dbpedia_import, Educational Institution, Processed with Review Queue, Employer, Topic, Thing, Project participant, Location, Film company, Organization, Place of interment, Endowed Organization, College/University
+  business, people, m, award, film, location, organization, education, projects
+ 
+  Randy Travis
+  Person, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, MusicalGroupMember, FilmActor, TVActor
+  TV Actor, Award Nominee, Person, Award Winner, SNL musical guest, Musician, Person or entity appearing in film, Topic, Musical Artist, Film actor, NNDB Person, Broadcast Artist
+  people, tv, award, broadcast, music, film
+ 
+  Condoleezza Rice
+  Person
+  Object of Parody, Organization leader, Award Winner, Award Nominee, Person or entity appearing in film, Film actor, Literature Subject, Public speaker, Author, Decision-maker, Politician, Academic, Political Appointer, Moral advocate, Ranked item, TV Actor, Person, Person Or Being In Fiction, Topic, Musical Artist, NNDB Person, Name source
+  business, government, tv, fictional_universe, people, award, symbols, book, music, education, event, film
+ 
+  Olympics live
+  SportingEvent
+  Topic, Musical Recording, Canonical Version
+  music
+ 
+  Kirk Urso
+  Person
+  Measured person, Football player, Athlete, Athlete extra, Topic, Person, Processed with Review Queue, Deceased Person
+  soccer, sports, people
+ 
+  Colorado shooting victims
+  StateOrCounty, Location, PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState
+  Violent event, Motivation, Disaster, Ontology Instance, event, Decision or motivated action, Crime, Topic, Death-causing event, Literature Subject, Event, Quotation Subject
+  book, media_common, event, time
+ 
+  ichiro
+  None
+  Baseball Player, Athlete, Person or entity appearing in film, Athlete extra, Topic, Person, Sports League Award Winner, Film actor, NNDB Person, Measured person
+  sports, baseball, film, people
+ 
+  Suzanne Barr
+  Person
+  Topic, Person
+  people
+ 
+  Republican National Convention
+  None
+  Topic, Conference series, Recurring event
+  conferences, time
+ 
+  Chicago Bears
+  Organization, SportsTeam, FootballTeam, ProfessionalSportsTeam
+  Sports team extra, Project focus, American football team, Ontology Instance, Brand, Football Team, Professional Sports Team, Person or entity appearing in film, Topic, Player, Award Presenting Organization, Sports Team
+  business, american_football, award, sports, projects, film
+ 
+  Prince Harry naked
+  Person
+  Topic, Person, Film actor, Influence Node
+  influence, film, people
+ 
+  Kristen Stewart Rupert Sanders Photos
+  Person, Actor, AwardNominee, AwardWinner, Celebrity, FilmActor, TVActor
+  None
+  None
+ 
+  Lauren Perdue
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Eva Longoria
+  Person, Actor
+  Organization founder, TV Actor, SNL actor, SNL host, Film producer, Celebrity, Award Nominee, Person or entity appearing in film, TV program guest, Topic, Person, sww_base, Film actor, NNDB Person, Influence Node, TV Personality, Ranked item
+  people, tv, celebrities, influence, award, organization, film
+ 
+  myocardial infarction
+  HealthCondition, DiseaseOrMedicalCondition, CauseOfDeath, RiskFactor, Symptom, Disease
+  Medical Term, Concept, Cause Of Death, Medical condition in fiction, Ontology Instance, Disease, Topic, BV: Medical Condition, Disease or medical condition, Risk Factor, Symptom
+  medicine, fictional_universe, people
+ 
+  Kenneth Branagh
+  Person, Actor, AwardNominee, AwardWinner, Celebrity, FilmActor, FilmDirector, FilmProducer, TheaterActor, TVActor, TVProducer, FilmWriter
+  Author, topic, Film director, Measured person, TV Actor, Award Winner, Film producer, Celebrity, Award Nominee, Person or entity appearing in film, Topic, Person, sww_base, Film actor, NNDB Person, Influence Node, TV Personality, TV Producer, Film writer, Theater Actor, Shakespearean actor
+  theater, people, tv, m, influence, celebrities, book, award, film
+ 
+  Michael Clarke Duncan
+  Person
+  TV Actor, Deceased Person, Award Winner, Influence Node, Celebrity, Award Nominee, Topic, Person, Video Game Actor, Film actor, NNDB Person, Notable event participants
+  people, tv, influence, award, cvg, film
+ 
+  Jennifer Granholm
+  Person, Politician, Governor
+  US State Governor (current), Politician, NNDB Person, Topic, Person, Lawyer
+  government, people
+ 
+  Marvin Hamlisch
+  Person, Composer, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, FilmMusicContributor, MusicalGroupMember, TheatricalComposer, TVActor
+  TV Actor, Award Nominee, NNDB Person, Film music contributor, Person, Award Winner, Musician, Celebrity, Author, Theatrical Composer, Person or entity appearing in film, Topic, Musical Artist, Composer, sww_base, Deceased Person, Broadcast Artist
+  theater, people, tv, award, broadcast, book, music, film
+ 
+  Obama speech
+  Person, Politician, President, Appointer, AwardWinner, Celebrity, PoliticalAppointer, U.S.Congressperson, USPresident, TVActor
+  Appointer, Convention Speaker, Candidate, Author, Award Winner, Influence Node, Organization member, Award Nominee, Person or entity appearing in film, Employer, Twitter Topic, Film actor, design, funny guy, Literature Subject, Public speaker, Measured person, Film subject, Poem character, Musical Artist, Person impersonated on SNL, Company, Presidential Nominee, Proposition Issue, Recreational drug user, Presidential Candidate, Inauguration Speaker, Famous Author, Name source, School GPA, Politician, Lawyer, U.S. Congressperson, Celebrity, Social network user, Nobel Prize Winner, Person extra, Person, Broadcast Producer, Political Appointer, sww_base, Primary Candidate, Organization, Pet Owner, Endorsee, First, TV Actor, Concept, Art Subject, Ranked item, Person Or Being In Fiction, Building Occupant, TV program guest, Topic, US President, TV Character, NNDB Person, My favorite things, Named person, Book Character, Context name, Legislator, Quotation Subject
+  visual_art, broadcast, organization, business, people, tv, influence, government, celebrities, m, award, fictional_universe, symbols, book, music, architecture, internet, media_common, event, film
+ 
+  Montenegro
+  Country, Location, GovernmentalJurisdiction
+  Military Combatant, Organization member, Location, Sports Team Location, Literature Subject, Government, Administrative Division, Flag referent, Countries, Country, Statistical region, Administrative Area, Military power, Olympic participating country, Newspaper circulation area, Governmental Jurisdiction, Dated location, Beer country / region, Ontology Instance, Sovereign state, Topic, Organization scope
+  government, food, periodicals, sports, symbols, book, olympics, location, military, organization
+ 
+  Melky Cabrera
+  Person, Athlete
+  Measured person, Award Winner, Athlete, Athlete extra, Topic, Person, Sports League Award Winner, NNDB Person, Baseball Player
+  sports, baseball, award, people
+ 
+  James Holmes
+  Person
+  Topic, Person, Person accused of a crime
+  people
+ 
+  Costa Rica earthquake
+  Country
+  Topic, Earthquake, Event
+  time
+ 
+  Lupe Ontiveros
+  Person, Actor, AwardNominee, FilmActor, TVActor
+  TV Actor, Deceased Person, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, Topic, Person, Film actor, NNDB Person
+  tv, influence, film, award, people
+ 
+  Amber Rose
+  Person
+  Topic, Person, Context name, Celebrity, Person extra
+  celebrities, people
+ 
+  Karlie Redd
+  Person
+  Topic, Person, TV Personality, TV program guest, Musical Artist
+  tv, music, people
+ 
+  NFL
+  None
+  Business Operation, Film subject, Author, Ontology Instance, Award Presenting Organization, Employer, Topic, Gift Card Issuer, Sports Association, NFL suspending party, News-reporting organisation, Organization, Literature Subject, Event category
+  business, m, award, sports, book, organization, film
+ 
+  John Orozco
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  people, olympics, sports
+ 
+  earthquake
+  NaturalDisaster
+  Concept, Cause Of Death, Exhibition subject, Film subject, Bridge disaster cause, Ontology Instance, Destruction method2, Topic, Disaster type, Literature Subject, Destruction method
+  exhibitions, people, book, architecture, event, film
+ 
+  Allyson Felix
+  Person, OlympicAthlete, TVActor
+  Track and Field athlete, Olympic athlete, Athlete, Tournament event competitor, Topic, Person, Olympic Medalist
+  sports, olympics, people
+ 
+  London 2012 javelin
+  None
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  Empire State Building shooting
+  Facility, Location, TouristAttraction, Building, Skyscraper
+  Topic, Event, event
+  time
+ 
+  Misty May Treanor
+  Person, OlympicAthlete, TVActor
+  Reality TV Contestant, Olympic athlete, Athlete, TV Personality, TV program guest, Topic, Person, Beach volleyball player, Contestant
+  tv, sports, olympics, people
+ 
+  College Football Scoreboard
+  Sport
+  Topic, TV Program
+  tv
+ 
+  OJ Murdock
+  Person
+  Topic, Person, Athlete, American football player, Deceased Person
+  sports, american_football, people
+ 
+  Alex Morgan
+  Person
+  Topic, Person, Athlete, Olympic athlete, Football player
+  sports, soccer, olympics, people
+ 
+  Christian Bale
+  Person, Actor, MusicalArtist, AwardNominee, AwardWinner, Celebrity, FilmActor, FilmProducer, TVActor
+  Film producer, Person, Award Winner, Influence Node, Celebrity, Award Nominee, Person or entity appearing in film, Topic, Musical Artist, Film actor, NNDB Person, sww_base, Practicer of diet, TV Actor
+  people, tv, celebrities, influence, award, music, film
+ 
+  Florida Lotto
+  Person
+  Topic
+  
+ 
+  Opening ceremony London 2012
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic
+  
+ 
+  London 2012 basketball
+  Sport, Invention, FieldOfStudy, AwardDiscipline, OlympicEventCompetition
+  Olympic venue, Project focus, Topic, Location, Sports Facility, Structure
+  architecture, olympics, location, projects, sports
+ 
+  Costa Rica
+  Country
+  Organization member, Employer, Location, Sports Team Location, Literature Subject, Flag referent, United Nations member state, Taxonomy Subject, Countries, Country, Statistical region, Administrative Area, Military power, Organization scope, sww_base, Newspaper circulation area, Governmental Jurisdiction, Dated location, Ontology Instance, Sovereign state, Topic, Olympic participating country, Uncommon Topic
+  business, government, periodicals, m, sports, symbols, book, olympics, location, organization
+ 
+  Bill Cosby
+  Person, Actor, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, FilmActor, FilmDirector, FilmMusicContributor, FilmProducer, FootballPlayer, HallOfFameInductee, TVActor, TVDirector, TVPersonality, TVProducer, FilmWriter
+  Hall of fame inductee, Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, Fictional Character Creator, Film actor, TV Director, Literature Subject, Broadcast Artist, TV Producer, Topic, Person impersonated on SNL, Film producer, Musician, Practicer of diet, TV Program Creator, Athlete, Film director, Celebrity, Social network user, Person extra, Person, TV Actor, Film music contributor, Film writer, Twitter User, TV Personality, Musical Artist, Comedian, NNDB Person, American football player
+  people, tv, fictional_universe, american_football, influence, award, sports, broadcast, book, music, internet, film
+ 
+  Chariots of Fire
+  None
+  topic, Award-Nominated Work, Netflix Title, Topic, Ranked item, Award-Winning Work, Film
+  media_common, award, film
+ 
+  Chris Kluwe
+  Person, Athlete, FootballPlayer
+  Measured person, Athlete, Athlete extra, Topic, Person, American football player
+  sports, american_football, people
+ 
+  London 2012 Closing Ceremony
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Event
+  time
+ 
+  Kinesio tape
+  Company
+  Topic
+  
+ 
+  David Boudia
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Bill Clinton
+  Person, MusicalArtist, Politician, Appointer, AwardWinner, Celebrity, MusicalGroupMember, OfficeHolder, PoliticalAppointer, TVPersonality, FilmActor, FilmWriter, USPresident
+  Appointer, Convention Speaker, Musician, Film subject, Author, Award Winner, Influence Node, Organization member, Award Nominee, Person or entity appearing in film, Employer, Film actor, Assassinated Person, Convicted criminal, TV Personality, Literature Subject, Recreational drug user, Person accused of a crime, Measured person, Musical Artist, Person impersonated on SNL, Presidential Nominee, Chivalric Order Member, Famous Deadheads, Public speaker, First Family, Inauguration Speaker, Film writer, Taxonomy Subject, Politician, Lawyer, Celebrity, Audio book reader, Person extra, Person, Political Appointer, sww_base, Primary Candidate, Pet Owner, Moral agent, Impersonated celebrity, TV Actor, Concept, Ontology Instance, Person Or Being In Fiction, TV program guest, Topic, US President, Activist, NNDB Person, Name source, Litigant, Building Occupant, Context name
+  business, government, tv, influence, people, m, celebrities, symbols, book, royalty, music, award, fictional_universe, organization, law, event, film, architecture
+ 
+  Jessica Ennis
+  Person, TVActor
+  Topic, Person, Athlete, Tournament event competitor, Olympic athlete
+  sports, olympics, people
+ 
+  Danell Leyva
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Katherine Jackson
+  Person
+  Topic, Person, Family member, Person or entity appearing in film
+  film, people
+ 
+  Matt Grevers
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Tom Hardy
+  Person, Actor, FilmActor, TVActor, FilmWriter
+  TV Actor, Award Winner, Influence Node, Award Nominee, Topic, Person, Film actor, Film writer
+  tv, influence, film, award, people
+ 
+  The Campaign
+  None
+  Topic, Processed with Review Queue, Film
+  film
+ 
+  Newsweek
+  PrintMedia, Magazine
+  Publication, News-reporting organisation, Arab Media Source, Topic, Magazine, Periodical
+  book, m
+ 
+  Empire State Building
+  Facility, Location, TouristAttraction, Building, Skyscraper
+  Building, Tourist attraction, Film subject, Project focus, Ontology Instance, Listed Site, NRIS Listing, ASCE wonder of the modern world, Filming location, Topic, Ranked item, Concept, Place, Location, Split completed, Structure, Skyscraper
+  protected_sites, travel, m, award, location, projects, film, architecture
+ 
+  Ann Romney
+  Person
+  Topic, Person, Public figure with medical condition
+  medicine, people
+ 
+  meteor shower
+  None
+  Type Profile, Type
+  freebase, type
+ 
+  Hurricane
+  None
+  Topic, Film, Netflix Title
+  media_common, film
+ 
+  Hurricane Isaac path
+  None
+  None
+  None
+ 
+  Ncaa Football Scores
+  Organization, SportsAssociation
+  Topic
+  
+ 
+  Chad Johnson
+  Person
+  TV Personality, Measured person, Context name, Player, American football player extra, Athlete, Social network user, Person extra, Athlete extra, Topic, Person, sww_base, Contestant, American football player, Celebrity
+  people, tv, american_football, celebrities, sports, internet
+ 
+  Katie Ledecky
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Weather Radar
+  None
+  Topic
+  
+ 
+  Olympics Live
+  SportingEvent
+  Topic, Musical Recording, Canonical Version
+  music
+ 
+  Nadia Comaneci
+  Person
+  TV Personality, Olympic athlete, Award Winner, Athlete, Topic, Person, NNDB Person
+  tv, sports, olympics, award, people
+ 
+  Women's Gymnastics
+  Sport
+  Topic
+  
+ 
+  Phelps
+  Person
+  Topic, Dated location, City/Town/Village, Location, Statistical region
+  location
+ 
+  Stand Up To Cancer
+  HealthCondition, FieldOfStudy, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, MedicalSpecialty, RiskFactor, Disease
+  TV Program, Employer, Topic, Non-profit organization, sww_base, Organization
+  tv, organization, business
+ 
+  Taylor Swift
+  Person, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, Celebrity, Guitarist, MusicalGroupMember, FilmActor, TVActor
+  Award Winner, SNL musical guest, Award Nominee, Person or entity appearing in film, Film actor, Broadcast Artist, Daylife Topic, Soprano, Film song performer, SNL host, Guitarist, Composer, Celebrity, Social network user, Person extra, Person, Daylife Topics, sww_base, TV Actor, Ranked item, Twitter User, Lyricist, TV program guest, Topic, Musical Artist, NNDB Person, Myspace user, Record Producer
+  people, tv, celebrities, award, broadcast, music, internet, film
+ 
+  Bill Nye
+  Person, Academic, BoardMember, ProjectParticipant, Scientist, TVPersonality, TVActor
+  TV Personality, Academic, Organization leader, Influence Node, Engineering Person, Topic, Person, Project participant, NNDB Person, Film actor, TV Actor
+  business, people, tv, influence, film, education, projects
+ 
+  Beach volleyball Olympics 2012
+  SportingEvent
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  Ronda Rousey
+  Person
+  Topic, Person, Athlete, Martial Artist, Olympic athlete
+  sports, olympics, martial_arts, people
+ 
+  Aaliyah
+  None
+  TV Actor, Official website owner, Dead by 30, NNDB Person, Person, Influence Node, Celebrity, Award Nominee, Person or entity appearing in film, Musician, Topic, Musical Artist, Film actor, Person sign, Deceased Person, sww_base, Ranked item, Soprano, Broadcast Artist
+  people, tv, influence, award, broadcast, music, film
+ 
+  NASA
+  None
+  Independent agency of the United States government, API Provider, Government Agencies Affected, Photographer, Government Agency, Employer, TV subject, Organization in fiction, Literature Subject, Film subject, News-reporting organisation, Space program sponsor, Abbreviated Topic, Financial support provider, Publisher, Business Operation, Social network user, Spacecraft Manufacturer, Visual Artist, Broadcast Producer, Software Developer, Organization, Space Agency, Non Profit Organization, Concept, Ontology Instance, Topic, Award Presenting Organization, Project participant, Airport operator, Aircraft Owner
+  visual_art, business, spaceflight, tv, fictional_universe, government, award, broadcast, computer, aviation, projects, internet, organization, book, film
+ 
+  London 2012 synchronized swimming
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Tournament event competition, Ship, Event
+  boats, time, sports
+ 
+  London 2012 Hurdles
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Olympic event competition, Literature Subject, Event
+  book, olympics, time
+ 
+  NBCOlympics
+  None
+  None
+  None
+ 
+  Roger Federer
+  Person, Athlete, TennisPlayer, OlympicAthlete, TennisTournamentChampion, TVActor
+  Organization founder, TV Personality, Tennis player extra, Measured person, Context name, Olympic athlete, Product Endorser, Athlete, Tennis Player, Athlete extra, Person or entity appearing in film, Topic, Person, Film actor, Tournament event competitor, NNDB Person, sww_base, Person extra, Ranked item, Celebrity, Tennis Tournament Champion
+  business, people, tv, tennis, award, sports, olympics, organization, film
+ 
+  ABC
+  None
+  TV Network, Business Operation, Award Winner, News-reporting organisation, Software Developer, Award Nominee, Employer, Topic, Ranked item, Broadcast Producer, Ontology Instance, Organization, TV station owner, TV Program Creator
+  business, tv, award, broadcast, computer, organization
+ 
+  US Open tennis
+  Country, Location, Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor
+  Topic, Recurring event, Tennis Tournament
+  tennis, time
+ 
+  Robin Roberts
+  Person
+  Hall of fame inductee, Measured person, Award Winner, Athlete, Topic, Person, Basketball Player, Deceased Person, Baseball Player
+  sports, basketball, baseball, award, people
+ 
+  Johnny Pesky
+  Person, Athlete, MilitaryPerson
+  Baseball Player, Baseball Manager, Athlete, Military Person, Topic, Person, Baseball Coach, Deceased Person, Measured person
+  military, sports, baseball, people
+ 
+  Clint Eastwood
+  Person, Actor, Composer, MusicalArtist, Politician, AwardNominee, AwardWinner, Dedicatee, Dedicator, FilmActor, FilmDirector, FilmMusicContributor, FilmProducer, MilitaryPerson, MusicalGroupMember, TVActor, TVDirector
+  Person extra, Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, topic, Film actor, TV Director, TV Personality, Literature Subject, TV subject, Topic, Film producer, Musician, Private Pilot, Music video character, Family member, Film director, Politician, Surprisingly tall people, Person, Ad Spot Actor, Artist(s) & Band(s), Dedicator, TV Actor, Dedicatee, Film music contributor, Ontology Instance, Context name, TV program guest, Military Person, Musical Artist, Award Nominations, Composer
+  government, tv, people, influence, award, book, media_common, military, music, film
+ 
+  Mitt Romney
+  Person, Politician, CompanyFounder, TVActor
+  Organization founder, TV Actor, Politician, Candidate, Author, Celebrity, Person extra, Topic, Person, NNDB Person, sww_base, Context name
+  tv, organization, government, book, people
+ 
+  Evelyn Lozada
+  Person
+  Topic, Person, TV Personality, TV Actor
+  tv, people
+ 
+  Helen Gurley Brown
+  Person, Journalist, FilmActor, TVActor
+  TV Actor, Deceased Person, Author, Topic, Person, Film actor, NNDB Person, Literature Subject
+  tv, book, film, people
+ 
+  Badminton
+  City
+  Concept, Ontology Instance, Vocabulary Equivalent Topic, Topic, Sport, Olympic discipline
+  olympics, sports
+ 
+  London 2012 Women's Pole Vault
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Event
+  time
+ 
+  London 2012 Synchronized Swimming
+  Sport
+  Topic, Tournament event competition, Ship, Event
+  boats, time, sports
+ 
+  NFL Schedule 2012
+  Organization
+  Topic, Recurring event
+  time
+ 
+  blue moon
+  None
+  Topic, Ranked item, Composition
+  music, award
+ 
+  Michelle Obama speech
+  Person, OfficeHolder
+  TV Actor, Literature Subject, Convention Speaker, NNDB Person, Ranked item, Organization member, Author, Person or entity appearing in film, Honorary Degree Recipient, Topic, Person, Lawyer, sww_base, Politician, Named person, Pet Owner, Celebrity, Context name
+  people, tv, government, celebrities, award, book, organization, education, film
+ 
+  Garrett Reid
+  Person
+  Topic, Person, Deceased Person
+  people
+ 
+  Canoodle
+  None
+  word
+  
+ 
+  Jerry Nelson
+  Person, FilmActor, TVActor
+  TV Actor, Fictional Character Creator, Musical Artist, Musician, Topic, Person, Film actor, Deceased Person
+  tv, fictional_universe, music, film, people
+ 
+  Rio de Janeiro
+  Person
+  Top Architectural City, Travel destination, sww_base, Employer, Location, Sports Team Location, Bibs Topic, Literature Subject, Capital of administrative division, City/Town/Village, Bibs Location, Casino theme, Surf Break, Statistical region, Administrative Area, Olympic host city, Newspaper circulation area, Filming location, Dated location, Ontology Instance, Topic, Film screening venue
+  business, periodicals, travel, m, sports, book, olympics, location, film
+ 
+  Winter Olympics 2014
+  None
+  Topic, Olympic games, Literature Subject, Event
+  book, olympics, time
+ 
+  NOAA
+  None
+  Ship owner, Cryptid reporter, Ontology Instance, Author, News-reporting organisation, Brand, Exhibition sponsor, Topic, Government Agency, Organization, Employer, Information Source
+  exhibitions, business, government, dataworld, book, boats, organization
+ 
+  Rihanna
+  Person, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, Celebrity, FilmActor, TVActor
+  Author, Award Winner, Award Nominee, Person or entity appearing in film, Film actor, Music video performer, Broadcast Artist, Measured person, Daylife Topic, Musician, Composer, Celebrity, Social network user, Person extra, Person, sww_base, TV Actor, Ranked item, Context name, TV program guest, Topic, Musical Artist, NNDB Person, Myspace user
+  people, tv, celebrities, award, broadcast, book, music, internet, film
+ 
+  Hunter Pence
+  Person, Athlete
+  Measured person, Athlete, Athlete extra, Topic, Person, Baseball Player
+  sports, baseball, people
+ 
+  Dedication 4
+  None
+  Topic, Musical Recording, Canonical Version
+  music
+ 
+  Chris Christie
+  Person, Politician
+  Topic, Person, Politician, Honorary Degree Recipient, NNDB Person
+  government, education, people
+ 
+  Paris Jackson
+  Person, Athlete, FootballPlayer
+  Topic, Person, Athlete, Measured person
+  sports, people
+ 
+  Clint Eastwood Speech
+  Person, Actor, Composer, MusicalArtist, Politician, AwardNominee, AwardWinner, Dedicatee, Dedicator, FilmActor, FilmDirector, FilmMusicContributor, FilmProducer, MilitaryPerson, MusicalGroupMember, TVActor, TVDirector
+  Topic, Literary Series
+  book
+ 
+  Tropical Storm Isaac path
+  NaturalDisaster
+  Topic
+  
+ 
+  Kourtney Kardashian Baby Girl
+  Person, Celebrity, TVPersonality, TVActor
+  TV Actor, Social network user, Musical Artist, Celebrity, Musician, Topic, Person, Film actor, NNDB Person, sww_base, TV Personality
+  tv, internet, music, film, people
+ 
+  London 2012 Slalom Canoe
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic
+  
+ 
+  People Water
+  None
+  Site Listing Category, Conference subject, Industry, Competitive Space, Topic, Literature Subject, Organization sector
+  organization, book, protected_sites, business, conferences
+ 
+  Aly Raisman
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Eddie Murphy
+  Person, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, Celebrity, Comedian, FilmDirector, FilmProducer, TVProducer, FilmActor, FilmWriter, TVActor, TVWriter
+  Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, TV Program Creator, SNL actor, Broadcast Artist, TV Producer, Measured person, Film producer, Musician, TV Writer, SNL cast member, Film story contributor, Film writer, SNL host, Film director, Celebrity impressionist, Celebrity, Person extra, Person, sww_base, TV Actor, Ontology Instance, Topic, Musical Artist, Film actor, Comedian
+  people, tv, celebrities, influence, award, broadcast, music, film
+ 
+  Robyn Lawley
+  Person
+  Topic
+  
+ 
+  Pasquale Rotella
+  Person
+  Topic, Person, Celebrity, Organization founder
+  organization, celebrities, people
+ 
+  Aurora victims
+  StateOrCounty
+  Topic, Tropical Cyclone
+  meteorology
+ 
+  Amelia Earhart
+  Person, HallOfFameInductee, TVCharacter
+  Organization founder, Hall of fame inductee, Concept, Deceased Person, Film subject, Author, Product Endorser, Organization member, Person or entity appearing in film, Topic, Person, NNDB Person, Name source, Person Or Being In Fiction, Context name
+  business, people, fictional_universe, award, symbols, book, organization, film
+ 
+  Sikh temple
+  None
+  Religious Organization, Concept, Ontology Instance, Topic, Religion, Ethnicity
+  religion, people
+ 
+  Avril Lavigne
+  Person, Composer, MusicalArtist, AwardNominee, BroadcastArtist, Celebrity, Guitarist, Lyricist, MusicalGroupMember, Songwriter, FilmActor, TVActor
+  Author, Award Winner, SNL musical guest, Guitarist, Person extra, Film actor, Daylife Topic, Broadcast Artist, Measured person, Songwriter, Musician, Processed with Review Queue, Award Nominee, Composer, Celebrity, Social network user, Person, sww_base, TV Actor, Ranked item, Lyricist, Topic, Musical Artist, NNDB Person, Myspace user
+  people, tv, celebrities, award, broadcast, book, music, internet, film
+ 
+  Michelle Obama Speech
+  Person, OfficeHolder
+  TV Actor, Literature Subject, Convention Speaker, NNDB Person, Ranked item, Organization member, Author, Person or entity appearing in film, Honorary Degree Recipient, Topic, Person, Lawyer, sww_base, Politician, Named person, Pet Owner, Celebrity, Context name
+  people, tv, government, celebrities, award, book, organization, education, film
+ 
+  Isaac path
+  Person
+  Topic, Tourist attraction, National Trail, Location, Travel destination
+  travel, location
+ 
+  Horshack
+  None
+  Topic, Musical Recording, Canonical Version
+  music
+ 
+  Honey Boo Boo Child
+  None
+  None
+  None
+ 
+  Phyllis Diller
+  Person, MusicalArtist, FilmActor, TVActor
+  TV Actor, Deceased Person, Musical Artist, Influence Node, Person Or Being In Fiction, Person or entity appearing in film, TV program guest, Topic, Person, Film actor, Comedian, NNDB Person, Borscht Belt comedian
+  people, tv, fictional_universe, influence, music, film
+ 
+  Big Brother
+  None
+  Topic, Social network user, TV Program
+  tv, internet
+ 
+  Alfonso Ribeiro
+  Person, Actor, TheaterActor, TVActor, TVDirector
+  TV Actor, Celebrity, Topic, Person, Film actor, TV Director, NNDB Person, sww_base, Theater Actor
+  tv, theater, film, people
+ 
+  London 2012 Soccer
+  Sport
+  Topic, Football League, Recurring event
+  soccer, time
+ 
+  Deval Patrick
+  Person, Politician, Governor
+  Potential cabinet member, US State Governor (current), Politician, NNDB Person, Person or entity appearing in film, Topic, Person, Lawyer
+  government, film, people
+ 
+  UFC 150
+  None
+  Topic, UFC Event, Event
+  time
+ 
+  Medal count 2012 Olympics
+  SportingEvent
+  Topic, Ontology Instance, Recurring event, Literature Subject
+  book, time
+ 
+  Michael Clark Duncan
+  Person
+  TV Actor, Deceased Person, Award Winner, Influence Node, Celebrity, Award Nominee, Topic, Person, Video Game Actor, Film actor, NNDB Person, Notable event participants
+  people, tv, influence, award, cvg, film
+ 
+  Medal Count
+  None
+  Topic, Event, Multi-event tournament
+  sports, time
+ 
+  MLB trade rumors
+  Organization, AwardPresentingOrganization, SportsAssociation
+  None
+  None
+ 
+  Courtney Stodden
+  Person
+  Topic, Person
+  people
+ 
+  Taylor Kinney
+  Person, Actor
+  Topic, Person, TV Actor, Film actor, Influence Node
+  tv, influence, film, people
+ 
+  Usain Bolt
+  Person, OlympicAthlete, TVActor
+  Track and Field athlete, Olympic athlete, Athlete, Person extra, Tournament event competitor, Topic, Person
+  sports, olympics, people
+ 
+  Andy Roddick
+  Person, Athlete, TennisPlayer, Celebrity, OlympicAthlete, TennisTournamentChampion, TVActor
+  Organization founder, SNL host, Measured person, Olympic athlete, Tennis Tournament Champion, Celebrity, Tennis Player, Athlete extra, Person or entity appearing in film, Topic, Person, Film actor, NNDB Person, sww_base, TV Personality, TV Actor, Athlete
+  people, tv, tennis, celebrities, sports, olympics, organization, film
+ 
+  Bumbo Recall
+  None
+  None
+  None
+ 
+  Ashton Eaton
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  NBC Olympics Live
+  SportingEvent, Broadcast, AwardNominee, AwardWinner, FilmDistributor, TVNetwork, TelevisionStation, TVWriter
+  Editorial Topic, TV Network, Award Nominee, Building Occupant, Advertised thing, Award Winner, News-reporting organisation, Brand, Venture Investor, Product, Employer, Topic, Film distributor, Business Operation, Ontology Instance, Organization, Broadcast Content, TV station owner, TV Program Creator, Issuer
+  business, tv, venture_capital, award, broadcast, architecture, organization, film
+ 
+  Ryan Dempster
+  Person, Athlete
+  Measured person, Athlete, Athlete extra, Topic, Person, Baseball Player
+  sports, baseball, people
+ 
+  Kindle Fire
+  Product
+  Topic, Computer
+  computer
+ 
+  Olympic Medal Count
+  None
+  Topic, Ontology Instance, Recurring event, Literature Subject
+  book, time
+ 
+  Jersey Shore
+  Person
+  Topic, Tourist attraction, Location
+  travel, location
+ 
+  Stand Up to Cancer
+  HealthCondition, FieldOfStudy, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, MedicalSpecialty, RiskFactor, Disease
+  TV Program, Employer, Topic, Non-profit organization, sww_base, Organization
+  tv, organization, business
+ 
+  Chick fil a
+  None
+  Product, Business Operation, Advertised thing, Restaurant, Employer, Topic, Sponsor, sww_base, Organization
+  dining, business, organization
+ 
+  Marco Rubio
+  Person, Politician, OfficeHolder
+  Topic, Person, US Senator (current), Politician, Author
+  government, book, people
+ 
+  NCAA Football Scores
+  Organization, SportsAssociation
+  Topic
+  
+ 
+  Jessie J
+  Person
+  Musical Artist, Context name, Musician, Topic, Person, Composer
+  music, people
+ 
+  Elvis Presley
+  Person, Composer, FilmCharacter, MusicalArtist, AwardWinner, BroadcastArtist, Celebrity, Guitarist, HallOfFameInductee, MilitaryPerson, MusicalGroupMember, TheatricalComposer, TheatricalLyricist, FilmActor, TVActor
+  Hall of fame inductee, Film subject, Award Winner, Influence Node, Guitarist, Person or entity appearing in film, Film actor, Twins, Literature Subject, Broadcast Artist, Theatrical Lyricist, TV Personality, Daylife Topic, Musician, Pinball Machine Basis, Official website owner, NNDB Person, Celebrity, Social network user, Person extra, Person, Award Nominee, Deceased Person, sww_base, icon, Impersonated celebrity, TV Actor, Managed Artist, Concept, Film music contributor, Military Person, Ontology Instance, Person Or Being In Fiction, Lyricist, Theatrical Composer, TV program guest, Topic, Musical Artist, Twin, Product theme, Composer, Name source, Context name
+  symbols, theater, business, people, tv, celebrities, influence, award, broadcast, fictional_universe, music, internet, military, book, film
+ 
+  Rupert Sanders
+  Person
+  Topic, Person, Film director, Processed with Review Queue
+  film, people
+ 
+  opening ceremony London 2012
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic
+  
+ 
+  Hunger Games
+  None
+  Award-Nominated Work, Netflix Title, Topic, Adaptation, Award-Winning Work, Film
+  media_common, award, film
+ 
+  Chick fil A
+  None
+  Product, Business Operation, Advertised thing, Restaurant, Employer, Topic, Sponsor, sww_base, Organization
+  dining, business, organization
+ 
+  Mia Love
+  Person
+  Topic, Person, Politician
+  government, people
+ 
+  Eddie Murphy Dead
+  Person, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, Celebrity, Comedian, FilmDirector, FilmProducer, TVProducer, FilmActor, FilmWriter, TVActor, TVWriter
+  Comedy group member, Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, SNL actor, Film actor, Broadcast Artist, Topic, Film producer, Musician, TV Writer, SNL cast member, Film writer, Film director, Person, TV Actor, Film music contributor, TV program guest, TV Personality, Musical Artist, Comedian
+  people, tv, influence, award, broadcast, book, music, film
+ 
+  Leryn Franco
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  TD Bank
+  Company
+  Building, Conference venue, Convention Venue, Project focus, Sponsored Recipient, Venue, Filming location, Topic, Location, Sports Facility, Structure
+  conferences, business, location, sports, projects, film, architecture
+ 
+  Chick Fil A
+  Person
+  Product, Business Operation, Advertised thing, Restaurant, Employer, Topic, Sponsor, sww_base, Organization
+  dining, business, organization
+ 
+  Ron Palillo
+  Person, Actor, FilmActor, TVActor
+  TV Actor, Deceased Person, Influence Node, Topic, Person, Film actor, NNDB Person, Film writer
+  tv, influence, film, people
+ 
+  Morgan Freeman
+  Person, Actor, AwardNominee, AwardWinner, BoardMember, FilmActor, FilmDirector, FilmProducer, TheaterActor, TVActor, TVProducer
+  TV Actor, Film director, Organization leader, Award Winner, Film producer, Person Or Being In Fiction, Award Nominee, TV Personality, Person or entity appearing in film, TV program guest, Person extra, Topic, Person, Private Pilot, Film actor, NNDB Person, Influence Node, Aircraft Owner, Theater Actor, Ontology Instance, TV Producer
+  theater, business, people, tv, fictional_universe, influence, award, aviation, film
+ 
+  Democratic National Convention 2012
+  None
+  Topic, U.S. Presidential Nominating Convention
+  
+ 
+  Lance Armstrong
+  Person, Athlete, AwardWinner, BoardMember, Celebrity, Cyclist, OlympicAthlete, TVActor
+  Public figure with medical condition, Competitor, Author, Award Winner, Influence Node, Sponsored Recipient, Person or entity appearing in film, Literature Subject, Organization leader, Measured person, Venture Investor, Athlete extra, Athlete, Cyclist, SNL host, Atheist, Celebrity, Social network user, Person extra, Person, sww_base, Olympic Medalist, Organization founder, Olympic athlete, Ontology Instance, TV program guest, Topic, NNDB Person
+  business, people, tv, influence, venture_capital, celebrities, award, sports, book, olympics, internet, medicine, organization, film
+ 
+  Usain Bolt 2012 Olympics
+  SportingEvent, OlympicAthlete, TVActor
+  Olympic games, Interesting topic, Sports, Topic, Video Game Subject, News-reported event, MYType, Literature Subject, Event
+  olympics, cvg, m, book, time
+ 
+  Steelers
+  Organization
+  Sports team extra, American football team, Ontology Instance, Brand, Professional Sports Team, Employer, Topic, Player, Person or entity appearing in film, Sports Team, Context name
+  american_football, film, business, sports
+ 
+  US Open
+  Country, Location, Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor
+  Topic, Recurring event, Tennis Tournament
+  tennis, time
+ 
+  stand up to cancer
+  HealthCondition, FieldOfStudy, DiseaseOrMedicalCondition, CauseOfDeath, DiseaseCause, MedicalSpecialty, RiskFactor, Disease
+  TV Program, Employer, Topic, Non-profit organization, sww_base, Organization
+  tv, organization, business
+ 
+  Gabby Douglas Hair
+  Person
+  None
+  None
+ 
+  Little League World Series
+  Organization
+  Topic, Sports League Championship, Recurring event
+  time, sports
+ 
+  Frank Ocean Gay
+  Person
+  Dated location, Travel destination, HUD County Place, Statistical region, Topic, Location, Newspaper circulation area, HUD Foreclosure Area, City/Town/Village
+  travel, periodicals, location
+ 
+  David Bowie
+  Person, Composer, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, Celebrity, FilmMusicContributor, Guitarist, HallOfFameInductee, Lyricist, MusicalGroupMember, RecordProducer, Songwriter, FilmActor, TVActor
+  Hall of fame inductee, Award Winner, Influence Node, SNL musical guest, Guitarist, Person or entity appearing in film, Film actor, Film director, Broadcast Artist, Songwriter, Musician, Social Set member, Award Nominee, Composer, Atheist, Celebrity, Social network user, Person, Artist(s) & Band(s), sww_base, TV Actor, Film music contributor, Person Or Being In Fiction, Lyricist, Topic, Musical Artist, Performer, entertainer, or presenter, NNDB Person, Name source, Myspace user, Record Producer, Context name
+  symbols, people, tv, fictional_universe, influence, award, broadcast, music, internet, celebrities, film
+ 
+  Snoop Lion
+  None
+  Award Winner, Organization member, Award Nominee, Person or entity appearing in film, Film actor, Trypanophobic person, Recreational drug user, TV Producer, TV Personality, Measured person, Film producer, Musician, Broadcast Artist, Film writer, SNL musical guest, SNL host, Film director, Celebrity, Social network user, Surprisingly tall people, Person, sww_base, TV Actor, Film music contributor, Context name, TV program guest, Topic, Musical Artist, NNDB Person, Record Producer
+  people, tv, celebrities, award, broadcast, music, internet, organization, film
+ 
+  Women's Gymnastics Olympics
+  SportingEvent
+  Taxonomy Subject, Literature Subject, Hall of fame induction category, Greek loanword, Ontology Instance, Vocabulary Equivalent Topic, Topic, Concept, Character Power, Interest, Hobby, Sport, Split completed
+  interests, fictional_universe, book, award, sports
+ 
+  Olympics Schedule 2012
+  SportingEvent
+  Topic, Ship
+  boats
+ 
+  Beach Volleyball Olympics 2012
+  SportingEvent
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  Aliya Mustafina
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Snooki Baby
+  None
+  Topic, TV Episode
+  tv
+ 
+  Griselda Blanco
+  Person, Criminal
+  Topic, Person, Person or entity appearing in film, Convicted criminal, Deceased Person
+  film, people
+ 
+  Hanley Ramirez
+  Person
+  Measured person, Athlete, Athlete extra, Topic, Person, Sports League Award Winner, Baseball Player
+  sports, baseball, people
+ 
+  Art Modell
+  None
+  Topic, Person, Person or entity appearing in film, NNDB Person, Deceased Person
+  film, people
+ 
+  London 2012 diving
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Recurring event, Tourist attraction, Place, Athletics Marathon
+  travel, time
+ 
+  Powerball
+  FieldTerminology
+  Topic, Lottery Game
+  
+ 
+  Jordyn Wieber
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Rebecca Soni
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Allison Schmitt
+  Person
+  Topic, Person, Athlete, Tournament event competitor, Olympic athlete
+  sports, olympics, people
+ 
+  Sally Ride
+  None
+  Organization founder, Hall of fame inductee, Deceased Person, Author, Person or entity appearing in film, Topic, Person, Labeled, Astronaut, NNDB Person
+  spaceflight, people, award, book, organization, film
+ 
+  Usher
+  None
+  Award Winner, Influence Node, SNL musical guest, Award Nominee, Person or entity appearing in film, Film actor, Broadcast Artist, Measured person, Film producer, Musician, scientologist actors 2, Film writer, Film director, Celebrity, Social network user, Person extra, Person, sww_base, TV Actor, Film music contributor, Sports Team Owner, Context name, Topic, Musical Artist, Performer, entertainer, or presenter, NNDB Person
+  people, tv, influence, celebrities, award, sports, broadcast, music, internet, film
+ 
+  George Michael
+  Person, MusicalArtist, AwardWinner, BroadcastArtist, MusicalGroupMember, RecordProducer, TVActor
+  Award Winner, Influence Node, Award Nominee, Person extra, Film actor, Broadcast Artist, Musician, Celebrity, Social network user, Person or entity appearing in film, Person, sww_base, Impersonated celebrity, TV Actor, Film music contributor, SHCE021709, Person Or Being In Fiction, TV program guest, Topic, Musical Artist, Composer, Record Producer, Context name
+  people, tv, fictional_universe, influence, award, broadcast, music, internet, film
+ 
+  Chris Lighty
+  Person
+  Topic, Film producer, Person or entity appearing in film, Deceased Person, Person
+  film, people
+ 
+  Earthquake San Diego
+  City
+  Concept, Disaster, Film subject, Event, Topic, Death-causing event, News-reported event, Earthquake
+  event, film, time
+ 
+  Alexa Vega
+  Person, Actor, MusicalArtist, FilmActor, TVActor
+  TV Actor, Musical Artist, Influence Node, Social network user, Person or entity appearing in film, Topic, Person, Film actor, Person sign, NNDB Person, Myspace user
+  people, tv, influence, music, internet, film
+ 
+  Chad Everett
+  Person, Actor, AwardNominee, FilmActor, TVActor, TVDirector
+  TV Actor, Deceased Person, Influence Node, Award Nominee, Topic, Person, Film actor, TV Director, NNDB Person
+  tv, influence, film, award, people
+ 
+  Olympic schedule
+  None
+  Resource
+  
+ 
+  Mayim Bialik
+  Person, Actor, MusicalArtist, FilmActor, TVActor
+  TV Actor, Musical Artist, Influence Node, Award Nominee, Topic, Person, Film actor, NNDB Person
+  people, tv, influence, award, music, film
+ 
+  Tropical Storm Isaac Path
+  NaturalDisaster
+  Topic
+  
+ 
+  London 2012 China
+  Country
+  Topic, Event, Sports League Season
+  time, sports
+ 
+  Hope Solo
+  Person, Athlete, FootballPlayer, OlympicAthlete
+  TV Personality, Olympic athlete, Athlete, Author, Topic, Person, Football player
+  people, tv, sports, book, olympics, soccer
+ 
+  Michelle Obama
+  Person, OfficeHolder
+  TV Actor, Literature Subject, Convention Speaker, NNDB Person, Ranked item, Organization member, Author, Person or entity appearing in film, Honorary Degree Recipient, Topic, Person, Lawyer, sww_base, Politician, Named person, Pet Owner, Celebrity, Context name
+  people, tv, government, celebrities, award, book, organization, education, film
+ 
+  Ledecky
+  None
+  Topic, Musical Artist, Musician, Person
+  music, people
+ 
+  Olympics 2012 Schedule
+  SportingEvent
+  Topic, Ship
+  boats
+ 
+  College Football Scores
+  None
+  discussion thread
+  community
+ 
+  Askew
+  None
+  Topic, Dated location, City/Town/Village, Location, Statistical region
+  location
+ 
+  Clinton speech
+  Person
+  Topic, Musical Recording, Canonical Version
+  music
+ 
+  Nathan Adrian
+  Person, OlympicAthlete
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  London Olympics
+  SportingEvent
+  Top Architectural City, Travel destination, Olympic venue, sww_base, Filming location, Sharing location, Location, Capital City, Railway terminus, Sports Team Location, Literature Subject, Exhibition subject, Project focus, Concept, Place of interment, Cityscape, City/Town/Village, Taxonomy Subject, Olympic bidding city, Geographical scope, Bibs Location, Statistical region, Administrative Area, Location of biosafety facility, Governmental Jurisdiction, Organization scope, Place, Fictional Setting, Olympic host city, Newspaper circulation area, Employer, Real place, Bibs Topic, Base Equivalent Location, Dated location, Art Subject, Helynevek, Ontology Instance, Place with neighborhoods, Topic, Name source, TV Location, Film screening venue, Quotation Subject
+  visual_art, organization, exhibitions, business, people, tv, rail, travel, government, periodicals, m, sports, symbols, book, olympics, location, fictional_universe, media_common, projects, film
+ 
+  National Weather Service
+  Organization, GovernmentAgency
+  NWS Weather Forecast Offices, News-reporting organisation, Employer, Topic, Government Agency, Organization, Meteorological service
+  organization, meteorology, business, government
+ 
+  Nazanin Boniadi
+  Person, Actor, FilmActor, TVActor
+  Topic, Person, Film actor, Influence Node, TV Actor
+  tv, influence, film, people
+ 
+  Tony Scott
+  Person, Actor, AwardNominee, AwardWinner, FilmDirector, FilmProducer, TVActor, TVDirector, TVProducer
+  TV Actor, Film editor, Film director, Award Winner, Film producer, Award Nominee, Topic, Person, Film actor, TV Director, Deceased Person, Film cinematographer, TV Personality, Film writer, TV Producer
+  tv, award, film, people
+ 
+  Christian Bale visits victims
+  Person, Actor, MusicalArtist, AwardNominee, AwardWinner, Celebrity, FilmActor, FilmProducer, TVActor
+  None
+  None
+ 
+  Fatboy Slim
+  None
+  Lyricist, Award-Nominated Work, NNDB Person, Film music contributor, Person, Songwriter, Social network user, Musician, Award Winner, Topic, Musical Artist, Film actor, Award Nominee, Person sign, Composer, Record Producer, Broadcast Artist
+  people, award, broadcast, music, internet, film
+ 
+  PGA Championship 2012
+  None
+  Topic, Sports League Championship Event, Event
+  sports, time
+ 
+  Kayla Harrison
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Aurora
+  StateOrCounty
+  Topic, Taxonomy Subject, Literature Subject, Place
+  book
+ 
+  Google Fiber
+  Company, AcademicInstitution, AwardPresentingOrganization, OperatingSystemDeveloper, ProgrammingLanguageDeveloper, SoftwareDeveloper, VentureFundedCompany
+  Topic, Project
+  projects
+ 
+  Felix Hernandez
+  Person
+  Measured person, Athlete, Athlete extra, Topic, Person, Baseball Player
+  sports, baseball, people
+ 
+  AAPL
+  None
+  Topic
+  
+ 
+  Carly Rae Jepsen
+  Person
+  Musician, Musical Artist, Award Winner, Social network user, Topic, Person, Award Nominee, Composer
+  internet, music, award, people
+ 
+  tagged
+  None
+  Topic, Website
+  internet
+ 
+  Earthquake Costa Rica
+  Country
+  Topic, Earthquake, Event
+  time
+ 
+  Hurricane Katrina
+  None
+  Tropical Cyclone, Topic, Hurricanes, Power outage cause, Explained thing, Literature Subject
+  meteorology, book
+ 
+  Vanessa Bryant
+  Person
+  Award Winner, Sponsored Recipient, Person or entity appearing in film, Film actor, Measured person, Daylife Topic, Athlete extra, Product Endorser, Injured person, Celebrity, Athlete, Drafted athlete, Person extra, Person, Sports League Award Winner, sww_base, TV Actor, Olympic athlete, Context name, Topic, Basketball Player, NNDB Person
+  basketball, business, people, tv, celebrities, award, sports, olympics, film
+ 
+  Olympic Schedule
+  None
+  Resource
+  
+ 
+  Grenada
+  Country, Location, GovernmentalJurisdiction, BoardMember
+  Military power, Governmental Jurisdiction, Dated location, Organization leader, Bibs Location, Country, Organization member, Countries, Sovereign state, Statistical region, Administrative Area, Topic, Olympic participating country, Location, Flag referent, Ontology Instance, Bibs Topic, Sports Team Location, Literature Subject, Cyclone-affected area, Organization scope
+  business, government, meteorology, sports, symbols, book, olympics, location, organization
+ 
+  Earthquake
+  NaturalDisaster
+  Concept, Cause Of Death, Exhibition subject, Film subject, Bridge disaster cause, Ontology Instance, Destruction method2, Topic, Disaster type, Literature Subject, Destruction method
+  exhibitions, people, book, architecture, event, film
+ 
+  Powerball Numbers
+  FieldTerminology
+  Topic, Lottery Game
+  
+ 
+  Eric Idle
+  Person, Actor, Composer, MusicalArtist, FilmActor, FilmDirector, FilmMusicContributor, MusicalGroupMember, TheatricalComposer, TheatricalLyricist, TVActor, TVDirector, FilmWriter, TVWriter
+  Comedy group member, Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, Film actor, TV Director, TV Producer, TV Personality, Film producer, Musician, TV Writer, Processed with Review Queue, TV Program Creator, SNL host, Film director, Theatrical Lyricist, Celebrity, Person, TV song performer, NNDB Person, TV Actor, Film music contributor, Film writer, Theatrical Composer, TV program guest, Topic, Musical Artist, Comedian, Composer, Name source, Record Producer
+  theater, people, tv, influence, award, symbols, book, music, film
+ 
+  Lakers
+  Organization
+  National Basketball Association Team, Sports team extra, Daylife Topic, Ontology Instance, Context name, Professional Sports Team, Processed with Review Queue, Employer, Topic, Defunct Sports Team, sww_base, Organization, Sports Team, Basketball Team
+  organization, basketball, business, sports
+ 
+  Terrell Owens
+  Person, Athlete, Celebrity, FootballPlayer, TVProducer, TVActor
+  TV Actor, Social network user, Measured person, NNDB Person, Player, Athlete, Author, Drafted athlete, Twitter User, TV program guest, Topic, Person, Film actor, Athlete extra, NFL draft diamond in the rough, sww_base, American football player, Celebrity, TV Producer
+  people, tv, american_football, celebrities, sports, book, internet, film
+ 
+  Minka Kelly
+  Person, Actor, Celebrity, FilmActor, TVActor
+  TV Actor, Measured person, Ranked item, Influence Node, Celebrity, Person or entity appearing in film, Topic, Person, Film actor, NNDB Person, sww_base
+  people, tv, celebrities, influence, award, film
+ 
+  Bumbo recall
+  Company
+  None
+  None
+ 
+  Tom Daley
+  Person
+  Topic, Person, Athlete, Baseball Player, Deceased Person
+  sports, baseball, people
+ 
+  Kerri Strug
+  Person, OlympicAthlete, TVActor
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Labor Day
+  Holiday
+  Topic, Holiday, Event
+  time
+ 
+  UFC 151
+  None
+  Topic
+  
+ 
+  NBC Olympics
+  SportingEvent, Broadcast, AwardNominee, AwardWinner, FilmDistributor, TVNetwork, TelevisionStation, TVWriter
+  Editorial Topic, TV Network, Award Nominee, Building Occupant, Advertised thing, Award Winner, News-reporting organisation, Brand, Venture Investor, Product, Employer, Topic, Film distributor, Business Operation, Ontology Instance, Organization, Broadcast Content, TV station owner, TV Program Creator, Issuer
+  business, tv, venture_capital, award, broadcast, architecture, organization, film
+ 
+  NFL.com
+  None
+  Business Operation, Film subject, Author, Ontology Instance, Award Presenting Organization, Employer, Topic, Gift Card Issuer, Sports Association, NFL suspending party, News-reporting organisation, Organization, Literature Subject, Event category
+  business, m, award, sports, book, organization, film
+ 
+  nbcolympics
+  None
+  None
+  None
+ 
+  Nastia Liukin
+  Person, Celebrity, OlympicAthlete
+  Athlete, Olympic athlete, Celebrity, Social network user, Person or entity appearing in film, Topic, Person, sww_base, Twitter User
+  people, celebrities, sports, olympics, internet, film
+ 
+  Joey Kovar
+  Person
+  TV Actor, Topic, Person, Film actor, Deceased Person, TV Personality
+  tv, film, people
+ 
+  Amber Portwood
+  Person
+  Topic, Person, TV Personality, TV program guest
+  tv, people
+ 
+  Shawn Johnson
+  Person
+  TV Personality, Olympic athlete, Award Winner, Celebrity, Sponsored Recipient, TV program guest, Topic, Person, Author, sww_base, Contestant, Athlete
+  business, people, tv, celebrities, award, sports, book, olympics
+ 
+  Empire State building shooting
+  Facility, Location, TouristAttraction, Building, Skyscraper
+  Topic, Event, event
+  time
+ 
+  Katy Perry
+  Person, MusicalArtist, AwardNominee, BroadcastArtist, Celebrity, Guitarist, MusicalGroupMember, TVActor
+  Guitarist, Award Winner, Contralto, Person or entity appearing in film, Film actor, Broadcast Artist, Company, Musician, Singer, Award Nominee, Celebrity, Social network user, Person extra, Person, sww_base, TV Actor, Ranked item, SHCE021709, Context name, Lyricist, Topic, Musical Artist, Composer
+  people, tv, celebrities, award, broadcast, music, internet, film
+ 
+  Tim Berners-Lee
+  Person, AwardWinner, CompanyFounder, ComputerScientist, Inventor, SoftwareDeveloper
+  Organization founder, topic, Computer Scientist, Author, Award Winner, Influence Node, Social network user, Person extra, MacArthur Fellow, Topic, Person, NNDB Person, Software Developer, Innovator, Literature Subject, Name source, Inventor
+  people, influence, award, symbols, computer, internet, organization, law, book
+ 
+  Dancing With the Stars
+  TelevisionShow
+  Dance tv show, TV Program, Award-Nominated Work, Award Nominee, Profession, Topic, Adaptation, Award-Winning Work
+  tv, media_common, award, people
+ 
+  Olympic Schedule 2012
+  None
+  Topic, Organization, Sponsor, Government Agency
+  organization, business, government
+ 
+  Foo
+  None
+  Lyricist, SHCE021709, Film music contributor, Film subject, Award Winner, SNL musical guest, Award Nominee, Person or entity appearing in film, Social network user, Topic, Musical Artist, Musical Group, Music video, SNL five timer, Composer, Music video performer, TV song performer, Myspace user, Record Producer, TV program guest, Broadcast Artist
+  tv, award, broadcast, music, internet, film
+ 
+  London 2012 Table Tennis
+  Sport
+  Topic, Olympic games, Tournament, Event
+  olympics, time
+ 
+  Heptathlon
+  Person
+  Topic, Concept, Sport, Athletics discipline
+  sports
+ 
+  Paul Ryan
+  Person
+  US Representative (current), Politician, U.S. Congressperson, Social network user, Topic, Person, US Representative, Legislator
+  government, internet, people
+ 
+  Victoria Beckham
+  Person, MusicalArtist, Celebrity, MusicalGroupMember, FilmActor, TVActor
+  Public figure with medical condition, Singer, Contralto, Measured person, Person, Ontology Instance, Celebrity, Musician, Person or entity appearing in film, TV program guest, Person extra, Topic, Musical Artist, Film actor, NNDB Person, sww_base, Ranked item, TV Actor, Person Or Being In Fiction
+  people, tv, fictional_universe, celebrities, award, music, medicine, film
+ 
+  Mens Gymnastics
+  Sport
+  Topic, Book Edition, Cataloged instance
+  book, media_common
+ 
+  Hurricane Isaac
+  None
+  Topic, Tropical Cyclone
+  meteorology
+ 
+  Jessica Ghawi
+  Person
+  Topic, Person, Crime victim, Disaster victim, Deceased Person
+  event, people
+ 
+  Dancing with the Stars
+  TelevisionShow
+  Dance tv show, TV Program, Award-Nominated Work, Award Nominee, Profession, Topic, Adaptation, Award-Winning Work
+  tv, media_common, award, people
+ 
+  Amy Schumer
+  Person, Comedian
+  TV Actor, Influence Node, Social network user, Topic, Person, Film actor
+  tv, internet, influence, film, people
+ 
+  Perry Hall High School
+  Facility
+  Topic, Organization, School, Educational Institution, Employer
+  organization, education, business
+ 
+  NASCAR
+  Organization
+  Domain, Domain Profile
+  freebase, type
+ 
+  Andy Reid
+  Person, Athlete, FootballPlayer
+  Topic, Person, Athlete, Football player
+  sports, soccer, people
+ 
+  decathlon
+  None
+  Concept, Ontology Instance, Vocabulary Equivalent Topic, Profession, Athletics discipline, Topic, Video Game Subject, Sport
+  cvg, sports, people
+ 
+  Sam Mikulak
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Caster Semenya
+  None
+  Topic, Person, Athlete, Tournament event competitor, Olympic athlete
+  people, olympics, sports
+ 
+  Tony Farmer
+  Person, BasketballPlayer
+  Topic, Person, Athlete, Basketball Player
+  sports, basketball, people
+ 
+  Freddie Mercury
+  Company
+  Public figure with medical condition, Lyricist, Guitarist, NNDB Person, Person, Record Producer, Context name, Musician, Person or entity appearing in film, Topic, Musical Artist, Film actor, Award Nominee, Deceased Person, TV Personality, Ranked item, TV Actor, Collector, Composer
+  interests, people, tv, award, music, medicine, film
+ 
+  Gore Vidal
+  Person, Politician, Writer, AwardNominee, AwardWinner, FilmWriter, TVWriter, FilmActor, TVActor
+  TV Actor, Politician, Deceased Person, Film story contributor, Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, TV Writer, Topic, Person, Film actor, Processed with Review Queue, NNDB Person, Ontology Instance, TV Personality, Film writer
+  people, tv, government, influence, award, book, film
+ 
+  WWE
+  None
+  Topic, TV Program
+  tv
+ 
+  Angie Everhart
+  Person, Actor, Celebrity, FilmActor, TVActor, TVPersonality
+  TV Personality, Victoria's Secret Fashion Models, Measured person, Fashion model, TV Actor, Influence Node, Celebrity, Person or entity appearing in film, Film producer, Topic, Person, Film actor, SI Swimsuit Model, NNDB Person, sww_base, Victoria's Secret Model
+  tv, influence, celebrities, film, people
+ 
+  Shark Week
+  None
+  Topic, TV Program
+  tv
+ 
+  Ernie Els
+  Person, SportsTeam, Golfer, TVActor
+  TV Actor, Athlete, Topic, Person, NNDB Person, Golfer
+  tv, people, sports
+ 
+  James Holmes court
+  Person
+  KWTopic, Physician, Author, Influence Node, Topic, Person, Deceased Person
+  medicine, book, influence, people
+ 
+  Julia Child
+  Person
+  Hall of fame inductee, Film subject, Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, Film actor, TV Personality, Literature Subject, Topic, Person impersonated on SNL, Film story contributor, Person, Columnist, Deceased Person, Impersonated celebrity, TV Actor, Concept, Ontology Instance, Person Or Being In Fiction, Chef, NNDB Person, Name source, Context name
+  people, tv, fictional_universe, influence, award, symbols, dining, book, film
+ 
+  badminton
+  None
+  Concept, Ontology Instance, Vocabulary Equivalent Topic, Topic, Sport, Olympic discipline
+  olympics, sports
+ 
+  LL Cool J
+  None
+  TV Actor, Award Nominee, Musician, Composer, Film music contributor, Person, Award Winner, SNL musical guest, Social network user, Person extra, Topic, Musical Artist, Film actor, Celebrity, NNDB Person, sww_base, TV Personality, Record Producer, SHCE021709, Broadcast Artist, Context name
+  people, tv, celebrities, award, broadcast, music, internet, film
+ 
+  Closing Ceremony London 2012
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Event
+  time
+ 
+  Empire State Building Shooting
+  Facility, Location, TouristAttraction, Building, Skyscraper
+  Topic, Event, event
+  time
+ 
+  Snooki
+  None
+  Topic, TV Actor, Context name, Person or entity appearing in film, Person extra, TV Personality, Person, Film actor
+  tv, film, people
+ 
+  Kyla Ross
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Morgan Freeman Dead
+  Person, Actor, AwardNominee, AwardWinner, BoardMember, FilmActor, FilmDirector, FilmProducer, TheaterActor, TVActor, TVProducer
+  Topic, Radio Programme, TV Program, Radio Program
+  tv
+ 
+  Andy Murray
+  Person
+  Measured person, Olympic athlete, Tennis Tournament Champion, Athlete, Tennis Player, Tournament event competitor, Topic, Person, Sports coach, Athlete extra
+  sports, tennis, olympics, people
+ 
+  iPhone 5
+  Technology
+  Topic, Consumer product, Computer
+  computer, business
+ 
+  Michael Jackson
+  Person
+  Hall of fame inductee, Video Game Designer, Film subject, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, Film actor, Music video performer, Daylife Topic, Literature Subject, Broadcast Artist, Activist, TV Personality, Mysophobic person, Club interest, Songwriter, Film producer, Musician, Practicer of diet, Family member, Film writer, Film director, Facebook Fan Page, Celebrity, Social network user, Person extra, Person, TV Character, Deceased Person, sww_base, Architectural structure owner, Ranked item, Pet Owner, TV Actor, Film editor, Concept, Art Subject, Asset Owner, Film music contributor, Owner of intellectual property, Person Or Being In Fiction, Lyricist, Topic, Musical Artist, Dancer, Composer, Myspace user, Litigant, Record Producer, Context name, Quotation Subject
+  visual_art, organization, business, people, tv, m, influence, award, celebrities, broadcast, media_common, fictional_universe, music, architecture, internet, cvg, law, book, film
+ 
+  Obama Speech
+  Person, Politician, President, Appointer, AwardWinner, Celebrity, PoliticalAppointer, U.S.Congressperson, USPresident, TVActor
+  Appointer, Convention Speaker, Candidate, Author, Award Winner, Influence Node, Organization member, Award Nominee, Person or entity appearing in film, Employer, Twitter Topic, Film actor, design, funny guy, Literature Subject, Public speaker, Measured person, Film subject, Poem character, Musical Artist, Person impersonated on SNL, Company, Presidential Nominee, Proposition Issue, Recreational drug user, Presidential Candidate, Inauguration Speaker, Famous Author, Name source, School GPA, Politician, Lawyer, U.S. Congressperson, Celebrity, Social network user, Nobel Prize Winner, Person extra, Person, Broadcast Producer, Political Appointer, sww_base, Primary Candidate, Organization, Pet Owner, Endorsee, First, TV Actor, Concept, Art Subject, Ranked item, Person Or Being In Fiction, Building Occupant, TV program guest, Topic, US President, TV Character, NNDB Person, My favorite things, Named person, Book Character, Context name, Legislator, Quotation Subject
+  visual_art, broadcast, organization, business, people, tv, influence, government, celebrities, m, award, fictional_universe, symbols, book, music, architecture, internet, media_common, event, film
+ 
+  2016 Olympics
+  SportingEvent
+  Topic, Olympic games, Event
+  olympics, time
+ 
+  Darla Moore
+  Person, BoardMember
+  Topic, Person, Organization leader
+  business, people
+ 
+  Frank Ocean
+  Person
+  Topic, Musical Artist, Celebrity, Person
+  celebrities, music, people
+ 
+  London 2012 shot put
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Event
+  time
+ 
+  Blue moon
+  None
+  Topic, Ranked item, Composition
+  music, award
+ 
+  London 2012 Basketball
+  Sport, Invention, FieldOfStudy, AwardDiscipline, OlympicEventCompetition
+  Olympic venue, Project focus, Topic, Location, Sports Facility, Structure
+  architecture, olympics, location, projects, sports
+ 
+  UFC
+  None
+  Business Operation, Film subject, MMA Organization, Brand, Employer, Topic, Sponsor, Organization
+  organization, film, business
+ 
+  2012 Olympics
+  SportingEvent
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  Olga Korbut
+  Person, AwardWinner, OlympicAthlete
+  Olympic athlete, Award Winner, Athlete, Topic, Person, NNDB Person
+  sports, olympics, award, people
+ 
+  Mars landing
+  None
+  Topic, Concept, Film subject
+  film
+ 
+  London 2012 Track and Field
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  Wiz Khalifa
+  Person, MusicalArtist
+  Musician, Musical Artist, Award Winner, Celebrity, Social network user, Person extra, Topic, Person, Film actor, Award Nominee, Composer, sww_base, Myspace user, Context name
+  people, celebrities, award, music, internet, film
+ 
+  Blue Moon August 2012
+  None
+  Topic
+  
+ 
+  Clint Eastwood speech
+  Person, Actor, Composer, MusicalArtist, Politician, AwardNominee, AwardWinner, Dedicatee, Dedicator, FilmActor, FilmDirector, FilmMusicContributor, FilmProducer, MilitaryPerson, MusicalGroupMember, TVActor, TVDirector
+  Topic, Literary Series
+  book
+ 
+  London 2012 Fencing
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Event
+  time
+ 
+  Kobe Bryant
+  Person, Athlete, AwardWinner, BasketballPlayer, Celebrity, OlympicAthlete, SportsLeagueAwardWinner, FilmActor, TVActor
+  Award Winner, Sponsored Recipient, Person or entity appearing in film, Film actor, Measured person, Daylife Topic, Athlete extra, Product Endorser, Injured person, Celebrity, Athlete, Drafted athlete, Person extra, Person, Sports League Award Winner, sww_base, TV Actor, Olympic athlete, Context name, Topic, Basketball Player, NNDB Person
+  basketball, business, people, tv, celebrities, award, sports, olympics, film
+ 
+  Drew Peterson
+  Person
+  Topic, Person, Convicted criminal
+  people
+ 
+  Living Social
+  None
+  Topic, Website
+  internet
+ 
+  Dominique Dawes
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Missy Franklin
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Ichiro
+  Person, SportsLeagueAwardWinner
+  Baseball Player, Athlete, Person or entity appearing in film, Athlete extra, Topic, Person, Sports League Award Winner, Film actor, NNDB Person, Measured person
+  sports, baseball, film, people
+ 
+  Spice Girls
+  None
+  Award Nominee, Film music contributor, Award Winner, Ontology Instance, SNL musical guest, Social network user, Person or entity appearing in film, Topic, Musical Artist, Musical Group, Broadcast Artist
+  broadcast, music, film, award, internet
+ 
+  Miley Cyrus
+  Person, Composer, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, Celebrity, Lyricist, MusicalGroupMember, FilmActor, TVActor
+  Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, Film actor, Broadcast Artist, Measured person, Daylife Topic, Musician, Composer, Celebrity, Social network user, Person extra, Person, sww_base, Organization, Pet Owner, NNDB Person, icon, TV Actor, Film music contributor, SHCE021709, Twitter User, Lyricist, TV program guest, Topic, Musical Artist, Parodied Subject, Book Character, Context name
+  people, tv, influence, celebrities, award, broadcast, book, music, internet, film
+ 
+  Ye Shiwen
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  people, olympics, sports
+ 
+  Oscar Pistorius
+  Person
+  Topic, Person, Athlete, Tournament event competitor, Olympic athlete
+  sports, olympics, people
+ 
+  Meteor Shower August 2012
+  None
+  None
+  None
+ 
+  London 2012 Javelin
+  None
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  Olympics closing ceremony
+  SportingEvent
+  Topic, Event
+  time
+ 
+  Gabby Douglas hair
+  Person
+  None
+  None
+ 
+  David Rakoff
+  Person, Writer, AwardNominee, AwardWinner, FilmWriter, BroadcastArtist, FilmActor
+  Deceased Person, Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, Topic, Person, Film actor, NNDB Person, Film writer, Broadcast Artist
+  people, influence, award, broadcast, book, film
+ 
+  Penn State
+  Organization, Location, CollegeUniversity, FootballTeam, University
+  Tagged Topic, Ranked item, Educational institution extra, Educational Institution Campus, Organization member, Educational Institution, Employer, Topic, Thing, Location, Organization, Endowed Organization, College/University
+  business, m, award, location, organization, education
+ 
+  Prince Harry Vegas pictures
+  Person
+  Topic, Award category
+  award
+ 
+  Olympic Games
+  None
+  Recurring Event, Sports League Championship Event, Ontology Instance, Recurring event, Topic, Broadcast Genre, Type/domain equivalent topic, Name source, Literature Subject, Type of thing
+  symbols, freebase, sports, broadcast, book, time
+ 
+  John Witherspoon
+  Person
+  Topic, Person, Film actor, Film producer, TV Actor
+  tv, film, people
+ 
+  Prince Harry
+  Person
+  Context name, Celebrity, Noble person, Topic, Person, Royal House Member, sww_base, British Royal Family, Family member, Person Or Being In Fiction
+  fictional_universe, royalty, people
+ 
+  Chris Cooley
+  Person, Athlete, FootballPlayer
+  Measured person, Player, Athlete, Athlete extra, Topic, Person, Film actor, American football player
+  sports, american_football, film, people
+ 
+  Carlton
+  Person
+  Dated location, Bibs Location, dbpedia_import, Statistical region, Topic, Location, Australian Suburb, City/Town/Village
+  m, location
+ 
+  CONDOLEEZZA RICE
+  Person
+  Object of Parody, Organization leader, Award Winner, Award Nominee, Person or entity appearing in film, Film actor, Literature Subject, Public speaker, Author, Decision-maker, Politician, Academic, Political Appointer, Moral advocate, Ranked item, TV Actor, Person, Person Or Being In Fiction, Topic, Musical Artist, NNDB Person, Name source
+  business, government, tv, fictional_universe, people, award, symbols, book, music, education, event, film
+ 
+  Mountain Lion
+  None
+  School mascot, Company, Ontology Instance, Character Species, Organism Classification, Species Described by Lewis & Clark, Organic Object, Topic, Thing, Food-web member, Animal, sww_base, Test, Things, Species, Organic Thing
+  fictional_universe, biology, education, m
+ 
+  Rory McIlroy
+  Person, Golfer
+  Topic, Person, Athlete, Golfer, Golfer extra
+  sports, people
+ 
+  Khan Academy
+  Organization
+  Topic, Award-Winning Work, Non-profit organization, Organization, Employer
+  organization, business, award
+ 
+  Meteor Shower
+  None
+  Type Profile, Type
+  freebase, type
+ 
+  Michigan Football
+  Sport, Location, PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState
+  Sports team extra, American football team, School sports team extension, Rival, Topic, Sports Team, School sports team
+  american_football, sports
+ 
+  Kellie Pickler
+  Person, MusicalArtist, TVActor
+  TV Actor, Musical Artist, SHCE021709, Celebrity, Musician, TV program guest, Topic, Person, sww_base, Practicer of diet
+  tv, music, celebrities, people
+ 
+  Hurricane Isaac 2012
+  None
+  Topic
+  
+ 
+  Adrian Gonzalez
+  Person
+  Measured person, Athlete, Drafted athlete, Athlete extra, Topic, Person, Sports League Award Winner, Baseball Player
+  sports, baseball, people
+ 
+  Perez Hilton
+  Person, FilmCharacter, Celebrity, FilmActor, TVActor
+  TV Actor, Website Owner, Celebrity, Social network user, Person or entity appearing in film, TV program guest, Topic, Person, Film actor, NNDB Person, sww_base, Friends
+  tv, internet, celebrities, film, people
+ 
+  Bourne Legacy
+  None
+  Topic, Work of Fiction, Book, Written Work, Adapted Work
+  fictional_universe, book, media_common
+ 
+  Prince Harry Vegas
+  Person
+  Content, Award-Nominated Work, Movie, Netflix Title, Topic, Adaptation, Adapted Work, Film
+  media_common, award, film
+ 
+  Kevin Hart
+  Person
+  TV Actor, Award Winner, Influence Node, Person or entity appearing in film, TV Writer, Person extra, Topic, Person, Film actor, Comedian, Film producer, Film writer
+  tv, influence, film, award, people
+ 
+  Pussy Riot
+  None
+  Topic, Musical Artist, Musical Group, Processed with Review Queue
+  music
+ 
+  Gabby Douglas
+  Person
+  Topic, Person, Musician, Musical Artist
+  music, people
+ 
+  Olympic medal count
+  None
+  Topic, Ontology Instance, Recurring event, Literature Subject
+  book, time
+ 
+  Jake Dalton
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  London 2012 Artistic Gymnastics Men's Rings
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic
+  
+ 
+  Honey Boo Boo
+  None
+  Topic, TV Program
+  tv
+ 
+  Espn College Football
+  Sport
+  Topic
+  
+ 
+  What Is Labor Day
+  Holiday
+  Market Area, Location of events, Area served, Film subject, Military Combatant, Organization member, sww_base, Head of state, Location, Sports Team Location, Literature Subject, Geographic scope, issuer, Breed origin, Exhibition subject, Nuclear-armed country, Place of interment, Audio Equipment Manufacturer, Countries, Radio subject, Flag referent, Rival, Abbreviated Topic, Naval combatant, Cyclone-affected area, Thoroughbred racehorse origin, Taxonomy Subject, Name source, Mobile phone region, Geographical scope, Country, FGDC Keyword, Filming location, Statistical region, Governmental Jurisdiction, Focal location, Organization scope, Fictional Setting, Constitutional Republic, Dated location test, Employer, Athletics country, Military power, Dated location, Beer country / region, First Achievement Category, Cryptid area of occurrence, Speech topic, Country of origin, Yacht-racing Country, Entity, Topic, Fishery location, United Nations member state, Olympic participating country, FGDC Location keyword, Sport Country, Nuclear power, Video Game Region, BV: Geography, Former British Colonies and Dominions, Quotation Subject
+  meteorology, biology, olympics, exhibitions, business, people, food, fictional_universe, organization, government, m, sports, symbols, media_common, book, radio, location, military, cvg, event, film
+ 
+  Olympics 2012 schedule
+  SportingEvent
+  Topic, Ship
+  boats
+ 
+  Elizabeth Warren
+  Person, FilmActor
+  Politician, Author, Person or entity appearing in film, Topic, Person, Film actor, NNDB Person
+  government, book, film, people
+ 
+  London 2012 rhythmic gymnastics
+  Sport, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  Sherman Hemsley
+  Person, Actor, AwardNominee, FilmActor, TVActor
+  TV Actor, Deceased Person, Influence Node, Award Nominee, Topic, Person, Film actor, NNDB Person
+  tv, influence, film, award, people
+ 
+  Neil Armstrong
+  Person, Astronaut, AwardWinner, MilitaryPerson
+  TV Personality, TV Actor, Award Winner, Influence Node, Celebrity, Military Person, Person or entity appearing in film, Topic, Person, Film actor, Astronaut, Deceased Person, Ontology Instance, Music video performer, Literature Subject, Organization member, Name source
+  spaceflight, tv, people, influence, award, symbols, book, music, organization, military, film
+ 
+  Kathi Goertzen
+  Person, TVPersonality
+  Topic, Person, TV Personality, Deceased Person
+  tv, people
+ 
+  Gabby Olympic Gymnast
+  None
+  Topic, TV Episode
+  tv
+ 
+  US Open Tennis
+  Country, Location, Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor
+  Topic, Recurring event, Tennis Tournament
+  tennis, time
+ 
+  Zeek Rewards
+  None
+  None
+  None
+ 
+  Guild Wars 2
+  None
+  Topic, Video Game
+  cvg
+ 
+  Blue Moon
+  None
+  Topic, Ranked item, Composition
+  music, award
+ 
+  London 2012 hurdles
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Olympic event competition, Literature Subject, Event
+  book, olympics, time
+ 
+  McKayla Maroney
+  Person
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Alabama Football
+  Sport, Location, PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState
+  Topic, Sports team extra, Context name, Sports Team, American football team
+  american_football, sports
+ 
+  Taio Cruz
+  Person, MusicalArtist, BroadcastArtist
+  Musician, Musical Artist, Social network user, Topic, Person, Myspace user, Record Producer, Broadcast Artist
+  broadcast, internet, music, people
+ 
+  London 2012 field hockey
+  Sport, OlympicEventCompetition
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  USA Basketball
+  Sport, Invention, FieldOfStudy, AwardDiscipline, OlympicEventCompetition
+  Topic, Organization, Sports Association, Membership organization, Employer
+  organization, business, sports
+ 
+  Olympics Opening Ceremony
+  SportingEvent
+  Topic, Award-Winning Work, Event, TV Episode
+  tv, award, time
+ 
+  hurricane
+  NaturalDisaster
+  Topic, Film, Netflix Title
+  media_common, film
+ 
+  Scarlett Johansson
+  None
+  SNL host, Social network user, Measured person, Musician, Musical Artist, Award Winner, Influence Node, Celebrity, Award Nominee, Person or entity appearing in film, Film producer, Topic, Person, Film actor, sww_base, Ranked item, TV Actor, Film writer, Theater Actor
+  theater, people, tv, influence, celebrities, award, music, internet, film
+ 
+  Star Trek: The Original Series
+  None
+  Work of Fiction, TV Program, Award-Nominated Work, Quotation Source, Netflix Title, Topic, Award-Winning Work
+  tv, fictional_universe, media_common, award
+ 
+  US weekly
+  Country, Location, Region, AdministrativeDivision, GovernmentalJurisdiction, FilmEditor
+  Brand, Social network user, Employer, Topic, Magazine, Periodical
+  book, business, internet
+ 
+  BBC
+  None
+  API Provider, Author, Award Winner, Award Nominee, Employer, Periodical Publisher, Literature Subject, Broadcast Artist, TV Producer, Website Owner, Film producer, Radio subject, Musical Recording, TV Program Creator, Organizations, TV Network, Business Operation, Radio station owner, TV station owner, Netflix Genre, Broadcast Producer, Software Developer, Organization, Production company, Topic, Film distributor, News-reporting organisation
+  business, tv, award, broadcast, media_common, computer, music, radio, internet, organization, book, film
+ 
+  British Open Leaderboard
+  None
+  None
+  None
+ 
+  MLB Trade Rumors
+  None
+  None
+  None
+ 
+  Microsoft
+  Company, OperatingSystemDeveloper, ProcessorManufacturer, SoftwareDeveloper, VentureFundedCompany, VideoGameDeveloper, VideoGamePublisher, ProgrammingLanguageDesigner
+  Author, Employer, Organization partnership, Programming Language Designer, Typeface Foundry, Inventor, Literature Subject, Organization leader, Topic, Website Owner, Software Creator, Plaintiff, Company, Venture Investor, Educational Institution, Processor Manufacturer, Proposal agent, Venture Funded Company, Consumer company, Manufacturer, Logos, Business Operation, Conference sponsor, Operating System Developer, Rival, Ranked item, Software Developer, Organization, UoA Vendor, Top Level Domain Sponsor, Video Game Publisher, RFID Company, Ontology Instance, Video Game Developer, File Format Creator, Computer Manufacturer/Brand, Sponsor, Litigant, Issuer, Quotation Subject
+  law, conferences, business, venture_capital, m, award, computer, media_common, internet, organization, education, book, cvg
+ 
+  Olympics Opening Ceremony Time
+  SportingEvent
+  Topic, Award-Winning Work, Event, TV Episode
+  tv, award, time
+ 
+  Olympics 2012
+  SportingEvent
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  Minka Kelly sex tape
+  Person, Actor, Celebrity, FilmActor, TVActor
+  None
+  None
+ 
+  Olympic Medal Count 2012
+  None
+  Topic, Ontology Instance, Recurring event, Literature Subject
+  book, time
+ 
+  Medal Count 2012 Olympics
+  SportingEvent
+  Topic, Ontology Instance, Recurring event, Literature Subject
+  book, time
+ 
+  Snooki baby
+  None
+  Topic, TV Episode
+  tv
+ 
+  Beady Eye
+  None
+  Topic, Musical Artist
+  music
+ 
+  Colorado shooting
+  StateOrCounty, Location, PoliticalDistrict, AdministrativeDivision, GovernmentalJurisdiction, USState
+  Topic, Form of attack
+  
+ 
+  Sikh Temple
+  Facility
+  Religious Organization, Concept, Ontology Instance, Topic, Religion, Ethnicity
+  religion, people
+ 
+  Dallas Cowboys
+  Organization, SportsTeam, FootballTeam, ProfessionalSportsTeam
+  Literature Subject, Film subject, American football team, Rival, Context name, Professional Sports Team, Person or entity appearing in film, Topic, Player, Sports team extra, Ontology Instance, Sports Team
+  american_football, book, film, sports
+ 
+  Sam Claflin
+  Person
+  Topic, Person, Film actor, TV Actor
+  tv, film, people
+ 
+  Michael Phelps
+  Person
+  Breakfast Cereal Box Feature, SNL host, Social network user, Measured person, Convicted criminal, Olympic athlete, Award Winner, Product Endorser, Athlete, Sponsored Recipient, Person or entity appearing in film, Person extra, Topic, Person, Author, NNDB Person, sww_base, Public figure with medical condition, Celebrity
+  business, people, celebrities, award, sports, book, olympics, internet, medicine, film
+ 
+  US Weekly
+  Company, Magazine
+  Brand, Social network user, Employer, Topic, Magazine, Periodical
+  book, business, internet
+ 
+  Lolo Jones
+  Person, OlympicAthlete
+  Track and Field athlete, Olympic athlete, Athlete, Tournament event competitor, Topic, Person
+  sports, olympics, people
+ 
+  Sanya Richards Ross
+  Person
+  Track and Field athlete, Olympic athlete, Athlete, Tournament event competitor, Topic, Person, Olympic Medalist
+  sports, olympics, people
+ 
+  London 2012 Track And Field
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Olympic games, Multi-event tournament, Topic, Project, Literature Subject, Event
+  book, olympics, time, projects, sports
+ 
+  London 2012 soccer
+  Sport
+  Topic, Football League, Recurring event
+  soccer, time
+ 
+  Joe Biden
+  Person, Politician, Celebrity, CompanyFounder, FootballPlayer, OperaCharacter, PoliticalAppointer, U.S.Congressperson, USVicePresident
+  Cabinet member, Convention Speaker, Vice Presidential Nominee, Public speaker, Measured person, Author, Chivalric Order Member, Proposition Issue, Athlete, Politician, U.S. Congressperson, Celebrity, Social network user, Person, Political Appointer, sww_base, Organization founder, US Vice President, Art Subject, Person Or Being In Fiction, Topic, Lawyer, American football player, Legislator
+  visual_art, government, fictional_universe, american_football, celebrities, event, sports, royalty, internet, organization, book, people
+ 
+  Megan Rossee
+  Person
+  Topic, Person, Celebrity
+  celebrities, people
+ 
+  Expendables 2
+  None
+  Topic, Processed with Review Queue, Film
+  film
+ 
+  Lindsay Lohan
+  Person
+  Animal owner, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, Film actor, Convicted criminal, Broadcast Artist, TV Personality, Measured person, Musician, Product Endorser, SNL host, SNL actor, Celebrity, Social network user, Person extra, Person, sww_base, Organization, Pet Owner, TV Actor, Ranked item, Twitter User, TV program guest, Topic, Musical Artist, NNDB Person, Myspace user
+  biology, business, people, tv, influence, celebrities, award, broadcast, music, internet, film
+ 
+  NBC
+  None
+  Editorial Topic, TV Network, Award Nominee, Building Occupant, Advertised thing, Award Winner, News-reporting organisation, Brand, Venture Investor, Product, Employer, Topic, Film distributor, Business Operation, Ontology Instance, Organization, Broadcast Content, TV station owner, TV Program Creator, Issuer
+  business, tv, venture_capital, award, broadcast, architecture, organization, film
+ 
+  NBA
+  None
+  Business Operation, Ontology Instance, Brand, Social network user, Employer, Topic, Sports Association, Concept, News-reporting organisation, Organization, Sports Team Owner, Event category
+  organization, internet, business, sports
+ 
+  Kristen Stewart
+  Person, Actor, AwardNominee, AwardWinner, Celebrity, FilmActor, TVActor
+  TV Actor, Measured person, Award Winner, Influence Node, Celebrity, Award Nominee, Person or entity appearing in film, Person extra, Topic, Person, Film actor, NNDB Person, sww_base, Pet Owner
+  people, tv, influence, celebrities, award, film
+ 
+  Pretty Little Liars
+  None
+  Broadcast Content, TV Program, Award-Nominated Work, Netflix Title, Topic, Award-Winning Work
+  tv, broadcast, media_common, award
+ 
+  Lollapalooza
+  None
+  Recurring event, Music Festival, Recurring festival or celebration, Topic, Recurring event extra, Literature Subject, Recurring music festival
+  book, music, time
+ 
+  Columbine
+  None
+  Topic, Dated location, Location, US Census Designated Place, Statistical region
+  location
+ 
+  Bachelorette
+  None
+  Film song performer, Musician, Person, Social network user, Topic, Musical Artist
+  internet, music, film, people
+ 
+  Plaquemines Parish
+  City
+  US County, Administrative Division, Statistical region, Administrative Area, U.S. county, Topic, Dated location, Location, HUD Foreclosure Area
+  location
+ 
+  Serena Williams
+  Person, TennisPlayer, AwardWinner, Celebrity, OlympicAthlete, TennisTournamentChampion, TVActor
+  Award Winner, Person extra, Tournament event competitor, Literature Subject, Measured person, Product Endorser, Athlete extra, Tennis player extra, SI Swimsuit Model, Athlete, Fashion model, Tennis Tournament Champion, Celebrity, Person or entity appearing in film, Person, sww_base, TV Actor, Olympic athlete, Tennis Player, TV program guest, Topic, NNDB Person
+  business, people, tv, tennis, celebrities, award, sports, book, olympics, film
+ 
+  London 2012 fencing
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Event
+  time
+ 
+  Justin Theroux
+  Person, Actor, FilmActor, FilmProducer, TheaterActor, TVActor, FilmWriter
+  TV Actor, Film director, Influence Node, Celebrity, Film story contributor, Person or entity appearing in film, Topic, Person, Film actor, NNDB Person, Film producer, Film writer, Theater Actor
+  theater, people, tv, celebrities, influence, film
+ 
+  Chad Johnson Twitter
+  Person
+  TV Personality, Measured person, Context name, Player, American football player extra, Athlete, Social network user, Person extra, Athlete extra, Topic, Person, sww_base, Contestant, American football player, Celebrity
+  people, tv, american_football, celebrities, sports, internet
+ 
+  Christian Bale Visits Victims
+  Person, Actor, MusicalArtist, AwardNominee, AwardWinner, Celebrity, FilmActor, FilmProducer, TVActor
+  None
+  None
+ 
+  Farrah Abraham
+  Person
+  Topic, Person, Author
+  book, people
+ 
+  Rich Kids of Instagram
+  None
+  None
+  None
+ 
+  Tyrann Mathieu
+  Person
+  Topic, Person, Athlete, American football player, Context name
+  sports, american_football, people
+ 
+  Chariots Of Fire
+  None
+  topic, Award-Nominated Work, Netflix Title, Topic, Ranked item, Award-Winning Work, Film
+  media_common, award, film
+ 
+  Dwight Howard
+  Person, Athlete, BasketballPlayer, OlympicAthlete, FilmActor
+  Measured person, Olympic athlete, Athlete, Drafted athlete, Person or entity appearing in film, Athlete extra, Person extra, Topic, Person, Sports League Award Winner, Film actor, Basketball Player, Context name
+  sports, basketball, olympics, film, people
+ 
+  Tropical Storm Isaac
+  NaturalDisaster
+  Topic
+  
+ 
+  West Nile virus symptoms
+  None
+  Medical Term, Infectious disease, Cause Of Death, Medical condition in fiction, Ontology Instance, Disease, ICD-9-CM Classification, Topic, Pet disease or medical condition, Disease or medical condition, Infectious Disease, Risk Factor, Disease cause
+  medicine, fictional_universe, people
+ 
+  Shark Week 2012
+  None
+  Topic, TV Season
+  tv
+ 
+  Marilyn Monroe
+  Person, Actor, FilmCharacter, MusicalArtist, AwardNominee, AwardWinner, Celebrity, FilmActor, MusicalGroupMember, OperaCharacter, TVActor
+  Public figure with medical condition, Film subject, Author, Award Winner, Influence Node, Award Nominee, Person or entity appearing in film, TV subject, Film actor, Literature Subject, Dead by 40, TV Personality, Measured person, Musician, Social Set member, Namesake, Celebrity, Social network user, Person, Deceased Person, sww_base, icon, TV Actor, Ranked item, Ontology Instance, Person Or Being In Fiction, Playmate, TV program guest, Topic, Musical Artist, NNDB Person, Name source, Context name
+  people, tv, influence, celebrities, award, symbols, fictional_universe, music, internet, medicine, book, film
+ 
+  Maria Montessori
+  Person, Physician
+  Organization founder, Physician, Deceased Person, Author, Influence Node, Topic, Person, NNDB Person, Innovator
+  medicine, organization, book, influence, people
+ 
+  Opening Ceremony London 2012
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic
+  
+ 
+  Ryan Lochte
+  Person, OlympicAthlete, TVActor
+  Topic, Person, Athlete, Olympic athlete
+  sports, olympics, people
+ 
+  Phillies
+  Organization
+  TV Actor, Baseball Team, Sports team extra, Ontology Instance, Professional Sports Team, Employer, Topic, Sports Team
+  tv, baseball, business, sports
+ 
+  Dana Vollmer
+  Person, OlympicAthlete, TVActor
+  Topic, Person, Athlete, Tournament event competitor, Olympic athlete
+  sports, olympics, people
+ 
+  Aaron Ross
+  Person, Athlete, FootballPlayer
+  Measured person, Athlete, Drafted athlete, Athlete extra, Topic, Person, American football player
+  sports, american_football, people
+ 
+  Medal Count 2012
+  None
+  Topic, Award category, Namesake
+  symbols, award
+ 
+  Eddie Murphy died
+  Person, MusicalArtist, AwardNominee, AwardWinner, BroadcastArtist, Celebrity, Comedian, FilmDirector, FilmProducer, TVProducer, FilmActor, FilmWriter, TVActor, TVWriter
+  Motivation, Club interest, event, Topic, News-reported event, Literature Subject, Event
+  organization, book, time
+ 
+  London 2012 closing ceremony
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Event
+  time
+ 
+  Kinesio Tape
+  None
+  Topic
+  
+ 
+  NBC Olympics schedule
+  Company, Broadcast, AwardNominee, AwardWinner, FilmDistributor, TVNetwork, TelevisionStation, TVWriter
+  Topic, TV Program
+  tv
+ 
+  London 2012 Diving
+  City, AdministrativeDivision, GovernmentalJurisdiction, OlympicHostCity, PlaceWithNeighborhoods
+  Topic, Recurring event, Tourist attraction, Place, Athletics Marathon
+  travel, time
+ 
+  Teen Choice Awards 2012
+  None
+  Topic, Award ceremony, Event
+  award, time
+ 
+  National Hurricane Center
+  Organization
+  Topic, Social network user, Meteorological service, Employer
+  meteorology, business, internet
+ 
+  Misty May And Kerri Walsh
+  Person, OlympicAthlete, TVActor
+  Olympic athlete, Athlete, TV program guest, Topic, Person, Beach volleyball player
+  tv, sports, olympics, people
+ 
+  Sandra Fluke
+  Person
+  Topic, Person
+  people
+ 
+  Tony Sly
+  Person
+  Topic, Musical Artist, Musician, Deceased Person, Person
+  music, people
+ 
+  Sikh
+  None
+  Religious Organization, Concept, Ontology Instance, Topic, Religion, Ethnicity
+  religion, people
+ 
+  Michael Strahan
+  Person, Athlete, Celebrity, FootballPlayer, TVActor
+  TV Actor, Measured person, Athlete, Social network user, Twitter User, Person or entity appearing in film, Topic, Person, NNDB Person, sww_base, TV Personality, American football player, Celebrity
+  people, tv, american_football, celebrities, sports, internet, film

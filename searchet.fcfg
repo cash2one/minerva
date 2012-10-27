@@ -1,0 +1,23 @@
+% start S
+# searchet:http://searchet.baidu.com/ontology#
+
+# people
+S[SEM=(show + profile + ?person)] -> PEOPLE[SEM=?person]
+PEOPLE[SEM='person'] -> 'People'
+
+# event
+S[SEM=(show + carousel + ?event)] -> EVENT[SEM=?event]
+EVENT[SEM='event'] -> 'Time'
+EVENT[SEM='event'] -> 'Event'
+
+# flight
+S[SEM=(show + ?flight + itinerary + with + ?locations + and + ?date)] -> FLIGHT[SEM=?flight] LOCATIONS[SEM=?locations] DATE[SEM=?date]
+S[SEM=(show + itinerary + with + ?locations + and + ?date)] -> LOCATIONS[SEM=?locations] DATE[SEM=?date]
+S[SEM=(show + ?flight + itinerary + with + ?locations)] -> FLIGHT[SEM=?flight] LOCATIONS[SEM=?locations]
+S[SEM=(show + itinerary + with + ?locations)] -> LOCATIONS[SEM=?locations]
+LOCATIONS[SEM=?location] -> LOCATION[SEM=?location] LOCATION[SEM=?location] | LOCATION[SEM=?location]
+DATE[SEM='date'] -> 'Date'
+FLIGHT[SEM='airline'] -> 'Flight'
+LOCATION[SEM='cities'] -> 'Http://searchet.baidu.com/ontology#place'
+
+# book
