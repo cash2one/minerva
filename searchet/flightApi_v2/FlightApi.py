@@ -56,7 +56,7 @@ def search_flight(departure_loc, arrival_loc, year, month, day):
     query = flight_base + schedule + date + api
     print query
     res = urllib.urlopen(query).read()
-    file = open('/home/penser/tmp/flight.xml', 'w')
+    file = open('./tmp/flight.xml', 'w')
     file.write(str(res))
     return get_flight_info(res);
 
